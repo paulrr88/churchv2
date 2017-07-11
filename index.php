@@ -66,15 +66,15 @@
   <!-- Primary Page Layout
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
 
-        <main class="content" role="main" style="background: blue; color: white;"><!--Container for ALL content, everything inside this-->
+        <main class="content" role="main"><!--Container for ALL content, everything inside this-->
             <div class="hometop">
                 <div class="padding-3-right">
-                    <article class="four columns hometop-news u-pull-right" role="article">
-                        <h2>Important piece of news</h2>
+                    <article class="background-white50 boxshadow-softextra6 four columns hometop-news u-pull-right" role="article">
+                        <h2 class="centre padding-1">Important piece of news</h2>
 
                         <p>Blurb here about whatever the news is about!</p>
                     </article>
-                    <article class="six columns" role="article">
+                    <article class="background-white50 boxshadow-softextra6 clear six columns margin-1-top" role="article">
                         <p>Our life at FBC is founded on the scriptures and the 
                             saving work of Jesus Christ, and our aim is to make Jesus 
                             and his love the focus of everything we do. Our worship 

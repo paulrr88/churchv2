@@ -301,7 +301,18 @@ ul.nostyle {                                             /* removes styling from
   background: #50a6cd;
 }
 
+.background-white50 {
+    /* Fallback for web browsers that don't support RGBa */
+    background-color: rgb(255, 255, 255);
+    
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
 /*End background colours*/
+
+.boxshadow-softextra6 {
+    box-shadow: 6px 6px 20px #666;
+}
 
 .centre {
   text-align: center;
@@ -335,13 +346,15 @@ figure.fluid-images-3 img:first-child {
 
 /*Top home area with picture of church etc and boxes*/
 .hometop {
-    background-color: lightblue;
     height: 596px;
     padding: 3rem 0 0 0;
 }
 .hometop-news {
-    background-color: purple;
+    border-top: 15px solid #fea626;
     height: 200px;
+}
+.hometop-news h2 {
+    color: #ff7043;
 }
 /*End of top home area*/
 
@@ -357,19 +370,22 @@ figure.fluid-images-3 img:first-child {
 }
 
 .margin-1 {
-  margin: 1rem;
+    margin: 1rem;
 }
 .margin-1-left {
-  margin-left: 1rem;
+    margin-left: 1rem;
 }
 .margin-1-right {
-  margin-right: 1rem;
+    margin-right: 1rem;
+}
+.margin-1-top {
+    margin-top: 1rem;
 }
 .margin-4 {
-  margin: 4rem;
+    margin: 4rem;
 }
 .margin-centre {
-  margin: 0 auto;
+    margin: 0 auto;
 }
 
 .nomargin {
