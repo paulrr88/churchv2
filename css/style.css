@@ -19,7 +19,7 @@ a:hover {
 
 body {
   background: #50a6cd;
-  font-family: "Arial", sans-serif;
+  font-family: "Trebuchet MS", sans-serif;
 }
 
 figure {
@@ -28,7 +28,7 @@ figure {
 }
 
 h1,h2,h3,h4,h5,h6 {
-  font-family: "BenchNine", sans-serif;
+  font-family: "Alegreya Sans SC", sans-serif;
   font-weight: bold;
   margin: 0;
   padding: 0;
@@ -176,19 +176,22 @@ IDs and classes
 /* Navigation IDs */
 
 #nav-main {
-
+    background: #fff;
 }
 #nav-main ul {
     padding: 0;
     margin: 0 auto;
     text-align: center;
-    width: 50%;
+    width: 100%;
 }
 #nav-main ul li {
+    color: #ffa726;
     display: inline-block;
     *display: inline;                                       /* IE7 */
-    *zoom: 1;
-    padding-left: 1rem;
+        *zoom: 1;
+    font-family: "Alegreya Sans SC", sans-serif;
+    font-size: 3rem;
+    padding-left: 3rem;
 }
 
 #sitemap {
@@ -213,8 +216,8 @@ IDs and classes
 }
 
 #top {                                                    /* navigation links at top of each page */
-  background: purple;
   color: #fff;
+  font-family: "Alegreya Sans SC", "Trebuchet MS", sans-serif;
   font-size: 1.75rem;
   text-align: right;
   width: 100%;                                            /* helps with centring navigation */
@@ -307,6 +310,13 @@ ul.nostyle {                                             /* removes styling from
   clear: both;
 }
 
+/*Main Container*/
+.container {
+    margin: 0 auto;
+    width: 80%;
+}
+/*End of Main Container*/
+
 figure.fluid-images-3 img {     /*figure area containing 3 images side by side*/
   float: left; /*Lets them stack*/
   max-width: 30.33%; /*-3% due to padding-left %*/
@@ -322,6 +332,18 @@ figure.fluid-images-3 img:first-child {
 .fluid-half {
   max-width: 50%;
 }
+
+/*Top home area with picture of church etc and boxes*/
+.hometop {
+    background-color: lightblue;
+    height: 596px;
+    padding: 3rem 0 0 0;
+}
+.hometop-news {
+    background-color: purple;
+    height: 200px;
+}
+/*End of top home area*/
 
 .inline {
   display: inline;
@@ -382,6 +404,19 @@ figure.fluid-images-3 img:first-child {
   float: left;
   height: 3em;
   width: 100%;
+}
+
+.textbig {
+    font-size: 7rem;
+}
+.textshadow-mid {
+    text-shadow: 4px 4px 8px #333;
+}
+.textshadow-soft {
+    text-shadow: 4px 4px 12px #666;
+}
+.textwhite {
+    color: #fff;
 }
 
 .vertical-top {

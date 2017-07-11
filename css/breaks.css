@@ -85,10 +85,6 @@
     font-size: 2rem;
   }
 
-  header {
-    height: 173px;                              /* Allows taglines to be snug under #header-title */
-  }
-
   table {
     font-size: 1.4rem;
   }
