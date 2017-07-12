@@ -1,32 +1,61 @@
-        <footer>
+        </div><!--END OF CONTAINER-->
+
+        <footer class="nopadding nomargin">
             <ul>
                 <li><a href="<!--$dir-->">Home</a></li>
-                <li><a href="<!--$dir-->events/">Events</a></li>
-                <li><a href="<!--$dir-->diary/">Diary</a></li>
-                <li><a href="<!--$dir-->news/">News</a></li>
-                <li><a href="<!--$dir-->videos/">Videos</a></li>
-                <li><a href="<!--$dir-->admin/">Admin</a></li>
+                <li><a href="<!--$dir-->events/">About Us</a></li>
+                <li><a href="<!--$dir-->diary/">Our Diary</a></li>
+                <li><a href="<!--$dir-->news/">Our Location/Address</a></li>
+                <li><a href="<!--$dir-->news/">Children/Youth Events</a></li>
+                <li><a href="<!--$dir-->videos/">Newssheet</a></li>
+                <li><a href="<!--$dir-->videos/">Holiday Clubs</a></li>
+                <li><a href="<!--$dir-->videos/">Community Outreach</a></li>
+                <li><a href="<!--$dir-->admin/">Contact Us</a></li>
                 <li><a href="<!--$dir-->findus/">Find Us</a></li>
+       
             </ul>
 
             <br />
+            <br />
 
             <div role="contentinfo"><!--Copyright info etc-->
-                <p><strong>&copy; <?php echo date('Y'); ?> Arun Sunshine Group | Designed by <a href="http://www.paulcomputerhelp.co.uk/">Paul Robinson</a></strong><br />
+                <h3 class="textwhite"><strong>&copy; <?php echo date('Y'); ?> Ferring Baptist Church :: Designed by <a href="http://www.paulcomputerhelp.co.uk/">Paul Robinson</a></strong><br />
 
                 <br />
                 <br />
 
-                <a href="<!--$dir-->perch/">Perch Login</a></p>
+                <a href="<!--$dir-->perch/">Perch Login</a></h3>
             </div>
 
             <br />
             <br />
             <br />
         </footer>
-    </div><!--END OF CONTAINER-->
+    
 
-  <!--$tablescript-->
+    <!--$tablescript-->
+
+    <!--Slick JavaScript-->
+
+    <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+    <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+    <script type="text/javascript" src="slick/slick.min.js"></script>
+
+    <script type="text/javascript">
+        $(document).ready(function(){
+          $('.your-class').slick({
+            adaptiveHeight: true, // makes height flexible for resizing I think
+            autoplay: true,
+            autoplaySpeed: 5000,
+            arrows: false,
+            dots: true,
+            fade: true,
+            pauseOnFocus: false,
+            pauseOnHover: false,
+            pauseOnDotsHover: true
+          });
+        });
+    </script>
 
 <!-- End Document
 –––––––––––––––––––––––––––––––––––––––––––––––––– -->

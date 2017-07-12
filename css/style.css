@@ -11,14 +11,14 @@ Basic element customisations - body, font faces, paragraph layout etc
 ------------------------- */
 
 a {
-  color: #0082ba;
+  color: #006a77;
 }
 a:hover {
-  color: #0FA0CE;
+  color: #005660;
 }
 
 body {
-  background: #50a6cd;
+  background: #bee9fc;
   font-family: "Trebuchet MS", sans-serif;
 }
 
@@ -57,9 +57,28 @@ h6 {
   font-size: 1.5rem;
 }
 
-header {
-  /*height: 220px; doesn't seem to make a difference anymore*/
-
+footer {
+    clear: both;
+    font-weight: bold;
+    margin: 0 auto;
+    text-align: center;
+}
+footer ul {
+    margin: 0;
+    padding: 1rem 0 0 0;
+}
+footer ul li {
+    border-right: 0.3rem solid #fff;
+    display: inline-block;
+    margin: 0;
+    padding: 0 1rem 0 0.7rem;
+}
+footer ul li:first-child {
+    padding-left: 0;
+}
+footer ul li:last-child {
+    border-right: 0;
+    padding-right: 0;
 }
 
 img {
@@ -118,7 +137,7 @@ IDs and classes
 }*/
 
 #banner {
-
+    background: url(../img/bg-banner.jpg) 0% 0%/100%;
 }
 #banner h1 {
 
@@ -301,17 +320,24 @@ ul.nostyle {                                             /* removes styling from
   background: #50a6cd;
 }
 
-.background-white50 {
+.background-white75 {
     /* Fallback for web browsers that don't support RGBa */
     background-color: rgb(255, 255, 255);
     
-    background-color: rgba(255, 255, 255, 0.5);
+    background-color: rgba(255, 255, 255, 0.75);
 }
 
 /*End background colours*/
 
+.border-top-15-orange {
+    border-top: 15px solid #ff7043;
+}
+.border-top-15-green {
+    border-top: 15px solid #d4e157;
+}
+
 .boxshadow-softextra6 {
-    box-shadow: 6px 6px 20px #666;
+    box-shadow: 6px 6px 20px #444;
 }
 
 .centre {
@@ -323,6 +349,7 @@ ul.nostyle {                                             /* removes styling from
 
 /*Main Container*/
 .container {
+    box-shadow: 6px 6px 200px #666;
     margin: 0 auto;
     width: 80%;
 }
@@ -346,6 +373,7 @@ figure.fluid-images-3 img:first-child {
 
 /*Top home area with picture of church etc and boxes*/
 .hometop {
+    background: url(../img/bg-hometop.jpg) 0% 0%/100%;
     height: 596px;
     padding: 3rem 0 0 0;
 }
@@ -357,6 +385,13 @@ figure.fluid-images-3 img:first-child {
     color: #ff7043;
 }
 /*End of top home area*/
+/*Home carousel underneath the above*/
+.homecarousel {
+    background: blue;
+    border-top: 15px solid #ffa726;
+    height: 347px;
+}
+/*End of home carousel area*/
 
 .inline {
   display: inline;
@@ -430,6 +465,9 @@ figure.fluid-images-3 img:first-child {
 }
 .textshadow-soft {
     text-shadow: 4px 4px 12px #666;
+}
+.textpurple {
+    color: #7e57c2;
 }
 .textwhite {
     color: #fff;

@@ -18,10 +18,14 @@
 
   <!-- CSS & JavaScript
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <link rel="stylesheet" href="css/normalize.css"><!-- reset file do not change -->
-  <link rel="stylesheet" href="css/skeleton.css"><!-- framework CSS -->
-  <link rel="stylesheet" href="css/style.css"><!--my additions-->
-  <link rel="stylesheet" href="css/breaks.css"><!--breakpoints of mine-->
+    <link rel="stylesheet" href="css/normalize.css"><!-- reset file do not change -->
+    <link rel="stylesheet" href="css/skeleton.css"><!-- framework CSS -->
+    <link rel="stylesheet" href="css/style.css"><!--my additions-->
+    <link rel="stylesheet" href="css/breaks.css"><!--breakpoints of mine-->
+    
+    <link rel="stylesheet" type="text/css" href="slick/slick.css"/>
+    <link rel="stylesheet" type="text/css" href="slick/slick-theme.css"/>
+				
 
   <script>document.createElement('main');</script><!--fix for support of HTML5 <main> element-->
 
@@ -38,7 +42,7 @@
 <body>
 
     <div class="container">
-        <header id="banner" role="banner" style="background-color: lightblue;"><!--Start of header area containing website title, graphics and navigation etc-->
+        <header id="banner" role="banner"><!--Start of header area containing website title, graphics and navigation etc-->
             <nav id="top" role="navigation"><!--Start of top information area-->
                 <ul>
                     <li><a href="sitemap/">Sitemap</a></li>
@@ -50,7 +54,7 @@
 
             <h5 class="centre textshadow-mid textwhite">Greystoke Road, Ferring, Worthing, West Sussex, BN12 5JL</h5>
 
-            <nav id="nav-main" role="navigation"><!--Main navigation start-->
+            <nav class="margin-1-top" id="nav-main" role="navigation"><!--Main navigation start-->
                 <ul>
                     <li>Home</li>
                     <li>About Us</li>
@@ -69,12 +73,12 @@
         <main class="content" role="main"><!--Container for ALL content, everything inside this-->
             <div class="hometop">
                 <div class="padding-3-right">
-                    <article class="background-white50 boxshadow-softextra6 four columns hometop-news u-pull-right" role="article">
+                    <article class="background-white75 boxshadow-softextra6 four columns hometop-news u-pull-right" role="article">
                         <h2 class="centre padding-1">Important piece of news</h2>
 
                         <p>Blurb here about whatever the news is about!</p>
                     </article>
-                    <article class="background-white50 boxshadow-softextra6 clear six columns margin-1-top" role="article">
+                    <article class="background-white75 border-top-15-orange boxshadow-softextra6 clear six columns margin-1-top" role="article">
                         <p>Our life at FBC is founded on the scriptures and the 
                             saving work of Jesus Christ, and our aim is to make Jesus 
                             and his love the focus of everything we do. Our worship 
@@ -91,37 +95,70 @@
                     </article>
                 </div><!--End of padding-3-right-->
             </div><!--End of hometop-->
+            
+            
+            
+            
+            
+            <p>Carousel test</p>
+            
+            <div class="your-class">
+              <div><img src="img/bg-banner.jpg"></div>
+              <div><img src="img/bg-hometop.jpg"></div>
+              <div>BLURP</div>
+            </div>
+            
+            
+            
+            
+            
+            <!--<div class="homecarousel twelve columns">
+                <div class="padding-3">
+                    <article class="background-white75 border-top-15-green boxshadow-softextra6 four columns u-pull-right" role="article">
+                        <h2 class="centre padding-1 textpurple">Title of an activity that we do</h2>
+
+                        <p>Blurb about activity here. This area would be animated to shift through several different areas of potential interest like Holiday Clubs, Friday Club, home groups maybe, anything else we’d like to feature and draw visitors’ attention to.</p>
+                    </article>
+                </div><!--End of padding-3-->
+            <!--</div><!--End of home carousel-->
         </main><!--End of content-->
 
-          <footer>
+          </div><!--END OF CONTAINER-->
+  
+          <footer class="nopadding nomargin">
               <ul>
                   <li><a href="">Home</a></li>
-                  <li><a href="events/">Events</a></li>
-                  <li><a href="diary/">Diary</a></li>
-                  <li><a href="news/">News</a></li>
-                  <li><a href="videos/">Videos</a></li>
-                  <li><a href="admin/">Admin</a></li>
+                  <li><a href="events/">About Us</a></li>
+                  <li><a href="diary/">Our Diary</a></li>
+                  <li><a href="news/">Our Location/Address</a></li>
+                  <li><a href="news/">Children/Youth Events</a></li>
+                  <li><a href="videos/">Newssheet</a></li>
+                  <li><a href="videos/">Holiday Clubs</a></li>
+                  <li><a href="videos/">Community Outreach</a></li>
+                  <li><a href="admin/">Contact Us</a></li>
                   <li><a href="findus/">Find Us</a></li>
+         
               </ul>
   
               <br />
+              <br />
   
               <div role="contentinfo"><!--Copyright info etc-->
-                  <p><strong>&copy; <?php echo date('Y'); ?> Arun Sunshine Group | Designed by <a href="http://www.paulcomputerhelp.co.uk/">Paul Robinson</a></strong><br />
+                  <h3 class="textwhite"><strong>&copy; <?php echo date('Y'); ?> Ferring Baptist Church :: Designed by <a href="http://www.paulcomputerhelp.co.uk/">Paul Robinson</a></strong><br />
   
                   <br />
                   <br />
   
-                  <a href="perch/">Perch Login</a></p>
+                  <a href="perch/">Perch Login</a></h3>
               </div>
   
               <br />
               <br />
               <br />
           </footer>
-      </div><!--END OF CONTAINER-->
+      
   
-    <script>
+      <script>
     // DELETE THIS IF NOT NEEDED ON THIS PAGE
     // fix for mobile table layout from http://sitesforprofit.com/responsive-tables-in-wordpress
   
@@ -145,6 +182,28 @@
       }
     }
   </script>
+  
+      <!--Slick JavaScript-->
+  
+      <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+      <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+      <script type="text/javascript" src="slick/slick.min.js"></script>
+  
+      <script type="text/javascript">
+          $(document).ready(function(){
+            $('.your-class').slick({
+              adaptiveHeight: true, // makes height flexible for resizing I think
+              autoplay: true,
+              autoplaySpeed: 5000,
+              arrows: false,
+              dots: true,
+              fade: true,
+              pauseOnFocus: false,
+              pauseOnHover: false,
+              pauseOnDotsHover: true
+            });
+          });
+      </script>
   
   <!-- End Document
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
