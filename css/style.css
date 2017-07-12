@@ -212,6 +212,9 @@ IDs and classes
     font-size: 3rem;
     padding-left: 3rem;
 }
+#nav-main ul li:first-child {
+    padding-left: 0;
+}
 
 #sitemap {
   font-size: 2.5rem;
@@ -349,7 +352,7 @@ ul.nostyle {                                             /* removes styling from
 
 /*Main Container*/
 .container {
-    box-shadow: 6px 6px 200px #666;
+    box-shadow: 6px 6px 200px #888;
     margin: 0 auto;
     width: 80%;
 }
@@ -387,9 +390,11 @@ figure.fluid-images-3 img:first-child {
 /*End of top home area*/
 /*Home carousel underneath the above*/
 .homecarousel {
-    background: blue;
     border-top: 15px solid #ffa726;
     height: 347px;
+}
+.homecarousel-1 {
+    background: url(../img/bg-hometop.jpg) 0% 0%/100%;
 }
 /*End of home carousel area*/
 
