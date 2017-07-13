@@ -1,4 +1,5 @@
 
+
 <?php include('perch/runtime.php'); ?>
 
 <!DOCTYPE html>
@@ -16,7 +17,7 @@
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <!-- CSS & JavaScript
+  <!-- CSS
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <link rel="stylesheet" href="css/normalize.css"><!-- reset file do not change -->
     <link rel="stylesheet" href="css/skeleton.css"><!-- framework CSS -->
@@ -25,9 +26,6 @@
     
     <link rel="stylesheet" type="text/css" href="slick/slick.css"/>
     <link rel="stylesheet" type="text/css" href="slick/slick-theme.css"/>
-				
-
-  <script>document.createElement('main');</script><!--fix for support of HTML5 <main> element-->
 
   <!-- Favicon
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -56,8 +54,8 @@
 
             <nav class="margin-1-top" id="nav-main" role="navigation"><!--Main navigation start-->
                 <ul>
-                    <li>Home</li>
-                    <li>About Us</li>
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="about.php">About Us</a></li>
                     <li>Diary/events</li>
                     <li>Holiday Clubs</li>
                     <li>Newssheet</li>
@@ -96,7 +94,7 @@
             
             <!--Carousel-->
             
-            <div class="your-class twelve columns">
+            <div class="carousel twelve columns">
                 <div>
                     <div class="homecarousel homecarousel-1 twelve columns">
                         <div class="padding-3">
@@ -153,25 +151,30 @@
          
               </ul>
   
-              <br />
-              <br />
+              <br>
+              <br>
   
               <div role="contentinfo"><!--Copyright info etc-->
-                  <h3 class="textwhite"><strong>&copy; <?php echo date('Y'); ?> Ferring Baptist Church :: Designed by <a href="http://www.paulcomputerhelp.co.uk/">Paul Robinson</a></strong><br />
+                  <h3><strong>&copy; <?php echo date('Y'); ?> Ferring Baptist Church :: Designed by <a href="http://www.paulcomputerhelp.co.uk/">Paul Robinson</a></strong><br>
+                      
+                  <br>
+                      
+                  <a href="http://www.seba-baptist.org.uk/"><img alt="South Eastern Baptist Association" src="img/seba.png"></a>
   
-                  <br />
-                  <br />
+                  <br>
+                  <br>
   
                   <a href="perch/">Perch Login</a></h3>
               </div>
   
-              <br />
-              <br />
-              <br />
+              <br>
+              <br>
+              <br>
           </footer>
       
+      <!--JavaScript-->
   
-      <script>
+          <script>
     // DELETE THIS IF NOT NEEDED ON THIS PAGE
     // fix for mobile table layout from http://sitesforprofit.com/responsive-tables-in-wordpress
   
@@ -196,27 +199,16 @@
     }
   </script>
   
-      <!--Slick JavaScript-->
+          <script>document.createElement('main');</script><!--fix for support of HTML5 <main> element-->
   
-      <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
-      <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+          <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+  <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+  
+  
       <script type="text/javascript" src="slick/slick.min.js"></script>
+      <script type="text/javascript" src="slick/init.js"></script>
   
-      <script type="text/javascript">
-          $(document).ready(function(){
-            $('.your-class').slick({
-              adaptiveHeight: true, // makes height flexible for resizing I think
-              autoplay: true,
-              autoplaySpeed: 5000,
-              arrows: false,
-              dots: true,
-              fade: true,
-              pauseOnFocus: false,
-              pauseOnHover: false,
-              pauseOnDotsHover: true
-            });
-          });
-      </script>
+      <!--End JavaScript-->
   
   <!-- End Document
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
