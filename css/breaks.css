@@ -3,26 +3,51 @@
   #weird - any weird stuff I don't understand but don't have time to look up/doesn't matter
 */
 
+@media screen and (max-width: 1500px) { /*Desktop wide, but small enough to affect hometop image*/
+    
+    body {
+        background: yellow;
+    }
+    
+    .hometop {
+        background: url(../img/bg-hometop.jpg) 60% 0%/130%
+    }
+    
+}
+
 @media screen and (max-width: 1100px) { /*Desktop small*/
 
-  #content p {
+    body {
+        background: orange;
+    }
+
+    #content p {
     width: 90%;               /* reduces extent of margins on paragraph text for smaller resolutions */
-  }
-  #content ul {
+    }
+    #content ul {
     width: 90%;               /* matches p */
-  }
+    }
 
 
-  ul.body {
+    ul.body {
     padding-left: 0.25em;          /* reduces padding as it causes ridiculous misalign */
-  }
-  ul.lesspadding {
+    }
+    ul.lesspadding {
     padding-left: 0.5em;
-  }
+    }
+    
+    .homecarousel {
+        height: 500px;
+    }
+    .hometop {
+        background: url(../img/bg-hometop.jpg) 60% 0%/215%;
+        height: 700px;
+    }
 }
 
 @media screen and (max-width: 750px) { /*Tablet*/
   body {
+    background: purple;
     font-size: 1.4rem;
   }
 
@@ -42,6 +67,10 @@
     margin-top: 150px; /*allows navigation to overlay content box, if it was all margin it would have a clear break behind the navigation which looks bad for this design*/
     padding-top: 6em;
   }
+    
+    #nav-main ul li {
+        font-size: 2.5rem;
+    }
 
   #top { /*centres it on tablet*/
     width: 100%;
@@ -64,11 +93,25 @@
   img.fluid {      /*Removes padding so can change image layout based on container which is safer with breakpoints, lets me alter an image's layout depending on circumstances, not global*/
     padding: 0;
   }
+    
+    .hometop {
+        background: url(../img/bg-hometop.jpg) 60% 20%/330%;
+        height: 590px;
+    }
+    .hometop-news {
+        margin-right: 0;
+        width: 100%;
+    }
+    
+    .textbig {
+        font-size: 5rem;
+    }
 }
 
 @media screen and (max-width: 500px) { /*Mobile phones*/
 
   body {
+    background: green;
     font-size: 1.4rem;
   }
 
@@ -94,14 +137,24 @@
     padding-top: 15em; /* moves content out from underneath of navigation */
   }
 
-  #footer {
-    font-size: 1.5rem;
-  }
-  #footer ul li {
+  footer ul li {
+    border: 0;
     display: block;
+    font-size: 2rem;
     margin: 0;
-    padding: 0;
+    padding: 1.5rem 0 0 0;
   }
+    
+    #nav-main ul li {
+        border-bottom: 3px solid #fea626;
+        display: block;
+        font-size: 3rem;
+        margin: 0;
+        padding: 1rem 0 0 0;
+    }
+    #nav-main ul li:last-child {
+        padding: 1rem 0 0 0;
+    }
 
   #tableBig {                                                  /* tables with more columns, needs smaller font */
     font-size: 1.2rem;
@@ -111,6 +164,15 @@
     visibility: hidden;
     height: 0;
   }
+    
+    .container {
+        width: 100%;
+    }
+    
+    .hometop {
+        background: url(../img/bg-hometop.jpg) 60% 0%/540%;
+        height: 750px;
+    }
 
   .left {
     float: none;                                            /* just because floating doesn't work on mobile,
