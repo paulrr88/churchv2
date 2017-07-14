@@ -127,24 +127,8 @@ ul li {
 IDs and classes
 ------------------------- */
 
-/*#aboutnav {
-  width: 90%;
-  margin: 0 auto;
-  border-bottom: 3px #105cbd solid;
-}
-#aboutnav h2 {
-  margin: 0;
-  padding: 0 0 0.5em 0;
-}*/
-
 #banner {
     background: url(../img/bg-banner.jpg) 0% 0%/100%;
-}
-#banner h1 {
-
-}
-#banner h2 {
-
 }
 
 #content {
@@ -154,44 +138,6 @@ IDs and classes
   width: 70%;
   margin: 0 auto;
 }
-#content-objectivebox { /*home page objective box*/
-  margin: 0 0 5% 5%;
-  width: 90%;
-}
-#content-objectivebox-image {
-  margin: 0 auto;
-  width: 90%;
-}
-
-#footer {
-  color: #fff;
-  font-size: 1.75rem;
-  text-align: center;
-  text-shadow:
-    -1px -1px 0 #000,
-    1px -1px 0 #000,
-    -1px 1px 0 #000,
-    1px 1px 0 #000;
-}
-  #footer a:link {
-    color: #fff;
-  }
-  #footer a:visited {
-    color: #fff;
-  }
-
-  #footer ul {
-    margin-bottom: 0;
-  }
-  #footer ul li {
-    display: inline-block;                                  /* displays everything horizontal instead of vertical */
-    margin-right: 20px;
-    padding-right: 20px;
-  }
-  #footer ul li:last-child {
-    margin-right: 0;
-    padding-right: 0;
-  }
 
 /* Navigation IDs */
 
@@ -219,9 +165,6 @@ IDs and classes
     font-family: "Alegreya Sans SC", sans-serif;
     font-size: 3rem;
     padding-left: 3rem;
-}
-#nav-main ul li:first-child {
-    padding-left: 0;
 }
 #nav-main ul li:last-child {
     padding-right: 3rem;
@@ -435,6 +378,15 @@ figure.fluid-images-3 img:first-child {
 }
 .margin-2-top {
     margin-top: 2rem;
+}
+.margin-4-top {
+    margin-top: 4rem;
+}
+.margin-6-top {
+    margin-top: 6rem;
+}
+.margin-10-top {
+    margin-top: 10rem;
 }
 .margin-4 {
     margin: 4rem;
