@@ -364,6 +364,22 @@ figure.fluid-images-3 img:first-child {
   float: left;
 }
 
+.list-contents {
+    background: #fff;
+    border-top: 5px solid #ffa726;
+    box-shadow: 20px 15px 40px #999;
+    font-size: 2.5rem;
+    list-style: none;
+    margin: 2rem;
+    padding: 1.5rem 0 1.5rem 0;
+    text-align: center;
+}
+.list-contents li {
+    display: inline-block;
+    margin: 0;
+    padding: 0 2rem 0 0;
+}
+
 .margin-1 {
     margin: 1rem;
 }
@@ -429,8 +445,15 @@ figure.fluid-images-3 img:first-child {
   width: 100%;
 }
 
+
 .textbig {
     font-size: 7rem;
+}
+.textbig1-5 {
+    font-size: 8rem;
+}
+.textbig2 {
+    font-size: 9rem;
 }
 .textmid {
     font-size: 1.75rem;

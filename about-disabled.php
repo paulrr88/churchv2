@@ -1,5 +1,4 @@
 
-
 <?php include('perch/runtime.php'); ?>
 
 <!DOCTYPE html>
@@ -74,56 +73,47 @@
                 
                 <nav class="ten columns offset-by-one" role="navigation">
                     <ul class="list-contents">
-                        <li><a href="">About Us</a></li>
+                        <li><a href="about.php">About Us</a></li>
                         <li><a href="about-events.php">Our Regular Events</a></li>
-                        <li><a href="about-disabled.php">Disabled Facilities</a></li>
+                        <li><a href="">Disabled Facilities</a></li>
                     </ul>
                 </nav>
+
+        <div class="centre margin-4-top textshadow-soft twelve columns textwhite">
+            <h1 class="textbig1-5">Disabled Facilities</h1>
+        </div>
         
         <main class="content textmid" role="main"><!--Container for ALL content, everything inside this-->
-            <div class="five columns">
-                <article class="background-white75 border-top-15-orange boxshadow-softextra6 clear twelve columns margin-6-top offset-by-one" role="article">
-                    
-                    <?php /*perch_content('About Us blurb at top');*/ ?>
-                    
-                    <p>We are a church with a morning congregation of about eighty, serving a community of around four thousand people. Ferring has kept its unique village identity despite its healthy size and its connections to nearby Worthing. More than half the population are retired, but many are still very energetic in their local involvement, and the age profile and vitality of our church reflect these factors.</p>
-
-                    <p>Our life at Ferring Baptist Church is founded on the scriptures and the saving work of Jesus Christ, and our aim is to make Jesus and his love the focus of everything we do. Our worship blends older and newer styles in a way that seeks to be encouraging, positive, and accessible to people of different traditions and backgrounds.</p>
-
-                    <p>We are pastored by Rev. Stuart Robinson, who has ministered here since 1990 and rejoices at the positive developments the Lord has brought to the church during that time.</p>
-                </article>
-
-                <section aria-label="check our other pages" class="background-white75 border-top-15-orange boxshadow-softextra6 clear twelve columns margin-2-top offset-by-one" role="complementary">
-                    <p class="centre textmid2"><strong>If you want to know more about our church, please click on the headings above!</strong></p>
-                </section>
-            </div><!--End of five columns, left column-->
             
-            <article class="background-white75 border-top-15-orange boxshadow-softextra6 five columns margin-6-top offset-by-two" role="article">
-                <h1 class="centre padding-1">Our Location</h1>
+            <article class="background-white75 border-top-15-orange boxshadow-softextra6 clear eight columns margin-6-top offset-by-two" role="article">
+                <?php /*perch_content('Disabled facilities details');*/ ?>
+                <h1 class="padding-1">Toilet facilities</h1>
+
+                <ul class="padding-3">
+                    <li>There is a purpose-built WC for the disabled.</li>
+                </ul>
+
+                <h1 class="padding-1">For people who use wheelchairs</h1>
                 
-                <h2 class="padding-1">Address</h2>
+                <ul class="padding-3">
+                    <li>Wheelchair access is via the front entrance.</li>
+                    <li>There is a ramped fire exit.</li>
+                    <li>The church is furnished with chairs rather than pews, therefore spaces can easily be provided for wheelchairs.</li>
+                </ul>
+
+                <h1 class="padding-1">Hymns and projection</h1>
                 
-                <p>Ferring Baptist Church<br>
-                    Greystoke Road<br>
-                    Ferring<br>
-                    Worthing<br>
-                    West Sussex<br>
-                    BN12 5JL</p>
+                <ul class="padding-3">
+                    <li>Hymn books are the "Easy to Read" edition of Mission Praise.</li>
+                    <li>All hymns are projected on Sunday morning, but not usually in the evening. Large print sheets are provided for those who cannot easily read the projected words.</li>
+                </ul>
                 
-                <h2 class="padding-1">Map</h2>
+                <h1 class="padding-1">Audio facilities</h1>
                 
-                <p>TBD</p>
+                <ul class="padding-3">
+                    <li>There is an audio loop system for those who have hearing difficulties.</li>
+                </ul>
             </article>
-            
-            <section aria-label="service times" class="background-white75 border-top-15-orange boxshadow-softextra6 five columns margin-2-top offset-by-two" role="complementary">
-                <h1 class="centre padding-1">Services</h1>
-                
-                <?php /*perch_content('Services details'); - MAKE THIS GLOBAL*/ ?>
-                
-                <p>The 10:30 A.M. service is definitely the larger of the two, with the 6:30 P.M. worship attractive to some because of its more intimate atmosphere. Communion is normally celebrated on the first Sunday evening and the third Sunday morning of the month. Any Christian is welcome to share in communion, and the wine used is non-alcoholic.</p>
-            </section>
-            
-           
 
         </main><!--End of content-->
 

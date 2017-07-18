@@ -68,62 +68,98 @@
   <!-- Primary Page Layout
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
 
-                <div class="centre margin-4-top textshadow-soft textwhite">
-                    <h1 class="textbig">About Us</h1>
-                </div>
-                
-                <nav class="ten columns offset-by-one" role="navigation">
-                    <ul class="list-contents">
-                        <li><a href="">About Us</a></li>
-                        <li><a href="about-events.php">Our Regular Events</a></li>
-                        <li><a href="about-disabled.php">Disabled Facilities</a></li>
-                    </ul>
-                </nav>
+        <div class="centre margin-4-top textshadow-soft textwhite">
+            <h1 class="textbig">Diary/Events</h1>
+        </div>
         
         <main class="content textmid" role="main"><!--Container for ALL content, everything inside this-->
             <div class="five columns">
                 <article class="background-white75 border-top-15-orange boxshadow-softextra6 clear twelve columns margin-6-top offset-by-one" role="article">
                     
-                    <?php /*perch_content('About Us blurb at top');*/ ?>
+                    <h1 class="centre padding-1">This Week's Diary</h1>
                     
-                    <p>We are a church with a morning congregation of about eighty, serving a community of around four thousand people. Ferring has kept its unique village identity despite its healthy size and its connections to nearby Worthing. More than half the population are retired, but many are still very energetic in their local involvement, and the age profile and vitality of our church reflect these factors.</p>
+                    <?php /*perch_content('This week's diary);*/ ?>
+                    
+                    <p class="centre"><strong>Schedule for the week 16th to 22nd July</strong></p>
 
-                    <p>Our life at Ferring Baptist Church is founded on the scriptures and the saving work of Jesus Christ, and our aim is to make Jesus and his love the focus of everything we do. Our worship blends older and newer styles in a way that seeks to be encouraging, positive, and accessible to people of different traditions and backgrounds.</p>
-
-                    <p>We are pastored by Rev. Stuart Robinson, who has ministered here since 1990 and rejoices at the positive developments the Lord has brought to the church during that time.</p>
+                    <table class="styled" role="grid" summary="Schedule for events in the coming week(s)">
+                        <thead>
+                            <tr>
+                                <th scope="col">Day/Time</th>
+                                <th scope="col">Event</th>
+                                <th scope="col">Notes</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr class="odd">
+                                <th scope="row">Wednesday<br>3:00-4:00 P.M.</th>
+                                <td>Prayer time</td>
+                                <td></td>
+                            </tr>
+                            <tr>
+                                <th scope="row">Sunday<br>10:30 A.M.<br>6:30 P.M.</th>
+                                <td>Sunday Services</td>
+                                <td></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    
                 </article>
+                
+                <section aria-label="service times" class="background-white75 border-top-15-orange boxshadow-softextra6 twelve columns margin-2-top offset-by-one" role="complementary">
+                    <h1 class="centre padding-1">Services</h1>
 
-                <section aria-label="check our other pages" class="background-white75 border-top-15-orange boxshadow-softextra6 clear twelve columns margin-2-top offset-by-one" role="complementary">
-                    <p class="centre textmid2"><strong>If you want to know more about our church, please click on the headings above!</strong></p>
+                    <?php /*perch_content('Services details'); - MAKE THIS GLOBAL*/ ?>
+
+                    <p>The 10:30 A.M. service is definitely the larger of the two, with the 6:30 P.M. worship attractive to some because of its more intimate atmosphere. Communion is normally celebrated on the first Sunday evening and the third Sunday morning of the month. Any Christian is welcome to share in communion, and the wine used is non-alcoholic.</p>
                 </section>
             </div><!--End of five columns, left column-->
             
             <article class="background-white75 border-top-15-orange boxshadow-softextra6 five columns margin-6-top offset-by-two" role="article">
-                <h1 class="centre padding-1">Our Location</h1>
+                <h1 class="centre padding-1">Coming Weeks Schedule</h1>
                 
-                <h2 class="padding-1">Address</h2>
+                <?php /*perch_content('Coming weeks schedule');*/ ?>
                 
-                <p>Ferring Baptist Church<br>
-                    Greystoke Road<br>
-                    Ferring<br>
-                    Worthing<br>
-                    West Sussex<br>
-                    BN12 5JL</p>
-                
-                <h2 class="padding-1">Map</h2>
-                
-                <p>TBD</p>
+                <p class="floatleft underline">Preaching Schedule Jul 2017</p> 
+                <p class="floatright underline"><strong>(C)</strong> - Communion</p>
+
+				<table class="styled" role="grid" summary="Schedule for who is preaching in these coming months">
+					<thead>
+						<tr>
+							<th scope="col">Date</th>
+							<th scope="col">Morning Preacher</th>
+							<th scope="col">Evening Preacher</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr class="odd">
+							<th scope="row">Jul 2nd</th>
+							<td>Rev. Trevor Smetham</td>
+							<td>Deanna Clark <strong>(C)</strong></td>
+						</tr>
+						<tr>
+							<th scope="row">Jul 9th</th>
+							<td>Rev. Stuart Robinson</td>
+							<td>Rev. Stuart Robinson</td>
+						</tr>
+						<tr class="odd">
+							<th scope="row">Jul 16th</th>
+							<td>Rev. Stuart Robinson <strong>(C)</strong></td>
+							<td>Rev. Stuart Robinson</td>
+						</tr>
+						<tr>
+							<th scope="row">Jul 23rd</th>
+							<td>Rev. Stuart Robinson</td>
+							<td>Rev. Stuart Robinson</td>
+						</tr>
+						<tr class="odd">
+							<th scope="row">Jul 30th</th>
+							<td>Rev. Stuart Robinson</td>
+							<td>Rev. Stuart Robinson</td>
+						</tr>
+					</tbody>
+				</table>
             </article>
-            
-            <section aria-label="service times" class="background-white75 border-top-15-orange boxshadow-softextra6 five columns margin-2-top offset-by-two" role="complementary">
-                <h1 class="centre padding-1">Services</h1>
-                
-                <?php /*perch_content('Services details'); - MAKE THIS GLOBAL*/ ?>
-                
-                <p>The 10:30 A.M. service is definitely the larger of the two, with the 6:30 P.M. worship attractive to some because of its more intimate atmosphere. Communion is normally celebrated on the first Sunday evening and the third Sunday morning of the month. Any Christian is welcome to share in communion, and the wine used is non-alcoholic.</p>
-            </section>
-            
-           
 
         </main><!--End of content-->
 
@@ -167,7 +203,30 @@
       
       <!--JavaScript-->
   
-          
+          <script>
+    // DELETE THIS IF NOT NEEDED ON THIS PAGE
+    // fix for mobile table layout from http://sitesforprofit.com/responsive-tables-in-wordpress
+  
+    var headertext = [];
+    var headers = document.querySelectorAll("thead");
+    var tablebody = document.querySelectorAll("tbody");
+  
+    for (var i = 0; i < headers.length; i++) {
+      headertext[i]=[];
+      for (var j = 0, headrow; headrow = headers[i].rows[0].cells[j]; j++) {
+        var current = headrow;
+        headertext[i].push(current.textContent);
+        }
+    }
+  
+    for (var h = 0, tbody; tbody = tablebody[h]; h++) {
+      for (var i = 0, row; row = tbody.rows[i]; i++) {
+        for (var j = 0, col; col = row.cells[j]; j++) {
+          col.setAttribute("data-th", headertext[h][j]);
+        }
+      }
+    }
+  </script>
   
           <script>document.createElement('main');</script><!--fix for support of HTML5 <main> element-->
   

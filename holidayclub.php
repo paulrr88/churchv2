@@ -68,60 +68,47 @@
   <!-- Primary Page Layout
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
 
-                <div class="centre margin-4-top textshadow-soft textwhite">
-                    <h1 class="textbig">About Us</h1>
-                </div>
-                
-                <nav class="ten columns offset-by-one" role="navigation">
-                    <ul class="list-contents">
-                        <li><a href="">About Us</a></li>
-                        <li><a href="about-events.php">Our Regular Events</a></li>
-                        <li><a href="about-disabled.php">Disabled Facilities</a></li>
-                    </ul>
-                </nav>
+        <div class="centre margin-4-top textshadow-soft textwhite">
+            <h1 class="textbig">Holiday Clubs</h1>
+        </div>
         
         <main class="content textmid" role="main"><!--Container for ALL content, everything inside this-->
-            <div class="five columns">
-                <article class="background-white75 border-top-15-orange boxshadow-softextra6 clear twelve columns margin-6-top offset-by-one" role="article">
-                    
-                    <?php /*perch_content('About Us blurb at top');*/ ?>
-                    
-                    <p>We are a church with a morning congregation of about eighty, serving a community of around four thousand people. Ferring has kept its unique village identity despite its healthy size and its connections to nearby Worthing. More than half the population are retired, but many are still very energetic in their local involvement, and the age profile and vitality of our church reflect these factors.</p>
-
-                    <p>Our life at Ferring Baptist Church is founded on the scriptures and the saving work of Jesus Christ, and our aim is to make Jesus and his love the focus of everything we do. Our worship blends older and newer styles in a way that seeks to be encouraging, positive, and accessible to people of different traditions and backgrounds.</p>
-
-                    <p>We are pastored by Rev. Stuart Robinson, who has ministered here since 1990 and rejoices at the positive developments the Lord has brought to the church during that time.</p>
-                </article>
-
-                <section aria-label="check our other pages" class="background-white75 border-top-15-orange boxshadow-softextra6 clear twelve columns margin-2-top offset-by-one" role="complementary">
-                    <p class="centre textmid2"><strong>If you want to know more about our church, please click on the headings above!</strong></p>
-                </section>
-            </div><!--End of five columns, left column-->
             
-            <article class="background-white75 border-top-15-orange boxshadow-softextra6 five columns margin-6-top offset-by-two" role="article">
-                <h1 class="centre padding-1">Our Location</h1>
+            <div class="four columns offset-by-one">
+            
+                <section aria-label="This year's Holiday Club dates" class="background-white75 border-top-15-orange boxshadow-softextra6 twelve columns margin-6-top" role="complementary">
+                    <h1 class="centre padding-1">This year's Holiday Club will be held <?php /*perch_content('Holiday Club dates box');*/ ?>Tuesday 8th to Friday 11th August.</h1>
+                </section>
                 
-                <h2 class="padding-1">Address</h2>
+                <section aria-label="This year's Holiday Club registration forms" class="background-white75 border-top-15-orange boxshadow-softextra6 twelve columns margin-6-top" role="complementary">
+                    <h1 class="centre padding-1">Download this year's <?php /*perch_content('Registration form link');*/ ?> <a>registration form</a></h1>
+                </section>
                 
-                <p>Ferring Baptist Church<br>
-                    Greystoke Road<br>
-                    Ferring<br>
-                    Worthing<br>
-                    West Sussex<br>
-                    BN12 5JL</p>
+            </div><!--End of four columns left column area-->
+
+            <article class="background-white75 border-top-15-orange boxshadow-softextra6 five columns margin-6-top offset-by-one" role="article">
+                <?php /*perch_content('Holiday Club details/placeholder blurb');*/ ?>
                 
-                <h2 class="padding-1">Map</h2>
-                
-                <p>TBD</p>
+                <h1 class="centre padding-1">Summer Holiday Club 2017</h1>
+
+                <p>This year's Holiday Club at Ferring Baptist Church will run from <strong>Tuesday 8th August until Friday 11th August</strong>. The sessions will be from <strong>10am – 12 noon on all four mornings and there will be a Grand Finale and buffet on the Friday beginning at 6pm to which families are invited</strong>.  The whole club is free of charge, apart from tickets for food on Friday evening which are sold during the week.  All sessions are led by an experienced team who include Father Gary and Stuart, and every group leader will have obtained the necessary child safeguarding disclosure.</p>
+
+                <p>The background to this year's theme is that the spire of light at the centre of the city of Ancora has grown dim; the stories of Jesus will enable it to shine brightly again! <strong>Each story is presented on film, and daily activities include games, songs, quizzes and crafts</strong>. Games are outdoors whenever weather allows, and safe footwear (eg trainers rather than flip-flops) is essential every day.  Games on Friday morning will involve a certain amount of water, but if you do not want your child to get wet you can indicate this on the form below.  We also include Holiday Club photographs in the publicity on this website, and it is possible that your child's face might appear in one of these.  Again, if you do not wish this to happen you can refuse permission on the form below.</p>
+
+                <p><strong>Children aged 5-11 yrs are welcome and, while not essential, it helps a lot if you register your child(ren) before the club begins</strong>, in order for us to assess the numbers likely to attend.  <strong>You can do this by filling in the form below</strong> and posting it to us at the church, or putting it through the church letter-box when passing by.  Alternatively you are welcome to register your child(ren) on the first morning that they join us.  All children must have the consent of a parent (or adult with legal parental responsibility).</p>
+
+                <p>If you have any queries, please do not hesitate to <a href="mailto:admin@ferringbaptist.org.uk">contact us</a>.</p>
             </article>
             
-            <section aria-label="service times" class="background-white75 border-top-15-orange boxshadow-softextra6 five columns margin-2-top offset-by-two" role="complementary">
-                <h1 class="centre padding-1">Services</h1>
+            <article class="background-white75 border-top-15-orange boxshadow-softextra6 ten columns margin-6-top offset-by-one" role="article">
+                <?php /*perch_content('Holiday Club details/placeholder blurb');*/ ?>
                 
-                <?php /*perch_content('Services details'); - MAKE THIS GLOBAL*/ ?>
+                <h1 class="centre padding-1">Pictures from Rocky's Plaice (2016)</h1>
                 
-                <p>The 10:30 A.M. service is definitely the larger of the two, with the 6:30 P.M. worship attractive to some because of its more intimate atmosphere. Communion is normally celebrated on the first Sunday evening and the third Sunday morning of the month. Any Christian is welcome to share in communion, and the wine used is non-alcoholic.</p>
-            </section>
+                <p>(All identifiable pictures of children used with permission of parents)</p>
+
+                
+            </article>
             
            
 

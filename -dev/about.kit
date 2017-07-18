@@ -4,25 +4,24 @@
 <!--$tablescript nil-->
 <!--$SlickLoad nil-->
 
+<!--$link-aboutus nil-->
+<!--$link-events about-events.php-->
+<!--$link-disabled about-disabled.php-->
+
 
 <!--@import opening-->
 
   <!-- Primary Page Layout
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
 
-        <nav class="ten columns offset-by-one textmid2" role="navigation" style="background: white;">
-            <ul style="list-style: none;">
-                <li style="display: inline;">About Us</li>
-                <li style="display: inline;">Our Regular Events</li>
-                <li style="display: inline;">Disabled Facilities</li>
-            </ul>
-        </nav>
-        <div class="centre margin-4-top textbig">
-            <h1>About Us</h1>
-        </div>
+        <!--@import opening-about-->
+        
         <main class="content textmid" role="main"><!--Container for ALL content, everything inside this-->
             <div class="five columns">
                 <article class="background-white75 border-top-15-orange boxshadow-softextra6 clear twelve columns margin-6-top offset-by-one" role="article">
+                    
+                    <?php /*perch_content('About Us blurb at top');*/ ?>
+                    
                     <p>We are a church with a morning congregation of about eighty, serving a community of around four thousand people. Ferring has kept its unique village identity despite its healthy size and its connections to nearby Worthing. More than half the population are retired, but many are still very energetic in their local involvement, and the age profile and vitality of our church reflect these factors.</p>
 
                     <p>Our life at Ferring Baptist Church is founded on the scriptures and the saving work of Jesus Christ, and our aim is to make Jesus and his love the focus of everything we do. Our worship blends older and newer styles in a way that seeks to be encouraging, positive, and accessible to people of different traditions and backgrounds.</p>
@@ -54,6 +53,8 @@
             
             <section aria-label="service times" class="background-white75 border-top-15-orange boxshadow-softextra6 five columns margin-2-top offset-by-two" role="complementary">
                 <h1 class="centre padding-1">Services</h1>
+                
+                <?php /*perch_content('Services details'); - MAKE THIS GLOBAL*/ ?>
                 
                 <p>The 10:30 A.M. service is definitely the larger of the two, with the 6:30 P.M. worship attractive to some because of its more intimate atmosphere. Communion is normally celebrated on the first Sunday evening and the third Sunday morning of the month. Any Christian is welcome to share in communion, and the wine used is non-alcoholic.</p>
             </section>

@@ -48,7 +48,7 @@
                 </ul>
             </nav><!--End of top information area-->
 
-            <h1 class="centre textbig textshadow-soft textwhite">Ferring Baptist Church</h1>
+            <h1 class="centre textbig2 textshadow-soft textwhite">Ferring Baptist Church</h1>
 
             <h5 class="centre textshadow-mid textwhite">Greystoke Road, Ferring, Worthing, West Sussex, BN12 5JL</h5>
 
@@ -56,8 +56,8 @@
                 <ul>
                     <li><a href="index.php">Home</a></li>
                     <li><a href="about.php">About Us</a></li>
-                    <li>Diary/events</li>
-                    <li>Holiday Clubs</li>
+                    <li><a href="diary.php">Diary/events</a></li>
+                    <li><a href="holidayclub.php">Holiday Clubs</a></li>
                     <li>Newssheet</li>
                     <li>Contact Us</li>
                 </ul>
@@ -70,29 +70,33 @@
 
         <main class="content" role="main"><!--Container for ALL content, everything inside this-->
             <div class="hometop twelve columns">
-                <article class="background-white75 boxshadow-softextra6 four columns hometop-news u-pull-right" role="article">
-                    <h2 class="centre padding-1">Important piece of news</h2>
+                <?php /*perch_content('Important news section at top');*/ ?>
+                    <article class="background-white75 boxshadow-softextra6 four columns hometop-news u-pull-right" role="article">
+                        <h2 class="centre padding-1">Important piece of news</h2>
 
-                    <p>Blurb here about whatever the news is about!</p>
-                </article>
+                        <p>Blurb here about whatever the news is about!</p>
+                    </article>
                 <article class="background-white75 border-top-15-orange boxshadow-softextra6 clear six columns margin-2-top" role="article">
-                    <p>Welcome to the FBC website! Our life at Ferring Baptist Church is founded on the scriptures and the 
-                        saving work of Jesus Christ, and our aim is to make Jesus 
-                        and his love the focus of everything we do. Our worship 
-                        blends older and newer styles in a way that seeks to be 
-                        encouraging, positive, and accessible to people of 
-                        different traditions and backgrounds. The 10:30 A.M. 
-                        service is definitely the larger of the two, with the 
-                        6:30 P.M. worship attractive to some because of its more 
-                        intimate atmosphere.</p>
+                    <?php /*perch_content('Intro blurb at top');*/ ?>
+                        <p>Welcome to the FBC website! Our life at Ferring Baptist Church is founded on the scriptures and the 
+                            saving work of Jesus Christ, and our aim is to make Jesus 
+                            and his love the focus of everything we do. Our worship 
+                            blends older and newer styles in a way that seeks to be 
+                            encouraging, positive, and accessible to people of 
+                            different traditions and backgrounds. The 10:30 A.M. 
+                            service is definitely the larger of the two, with the 
+                            6:30 P.M. worship attractive to some because of its more 
+                            intimate atmosphere.</p>
 
-                    <p>Situated in Greystoke Road, we are just round the corner 
-                        from Church Lane and St. Andrew's C. of E. with whom 
-                        we work closely as we seek to represent Christ in Ferring.</p>
+                        <p>Situated in Greystoke Road, we are just round the corner 
+                            from Church Lane and St. Andrew's C. of E. with whom 
+                            we work closely as we seek to represent Christ in Ferring.</p>
                 </article>
             </div><!--End of hometop-->
             
             <!--Carousel-->
+            
+            <?php /*perch_content('Carousel of events');*/ ?>
             
             <div class="carousel twelve columns">
                 <div>
@@ -174,30 +178,7 @@
       
       <!--JavaScript-->
   
-          <script>
-    // DELETE THIS IF NOT NEEDED ON THIS PAGE
-    // fix for mobile table layout from http://sitesforprofit.com/responsive-tables-in-wordpress
-  
-    var headertext = [];
-    var headers = document.querySelectorAll("thead");
-    var tablebody = document.querySelectorAll("tbody");
-  
-    for (var i = 0; i < headers.length; i++) {
-      headertext[i]=[];
-      for (var j = 0, headrow; headrow = headers[i].rows[0].cells[j]; j++) {
-        var current = headrow;
-        headertext[i].push(current.textContent);
-        }
-    }
-  
-    for (var h = 0, tbody; tbody = tablebody[h]; h++) {
-      for (var i = 0, row; row = tbody.rows[i]; i++) {
-        for (var j = 0, col; col = row.cells[j]; j++) {
-          col.setAttribute("data-th", headertext[h][j]);
-        }
-      }
-    }
-  </script>
+          
   
           <script>document.createElement('main');</script><!--fix for support of HTML5 <main> element-->
   

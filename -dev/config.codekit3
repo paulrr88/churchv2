@@ -7,12 +7,18 @@
 		"uuidString": "BE6A3899-79F5-4E33-BC1A-0944D109D214"
 		}
 	],
-"creatorBuild": "25813",
+"creatorBuild": "25849",
 "files": {
 	"\/_footer.kit": {
 		"ft": 2048,
 		"oA": 1,
 		"oAP": "\/_footer.html",
+		"oF": 0
+		},
+	"\/_opening-about.kit": {
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/_opening-about.html",
 		"oF": 0
 		},
 	"\/_opening.kit": {
@@ -21,10 +27,34 @@
 		"oAP": "\/_opening.html",
 		"oF": 0
 		},
+	"\/about-disabled.kit": {
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/Applications\/MAMP\/htdocs\/churchv2\/about-disabled.php",
+		"oF": 6
+		},
+	"\/about-events.kit": {
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/Applications\/MAMP\/htdocs\/churchv2\/about-events.php",
+		"oF": 6
+		},
 	"\/about.kit": {
 		"ft": 2048,
 		"oA": 0,
 		"oAP": "\/Applications\/MAMP\/htdocs\/churchv2\/about.php",
+		"oF": 6
+		},
+	"\/diary.kit": {
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/Applications\/MAMP\/htdocs\/churchv2\/diary.php",
+		"oF": 6
+		},
+	"\/holidayclub.kit": {
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/Applications\/MAMP\/htdocs\/churchv2\/holidayclub.php",
 		"oF": 6
 		},
 	"\/index.kit": {
@@ -1978,6 +2008,7 @@
 		},
 	"languageDefaultsUserDefined": [
 		],
+	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
 	"skippedFoldersString": "log, _logs, logs, _cache, cache, \/storage\/framework\/sessions, node_modules",
 	"sourceFolderName": "source",

@@ -103,7 +103,7 @@
         width: 100%;
     }
     
-    .textbig {
+    .textbig2 {
         font-size: 5rem;
     }
 }
@@ -182,4 +182,8 @@
   .right {
     float: none;
   }
+    
+    .textbig2 {
+        font-size: 4rem;
+    }
 }
