@@ -1,5 +1,4 @@
 
-
 <?php include('perch/runtime.php'); ?>
 
 <!DOCTYPE html>
@@ -67,97 +66,28 @@
   <!-- Primary Page Layout
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
 
-        <div class="centre margin-4-top textshadow-soft textwhite">
-            <h1 class="textbig">Diary/Events</h1>
+        <div class="centre margin-4-top textshadow-soft twelve columns textwhite">
+            <h1 class="textbig1-5">Sitemap</h1>
         </div>
         
         <main class="content textmid" role="main"><!--Container for ALL content, everything inside this-->
-            <div class="five columns">
-                <article class="background-white75 border-top-15-orange boxshadow-softextra6 clear twelve columns margin-6-top offset-by-one" role="article">
-                    
-                    <h1 class="centre padding-1">This Week's Diary</h1>
-                    
-                    <?php /*perch_content('This week's diary);*/ ?>
-                    
-                    <p class="centre"><strong>Schedule for the week 16th to 22nd July</strong></p>
-
-                    <table class="styled" role="grid" summary="Schedule for events in the coming week(s)">
-                        <thead>
-                            <tr>
-                                <th scope="col">Day/Time</th>
-                                <th scope="col">Event</th>
-                                <th scope="col">Notes</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <tr class="odd">
-                                <th scope="row">Wednesday<br>3:00-4:00 P.M.</th>
-                                <td>Prayer time</td>
-                                <td></td>
-                            </tr>
-                            <tr>
-                                <th scope="row">Sunday<br>10:30 A.M.<br>6:30 P.M.</th>
-                                <td>Sunday Services</td>
-                                <td></td>
-                            </tr>
-                        </tbody>
-                    </table>
-                    
-                </article>
-                
-                <section aria-label="service times" class="background-white75 border-top-15-orange boxshadow-softextra6 twelve columns margin-2-top offset-by-one" role="complementary">
-                    <h1 class="centre padding-1">Services</h1>
-
-                    <?php /*perch_content('Services details'); - MAKE THIS GLOBAL*/ ?>
-
-                    <p>The 10:30 A.M. service is definitely the larger of the two, with the 6:30 P.M. worship attractive to some because of its more intimate atmosphere. Communion is normally celebrated on the first Sunday evening and the third Sunday morning of the month. Any Christian is welcome to share in communion, and the wine used is non-alcoholic.</p>
-                </section>
-            </div><!--End of five columns, left column-->
             
-            <article class="background-white75 border-top-15-orange boxshadow-softextra6 five columns margin-6-top offset-by-two" role="article">
-                <h1 class="centre padding-1">Coming Weeks Schedule</h1>
-                
-                <?php /*perch_content('Coming weeks schedule');*/ ?>
-                
-                <p class="floatleft underline">Preaching Schedule Jul 2017</p> 
-                <p class="floatright underline"><strong>(C)</strong> - Communion</p>
-
-				<table class="styled" role="grid" summary="Schedule for who is preaching in these coming months">
-					<thead>
-						<tr>
-							<th scope="col">Date</th>
-							<th scope="col">Morning Preacher</th>
-							<th scope="col">Evening Preacher</th>
-						</tr>
-					</thead>
-					<tbody>
-						<tr class="odd">
-							<th scope="row">Jul 2nd</th>
-							<td>Rev. Trevor Smetham</td>
-							<td>Deanna Clark <strong>(C)</strong></td>
-						</tr>
-						<tr>
-							<th scope="row">Jul 9th</th>
-							<td>Rev. Stuart Robinson</td>
-							<td>Rev. Stuart Robinson</td>
-						</tr>
-						<tr class="odd">
-							<th scope="row">Jul 16th</th>
-							<td>Rev. Stuart Robinson <strong>(C)</strong></td>
-							<td>Rev. Stuart Robinson</td>
-						</tr>
-						<tr>
-							<th scope="row">Jul 23rd</th>
-							<td>Rev. Stuart Robinson</td>
-							<td>Rev. Stuart Robinson</td>
-						</tr>
-						<tr class="odd">
-							<th scope="row">Jul 30th</th>
-							<td>Rev. Stuart Robinson</td>
-							<td>Rev. Stuart Robinson</td>
-						</tr>
-					</tbody>
-				</table>
+            <article class="background-white75 border-top-15-orange boxshadow-softextra6 clear eight columns margin-6-top offset-by-two" role="article">
+                <div class="six columns offset-by-four textmid2">
+                    <ul class="padding-3">
+                        <li>Home</li>
+                        <li>About Us
+                            <ul>
+                                <li>Our Regular Events</li>
+                                <li>Disabled Facilities</li>
+                            </ul>
+                        </li>
+                        <li>Diary/events</li>
+                        <li>Holiday Clubs</li>
+                        <li>Newssheet</li>
+                        <li>Contact Us</li>
+                    </ul>
+                </div>
             </article>
 
         </main><!--End of content-->
@@ -202,30 +132,7 @@
       
       <!--JavaScript-->
   
-          <script>
-    // DELETE THIS IF NOT NEEDED ON THIS PAGE
-    // fix for mobile table layout from http://sitesforprofit.com/responsive-tables-in-wordpress
-  
-    var headertext = [];
-    var headers = document.querySelectorAll("thead");
-    var tablebody = document.querySelectorAll("tbody");
-  
-    for (var i = 0; i < headers.length; i++) {
-      headertext[i]=[];
-      for (var j = 0, headrow; headrow = headers[i].rows[0].cells[j]; j++) {
-        var current = headrow;
-        headertext[i].push(current.textContent);
-        }
-    }
-  
-    for (var h = 0, tbody; tbody = tablebody[h]; h++) {
-      for (var i = 0, row; row = tbody.rows[i]; i++) {
-        for (var j = 0, col; col = row.cells[j]; j++) {
-          col.setAttribute("data-th", headertext[h][j]);
-        }
-      }
-    }
-  </script>
+          
   
           <script>document.createElement('main');</script><!--fix for support of HTML5 <main> element-->
   

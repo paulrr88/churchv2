@@ -42,8 +42,7 @@
         <header id="banner" role="banner"><!--Start of header area containing website title, graphics and navigation etc-->
             <nav id="top" role="navigation"><!--Start of top information area-->
                 <ul>
-                    <li><a href="sitemap/">Sitemap</a></li>
-                    <li><a href="folder/">Another link</a></li>
+                    <li><a href="sitemap.php">Sitemap</a></li>
                 </ul>
             </nav><!--End of top information area-->
 
@@ -57,8 +56,8 @@
                     <li><a href="about.php">About Us</a></li>
                     <li><a href="diary.php">Diary/events</a></li>
                     <li><a href="holidayclub.php">Holiday Clubs</a></li>
-                    <li>Newssheet</li>
-                    <li>Contact Us</li>
+                    <li><a href="newssheet.php">Newssheet</a></li>
+                    <li><a href="contact.php">Contact Us</a></li>
                 </ul>
             </nav><!--Main navigation ends-->
         </header><!--Header area ends-->
@@ -183,7 +182,7 @@
                       
                   <br>
                       
-                  <a href="http://www.seba-baptist.org.uk/"><img alt="South Eastern Baptist Association" src="img/seba.png"></a>
+                  <a href="http://www.seba-baptist.org.uk/"><img alt="South Eastern Baptist Association" src="img/seba.png" title="Link to South Eastern Baptist Association"></a>
   
                   <br>
                   <br>

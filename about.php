@@ -43,8 +43,7 @@
         <header id="banner" role="banner"><!--Start of header area containing website title, graphics and navigation etc-->
             <nav id="top" role="navigation"><!--Start of top information area-->
                 <ul>
-                    <li><a href="sitemap/">Sitemap</a></li>
-                    <li><a href="folder/">Another link</a></li>
+                    <li><a href="sitemap.php">Sitemap</a></li>
                 </ul>
             </nav><!--End of top information area-->
 
@@ -58,8 +57,8 @@
                     <li><a href="about.php">About Us</a></li>
                     <li><a href="diary.php">Diary/events</a></li>
                     <li><a href="holidayclub.php">Holiday Clubs</a></li>
-                    <li>Newssheet</li>
-                    <li>Contact Us</li>
+                    <li><a href="newssheet.php">Newssheet</a></li>
+                    <li><a href="contact.php">Contact Us</a></li>
                 </ul>
             </nav><!--Main navigation ends-->
         </header><!--Header area ends-->
@@ -96,12 +95,22 @@
                 <section aria-label="check our other pages" class="background-white75 border-top-15-orange boxshadow-softextra6 clear twelve columns margin-2-top offset-by-one" role="complementary">
                     <p class="centre textmid2"><strong>If you want to know more about our church, please click on the headings above!</strong></p>
                 </section>
+                
+                <section aria-label="service times" class="background-white75 border-top-15-orange boxshadow-softextra6 twelve columns margin-2-top offset-by-one" role="complementary">
+                    <h1 class="centre padding-1">Services</h1>
+
+                    <?php /*perch_content('Services details'); - MAKE THIS GLOBAL*/ ?>
+
+                    <p>The 10:30 A.M. service is definitely the larger of the two, with the 6:30 P.M. worship attractive to some because of its more intimate atmosphere. Communion is normally celebrated on the first Sunday evening and the third Sunday morning of the month. Any Christian is welcome to share in communion, and the wine used is non-alcoholic.</p>
+                </section>
             </div><!--End of five columns, left column-->
             
             <article class="background-white75 border-top-15-orange boxshadow-softextra6 five columns margin-6-top offset-by-two" role="article">
                 <h1 class="centre padding-1">Our Location</h1>
                 
                 <h2 class="padding-1">Address</h2>
+                
+                <?php /*perch_content('Address'); make this global*/ ?>
                 
                 <p>Ferring Baptist Church<br>
                     Greystoke Road<br>
@@ -112,16 +121,15 @@
                 
                 <h2 class="padding-1">Map</h2>
                 
-                <p>TBD</p>
+                <div class="ten columns offset-by-one">
+                    <a href="img/map.jpg"><img alt="Map of where Ferring Baptist Church is" class="fluid-100" src="img/map.jpg"></a>
+                    
+                    <p class="centre nopadding nomargin"><a href="img/map.jpg">(Click to enlarge)</a></p>
+                    <p class="centre nopadding"><a href="https://www.google.co.uk/maps/place/Ferring+Baptist+Church/@50.8135471,-0.4512601,17z/data=!3m1!4b1!4m5!3m4!1s0x4875a37ab2c84bdb:0xe47edae588f900ad!8m2!3d50.8135437!4d-0.4490661">Click here for Google Maps</a></p>
+                </div>
             </article>
             
-            <section aria-label="service times" class="background-white75 border-top-15-orange boxshadow-softextra6 five columns margin-2-top offset-by-two" role="complementary">
-                <h1 class="centre padding-1">Services</h1>
-                
-                <?php /*perch_content('Services details'); - MAKE THIS GLOBAL*/ ?>
-                
-                <p>The 10:30 A.M. service is definitely the larger of the two, with the 6:30 P.M. worship attractive to some because of its more intimate atmosphere. Communion is normally celebrated on the first Sunday evening and the third Sunday morning of the month. Any Christian is welcome to share in communion, and the wine used is non-alcoholic.</p>
-            </section>
+            
             
            
 
@@ -152,7 +160,7 @@
                       
                   <br>
                       
-                  <a href="http://www.seba-baptist.org.uk/"><img alt="South Eastern Baptist Association" src="img/seba.png"></a>
+                  <a href="http://www.seba-baptist.org.uk/"><img alt="South Eastern Baptist Association" src="img/seba.png" title="Link to South Eastern Baptist Association"></a>
   
                   <br>
                   <br>

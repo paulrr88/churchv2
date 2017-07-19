@@ -45,6 +45,12 @@
 		"oAP": "\/Applications\/MAMP\/htdocs\/churchv2\/about.php",
 		"oF": 6
 		},
+	"\/contact.kit": {
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/Applications\/MAMP\/htdocs\/churchv2\/contact.php",
+		"oF": 6
+		},
 	"\/diary.kit": {
 		"ft": 2048,
 		"oA": 0,
@@ -61,6 +67,18 @@
 		"ft": 2048,
 		"oA": 0,
 		"oAP": "\/Applications\/MAMP\/htdocs\/churchv2\/index.php",
+		"oF": 6
+		},
+	"\/newssheet.kit": {
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/Applications\/MAMP\/htdocs\/churchv2\/newssheet.php",
+		"oF": 6
+		},
+	"\/sitemap.kit": {
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/Applications\/MAMP\/htdocs\/churchv2\/sitemap.php",
 		"oF": 6
 		}
 	},
