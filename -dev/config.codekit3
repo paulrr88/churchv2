@@ -4,7 +4,7 @@
 	{
 		"name": "Process All Remaining Files and Folders",
 		"stepType": 1,
-		"uuidString": "BE6A3899-79F5-4E33-BC1A-0944D109D214"
+		"uuidString": "20E62D23-D988-425C-B634-75E0186A6205"
 		}
 	],
 "creatorBuild": "25900",
@@ -30,7 +30,7 @@
 	"\/about-disabled.kit": {
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/Applications\/MAMP_2017-08-31_10-49-40\/htdocs\/churchv2\/about-disabled.php",
+		"oAP": "\/Applications\/MAMP\/htdocs\/churchv2\/about-disabled.php",
 		"oF": 6
 		},
 	"\/about-events.kit": {
@@ -45,6 +45,12 @@
 		"oAP": "\/Applications\/MAMP\/htdocs\/churchv2\/about.php",
 		"oF": 6
 		},
+	"\/contact.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/contact.html",
+		"oF": 0
+		},
 	"\/contact.kit": {
 		"ft": 2048,
 		"oA": 0,
@@ -56,6 +62,12 @@
 		"oA": 0,
 		"oAP": "\/Applications\/MAMP\/htdocs\/churchv2\/diary.php",
 		"oF": 6
+		},
+	"\/holidayclub.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/holidayclub.html",
+		"oF": 0
 		},
 	"\/holidayclub.kit": {
 		"ft": 2048,
@@ -87,10 +99,10 @@
 "manualImportLinks": {
 	},
 "projectAttributes": {
-	"creationDate": 521457251,
-	"displayValue": "churchv2-kit",
+	"creationDate": 525951424,
+	"displayValue": "churchv2",
 	"displayValueWasSetByUser": 1,
-	"iconImageName": "meme-leo"
+	"iconImageName": "meme-drunkArcher"
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -892,7 +904,7 @@
 			},
 		"no-extra-parens": {
 			"active": 0,
-			"optionString": "'all', {'conditionalAssign': false, 'returnAssign': false, 'nestedBinaryExpressions': false, 'ignoreJSX': 'none'}"
+			"optionString": "'all', {'conditionalAssign': false, 'returnAssign': false, 'nestedBinaryExpressions': false, 'ignoreJSX': 'none', 'enforceForArrowConditionals': false}"
 			},
 		"no-extra-semi": {
 			"active": 1,
@@ -1140,7 +1152,7 @@
 			},
 		"no-sync": {
 			"active": 0,
-			"optionString": ""
+			"optionString": "{'allowAtRootLevel': false}"
 			},
 		"no-tabs": {
 			"active": 0,
@@ -1164,7 +1176,7 @@
 			},
 		"no-trailing-spaces": {
 			"active": 0,
-			"optionString": "{'skipBlankLines': false}"
+			"optionString": "{'skipBlankLines': false, 'ignoreComments': false}"
 			},
 		"no-undef": {
 			"active": 1,
@@ -1180,7 +1192,7 @@
 			},
 		"no-underscore-dangle": {
 			"active": 0,
-			"optionString": "{'allow': [], 'allowAfterThis': false, 'allowAfterSuper': false}"
+			"optionString": "{'allow': [], 'allowAfterThis': false, 'allowAfterSuper': false, 'enforceInMethodNames': false}"
 			},
 		"no-unexpected-multiline": {
 			"active": 1,
@@ -1894,10 +1906,10 @@
 		"autoOutputPathRelativePath": "\/min",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 2,
+		"autoOutputPathStyle": 0,
 		"createSourceMap": 0,
 		"minifyOutput": 1,
-		"syntaxCheckerStyle": 1,
+		"syntaxCheckerStyle": 3,
 		"transpilerStyle": 0
 		},
 	"languageDefaultsJSON": {
@@ -1914,8 +1926,8 @@
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.html",
 		"autoOutputPathRelativePath": "",
-		"autoOutputPathReplace1": "",
-		"autoOutputPathReplace2": "",
+		"autoOutputPathReplace1": "kit",
+		"autoOutputPathReplace2": "html",
 		"autoOutputPathStyle": 0
 		},
 	"languageDefaultsLESS": {
@@ -1925,8 +1937,8 @@
 		"autoOutputPathRelativePath": "..\/css",
 		"autoOutputPathReplace1": "less",
 		"autoOutputPathReplace2": "css",
-		"autoOutputPathStyle": 2,
-		"createSourceMap": 0,
+		"autoOutputPathStyle": 0,
+		"createSourceMap": 1,
 		"disableJavascript": 0,
 		"ieCompatibility": 1,
 		"outputStyle": 0,
@@ -1991,7 +2003,7 @@
 		"autoOutputPathRelativePath": "..\/css",
 		"autoOutputPathReplace1": "sass",
 		"autoOutputPathReplace2": "css",
-		"autoOutputPathStyle": 2,
+		"autoOutputPathStyle": 0,
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
@@ -2019,7 +2031,7 @@
 		"autoOutputPathRelativePath": "..\/css",
 		"autoOutputPathReplace1": "stylus",
 		"autoOutputPathReplace2": "css",
-		"autoOutputPathStyle": 2,
+		"autoOutputPathStyle": 0,
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"importCSS": 0,
@@ -2043,7 +2055,7 @@
 		"autoOutputPathRelativePath": "\/js",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 2,
+		"autoOutputPathStyle": 0,
 		"createDeclarationFile": 0,
 		"createSourceMap": 0,
 		"jsxMode": 0,
@@ -2186,7 +2198,7 @@
 			"flagValue": -1
 			},
 		"screw-ie8": {
-			"active": 0,
+			"active": 1,
 			"flagValue": -1
 			},
 		"semicolons": {
