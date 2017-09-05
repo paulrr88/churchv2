@@ -369,5 +369,7 @@
     "Make sure you have added some editable regions into your page, and then visited that page in your browser. Once you have, the regions should show up here.": "Make sure you have added some editable regions into your page, and then visited that page in your browser. Once you have, the regions should show up here.",
     "Read the getting started guide to find out more": "Read the getting started guide to find out more",
     "Add an item": "Add an item",
-    "Uploading": "Uploading"
+    "Uploading": "Uploading",
+    "Your resources folder is not writable. Make this folder (": "Your resources folder is not writable. Make this folder (",
+    ") writable if you want to upload files and images.": ") writable if you want to upload files and images."
 }
