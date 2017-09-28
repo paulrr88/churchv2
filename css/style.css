@@ -346,9 +346,16 @@ figure.fluid-images-3 img:first-child {
 .homecarousel {
     border-top: 15px solid #ffa726;
     height: 347px;
+    overflow: hidden; /*Helps background image effect below to work*/
 }
-.homecarousel-1 {
-    background: url(../img/bg-hometop.jpg) 0% 0%/100%;
+.homecarousel-bg { /*Background image, manipulation of <img> to act as background so can edit in Perch - solution found via: https://stackoverflow.com/questions/28404760/use-img-tag-inside-a-div-as-the-divs-background-image-with-text-over*/
+    position: absolute;
+    z-index: 0;
+    width: 100%;
+}
+.homecarousel-box { /*Added to description text box to let it overlay the background image above*/
+    position: relative;
+    z-index: 1;
 }
 /*End of home carousel area*/
 

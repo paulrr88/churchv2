@@ -79,43 +79,7 @@
             
             <!--Carousel-->
             
-            <?php /*perch_content('Carousel of events');*/ ?>
-            
-            <div class="carousel twelve columns" style="">
-                <div>
-                    <div class="homecarousel homecarousel-1 twelve columns">
-                        <div class="padding-3">
-                            <article class="background-white75 border-top-15-green boxshadow-softextra6 six columns u-pull-right" role="article">
-                                <h2 class="centre padding-1 textpurple">Title of an activity that we do</h2>
-
-                                <p>Blurb about activity here. This area would be animated to shift through several different areas of potential interest like Holiday Clubs, Friday Club, home groups maybe, anything else we’d like to feature and draw visitors’ attention to.</p>
-                            </article>
-                        </div><!--End of padding-3-->
-                    </div><!--End of home carousel 1-->
-                </div>
-                <div>
-                    <div class="homecarousel twelve columns">
-                        <div class="padding-3">
-                            <article class="background-white75 border-top-15-green boxshadow-softextra6 six columns u-pull-right" role="article">
-                                <h2 class="centre padding-1 textpurple">Title of another activity that we do</h2>
-
-                                <p>Blurb about activity here. This area would be animated to shift through several different areas of potential interest like Holiday Clubs, Friday Club, home groups maybe, anything else we’d like to feature and draw visitors’ attention to.</p>
-                            </article>
-                        </div><!--End of padding-3-->
-                    </div><!--End of home carousel 2-->
-                </div>
-                <div>
-                    <div class="homecarousel twelve columns">
-                        <div class="padding-3">
-                            <article class="background-white75 border-top-15-green boxshadow-softextra6 six columns u-pull-right" role="article">
-                                <h2 class="centre padding-1 textpurple">Title of yet another activity that we do</h2>
-
-                                <p>Blurb about activity here. This area would be animated to shift through several different areas of potential interest like Holiday Clubs, Friday Club, home groups maybe, anything else we’d like to feature and draw visitors’ attention to.</p>
-                            </article>
-                        </div><!--End of padding-3-->
-                    </div><!--End of home carousel 3-->
-                </div>
-            </div>
+            <?php perch_content('Carousel of events'); ?>
             
             <!--End of carousel-->
             

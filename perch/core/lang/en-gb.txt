@@ -371,5 +371,6 @@
     "Add an item": "Add an item",
     "Uploading": "Uploading",
     "Your resources folder is not writable. Make this folder (": "Your resources folder is not writable. Make this folder (",
-    ") writable if you want to upload files and images.": ") writable if you want to upload files and images."
+    ") writable if you want to upload files and images.": ") writable if you want to upload files and images.",
+    "Template tag ID \u2018%s\u2019 contains disallowed characters": "Template tag ID \u2018%s\u2019 contains disallowed characters"
 }
