@@ -328,6 +328,11 @@ figure.fluid-images-3 img:first-child {
   max-width: 50%;
 }
 
+.hidden {
+    display: none;
+    visibility: hidden;
+}
+
 /*Top home area with picture of church etc and boxes*/
 .hometop {
     background: url(../img/bg-hometop.jpg) 0% 0%/100%;

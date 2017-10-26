@@ -9,7 +9,7 @@
   <!-- Basic Page Needs
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <meta charset="utf-8">
-  <title>About Us &mdash; Ferring Baptist Church</title>
+  <title>About Us &mdash; Disabled Facilities &mdash; Ferring Baptist Church</title>
   <meta name="description" content="TBD">
 
   <!-- Mobile Specific Metas
@@ -85,34 +85,7 @@
         <main class="content textmid" role="main"><!--Container for ALL content, everything inside this-->
             
             <article class="background-white75 border-top-15-orange boxshadow-softextra6 clear eight columns margin-6-top offset-by-two" role="article">
-                <h1 class="padding-1">Toilet facilities</h1>
-                
-                <?php /*perch_content('Disabled facilities details');*/ ?>
-
-                <ul class="padding-3">
-                    <li>There is a purpose-built WC for the disabled.</li>
-                </ul>
-
-                <h1 class="padding-1">For people who use wheelchairs</h1>
-                
-                <ul class="padding-3">
-                    <li>Wheelchair access is via the front entrance.</li>
-                    <li>There is a ramped fire exit.</li>
-                    <li>The church is furnished with chairs rather than pews, therefore spaces can easily be provided for wheelchairs.</li>
-                </ul>
-
-                <h1 class="padding-1">Hymns and projection</h1>
-                
-                <ul class="padding-3">
-                    <li>Hymn books are the "Easy to Read" edition of Mission Praise.</li>
-                    <li>All hymns are projected on Sunday morning, but not usually in the evening. Large print sheets are provided for those who cannot easily read the projected words, and sheets are also available in the evenings when we do not have projection.</li>
-                </ul>
-                
-                <h1 class="padding-1">Audio facilities</h1>
-                
-                <ul class="padding-3">
-                    <li>There is an audio loop system for those who have hearing difficulties.</li>
-                </ul>
+                <?php perch_content('Disabled facilities details'); ?>
             </article>
 
         </main><!--End of content-->

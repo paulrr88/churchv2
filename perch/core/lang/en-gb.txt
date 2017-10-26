@@ -377,5 +377,9 @@
     "Move the page to this location": "Move the page to this location",
     "Warning": "Warning",
     "This option deletes all content from this region.": "This option deletes all content from this region.",
-    "Delete all content from this region immediately": "Delete all content from this region immediately"
+    "Delete all content from this region immediately": "Delete all content from this region immediately",
+    "Required": "Required",
+    "Reordering pages": "Reordering pages",
+    "Drag and drop the pages to reorder them.": "Drag and drop the pages to reorder them.",
+    "Page orders successfully updated.": "Page orders successfully updated."
 }
