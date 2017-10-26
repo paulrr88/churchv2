@@ -372,5 +372,10 @@
     "Uploading": "Uploading",
     "Your resources folder is not writable. Make this folder (": "Your resources folder is not writable. Make this folder (",
     ") writable if you want to upload files and images.": ") writable if you want to upload files and images.",
-    "Template tag ID \u2018%s\u2019 contains disallowed characters": "Template tag ID \u2018%s\u2019 contains disallowed characters"
+    "Template tag ID \u2018%s\u2019 contains disallowed characters": "Template tag ID \u2018%s\u2019 contains disallowed characters",
+    "Subpage folder": "Subpage folder",
+    "Move the page to this location": "Move the page to this location",
+    "Warning": "Warning",
+    "This option deletes all content from this region.": "This option deletes all content from this region.",
+    "Delete all content from this region immediately": "Delete all content from this region immediately"
 }
