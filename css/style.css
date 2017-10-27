@@ -485,6 +485,10 @@ figure.fluid-images-3 img:first-child {
     color: #fff;
 }
 
+.wrap-text { /*Used to force an area to preserve white space, i.e. respect single line breaks*/
+    white-space: pre-wrap;
+}
+
 .vertical-top {
   vertical-align: top;
 }

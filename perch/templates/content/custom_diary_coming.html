@@ -1,0 +1,82 @@
+<perch:help>
+    <p><strong>Instructions:</strong></p>
+    
+    <p>This is for the weekly diary. You can add/delete entries here and change the period that the diary is for, see below.</p>
+    
+    <p><strong>To add a new diary entry:</strong> Click "Add an item" in the lower right corner underneath the bottom-most diary entry.</p>
+    <p><strong>To delete a diary entry:</strong> Mouse over the number next to a diary entry below to get a red X to appear, click the red X to delete the bullet point.</p>
+    <p><strong>To reorder diary entries:</strong> Mouse over the number as above, but instead click and hold on the three lines underneath the red X and drag your mouse down/up to reorder.</p>
+    
+    <p>As ever for any of this to take effect you need to click Save Changes at the bottom. If you make a mistake just click Cancel instead.</p>
+</perch:help>
+
+<p class="floatleft underline">Preaching Schedule <perch:content id="date" type="text" label="Period that current preaching schedule covers" required="true" title="true" help="Format: month year, for example 'July 2022'" /></p> 
+<p class="floatright underline"><strong>(C)</strong> - Communion</p>
+
+<table class="styled" role="grid" summary="Schedule for who is preaching in these coming months">
+    <thead>
+        <tr>
+            <th scope="col">Date</th>
+            <th scope="col">Morning Preacher</th>
+            <th scope="col">Evening Preacher</th>
+        </tr>
+    </thead>
+    <tbody>
+        <perch:repeater id="entries" label="Diary entries" title="true">
+            <tr>
+                <th scope="row"><perch:content id="entrydate" type="text" label="Date of Sunday in question" required="true" title="true" help="Format: month (short form) day, for example 'Jul 1st'" chars="9"/></th>
+                <td><perch:content id="entrymorning" type="text" label="Morning preacher" required="true" title="true" chars="50"/> <perch:content id="communion-morn" type="select" label="Communion?" options="Yes, No" allowempty="false" required="true" />
+                </td>
+                <td>Deanna Clark <strong>(C)</strong></td>
+            </tr>
+        </perch:repeater>
+        <tr class="odd">
+            <th scope="row">Jul 2nd</th>
+            <td>Rev. Trevor Smetham</td>
+            <td>Deanna Clark <strong>(C)</strong></td>
+        </tr>
+        <tr>
+            <th scope="row">Jul 9th</th>
+            <td>Rev. Stuart Robinson</td>
+            <td>Rev. Stuart Robinson</td>
+        </tr>
+        <tr class="odd">
+            <th scope="row">Jul 16th</th>
+            <td>Rev. Stuart Robinson <strong>(C)</strong></td>
+            <td>Rev. Stuart Robinson</td>
+        </tr>
+        <tr>
+            <th scope="row">Jul 23rd</th>
+            <td>Rev. Stuart Robinson</td>
+            <td>Rev. Stuart Robinson</td>
+        </tr>
+        <tr class="odd">
+            <th scope="row">Jul 30th</th>
+            <td>Rev. Stuart Robinson</td>
+            <td>Rev. Stuart Robinson</td>
+        </tr>
+    </tbody>
+</table>
+
+
+
+<p class="centre"><strong>Schedule for the <perch:content id="weeks" type="text" label="Period that diary is for" required="true" title="true" help="Format: week/weeks x to x month, i.e. 'week 16th to 22nd July', or 'weeks 30th July to 13th August'" /></strong></p>
+
+<table class="styled" role="grid" summary="Schedule for events in the coming week(s)">
+    <thead>
+        <tr>
+            <th scope="col">Day/Time</th>
+            <th scope="col">Event</th>
+            <th scope="col">Notes</th>
+        </tr>
+    </thead>
+    <tbody>
+        <perch:repeater id="entries" label="Diary entries" title="true">
+            <tr>
+                <th scope="row"><perch:content id="day" type="select" label="Day of the week" options="Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday" allowempty="false" required="true" /><br><perch:content id="time" type="text" label="Time of event" required="true" title="true" help="Include end time if appropriate, like 3:00-4:00 (20 character limit)" chars="20" /> <perch:content id="ampm" type="select" label="A.M./P.M." options="A.M., P.M." allowempty="false" required="true" /></th>
+                <td><perch:content id="event-title" type="text" label="Title of event" required="true" title="true" order="1" /></td>
+                <td><perch:content id="notes" type="text" label="Any notes about event (optional)" required="false" title="true" help="(100 character limit)" chars="100" /></td>
+            </tr>
+        </perch:repeater>
+    </tbody>
+</table>
