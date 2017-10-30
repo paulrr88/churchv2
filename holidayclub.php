@@ -10,7 +10,7 @@
   <!-- Basic Page Needs
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <meta charset="utf-8">
-  <title>About Us &mdash; Ferring Baptist Church</title>
+  <title>Holiday Clubs &mdash; Ferring Baptist Church</title>
   <meta name="description" content="TBD">
 
   <!-- Mobile Specific Metas
@@ -76,12 +76,14 @@
             <div class="four columns offset-by-one">
             
                 <section aria-label="This year's Holiday Club dates" class="background-white75 border-top-15-orange boxshadow-softextra6 twelve columns margin-6-top" role="complementary">
-                    <h1 class="centre padding-1">This year's Holiday Club will be held <?php /*perch_content('Holiday Club dates box');*/ ?>Tuesday 8th to Friday 11th August.</h1>
+                    <h1 class="centre padding-1">This year's Holiday Club will be held <?php perch_content('Holiday Club dates'); ?>.</h1>
                 </section>
                 
-                <section aria-label="This year's Holiday Club registration forms" class="background-white75 border-top-15-orange boxshadow-softextra6 twelve columns margin-6-top" role="complementary">
-                    <h1 class="centre padding-1">Download this year's <?php /*perch_content('Registration form link');*/ ?> <a>registration form</a></h1>
-                </section>
+                <?php perch_content('Registration form box'); ?>
+                
+                <!--<section aria-label="This year's Holiday Club registration forms" class="background-white75 border-top-15-orange boxshadow-softextra6 twelve columns margin-6-top" role="complementary">
+                    <h1 class="centre padding-1">Download this year's <a>registration form</a></h1>
+                </section>-->
                 
             </div><!--End of four columns left column area-->
 
