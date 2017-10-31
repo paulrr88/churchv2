@@ -81,16 +81,12 @@
                 
                 <?php perch_content('Registration form box'); ?>
                 
-                <!--<section aria-label="This year's Holiday Club registration forms" class="background-white75 border-top-15-orange boxshadow-softextra6 twelve columns margin-6-top" role="complementary">
-                    <h1 class="centre padding-1">Download this year's <a>registration form</a></h1>
-                </section>-->
-                
             </div><!--End of four columns left column area-->
 
             <article class="background-white75 border-top-15-orange boxshadow-softextra6 five columns margin-6-top offset-by-one" role="article">
-                <?php /*perch_content('Holiday Club details/placeholder blurb');*/ ?>
+                <?php perch_content('Holiday Club details/placeholder blurb'); ?>
                 
-                <h1 class="centre padding-1">Summer Holiday Club 2017</h1>
+                <!--<h1 class="centre padding-1">Summer Holiday Club 2017</h1>
 
                 <p>This year's Holiday Club at Ferring Baptist Church will run from <strong>Tuesday 8th August until Friday 11th August</strong>. The sessions will be from <strong>10am – 12 noon on all four mornings and there will be a Grand Finale and buffet on the Friday beginning at 6pm to which families are invited</strong>.  The whole club is free of charge, apart from tickets for food on Friday evening which are sold during the week.  All sessions are led by an experienced team who include Father Gary and Stuart, and every group leader will have obtained the necessary child safeguarding disclosure.</p>
 
@@ -98,7 +94,7 @@
 
                 <p><strong>Children aged 5-11 yrs are welcome and, while not essential, it helps a lot if you register your child(ren) before the club begins</strong>, in order for us to assess the numbers likely to attend.  <strong>You can do this by filling in the form below</strong> and posting it to us at the church, or putting it through the church letter-box when passing by.  Alternatively you are welcome to register your child(ren) on the first morning that they join us.  All children must have the consent of a parent (or adult with legal parental responsibility).</p>
 
-                <p>If you have any queries, please do not hesitate to <a href="mailto:admin@ferringbaptist.org.uk">contact us</a>.</p>
+                <p>If you have any queries, please do not hesitate to <a href="mailto:admin@ferringbaptist.org.uk">contact us</a>.</p>-->
             </article>
             
             <article class="background-white75 border-top-15-orange boxshadow-softextra6 ten columns margin-6-top offset-by-one" role="article">
