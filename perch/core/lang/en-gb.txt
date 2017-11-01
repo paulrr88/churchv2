@@ -382,5 +382,8 @@
     "Reordering pages": "Reordering pages",
     "Drag and drop the pages to reorder them.": "Drag and drop the pages to reorder them.",
     "Page orders successfully updated.": "Page orders successfully updated.",
-    "Editing Shared Regions": "Editing Shared Regions"
+    "Editing Shared Regions": "Editing Shared Regions",
+    "Enable keyboard shortcuts": "Enable keyboard shortcuts",
+    "Skip region list for just one region": "Skip region list for just one region",
+    "Enforce bucket restrictions on content": "Enforce bucket restrictions on content"
 }

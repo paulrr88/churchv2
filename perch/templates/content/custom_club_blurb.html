@@ -1,17 +1,29 @@
 <perch:help>
     <p><strong>Instructions:</strong></p>
     
-    <p>This is for writing multiple blurbs/blocks of text for a given part of a page, with titles for each section of text. You can use "Save and Add Another" to add another titled section. Otherwise just type in the boxes below, the first one being for the title of the section of the text and the bottom for the actual body of the text.</p>
+    <p>This is for the description of Holiday Clubs/this year's Holiday Club.</p>
     
-    Can keep image blank if needed
+    <p><strong>When a club isn't coming up/not planned yet:</strong> The club title below can be left blank, and you can delete the Holiday Club logo by mousing over the image of the logo below and then clicking the red X that appears in the top left corner of the image. You can simply replace the body text with a generic blurb about our clubs.</p>
+    
+    <p><strong>When you want to add club information</strong>: Simply follow the steps above, in reverse! Add a title, image, and change the blurb to a specific description of the club as needed.</p>
+    
+    <p><strong>To upload an image:</strong> Follow the usual steps as with any other image/file on the website:<br /><br />
+    
+    <span style="padding-left: 20px">- Click "Select or upload an image" in the "Holiday Club logo for this year" section below.<br />
+    <span style="padding-left: 20px">- In the resulting Select an Asset box that pops up, either:<br />
+        <span style="padding-left: 40px"> - Click an existing item that you want to link to and then click "Use Selected" (should be highlighted green), or<br />
+        <span style="padding-left: 40px"> - Click the "Add Asset" button in the top right, and then either drop an image into the indicated box area or click the box area to select the file from your computer.<br />
+        <span style="padding-left: 60px">- Click the image that you just added that should now be displayed in green<br />
+        <span style="padding-left: 60px">- Click "Use Selected" in the top right<br />
+        <span style="padding-left: 60px">- <strong>N.B. if you enter this area by accident and want to go back</strong>, click the grey (X) icon in the far top right of the "Select an Asset" box, or press ESC on your keyboard.<br />
+        <span style="padding-left: 60px">- PDF format for documents is preferable if you can manage it as more people can read this format than items created in Word etc!
+    </p>
 </perch:help>
 
-<perch:content id="clubon" type="radio" label="Promotion mode/placeholder blurb mode!" options="Promotion, Placeholder" required="true" title="true" help="Choose promotion mode to have space for an image for the club logo and placeholder mode for just a general blurb about clubs, for when there isn't a club coming up or details are unknown." suppress="true" />
+<h1 class="centre padding-1"><perch:content id="club_title" type="text" label="Club title for this year (leave blank if not known)" required="false" title="true" /></h1>
 
-<perch:content id="image" type="image" label="Holiday Club logo for this year" required="false" title="true" />
+<img class="fluid-100" src="<perch:content id="image" type="image" label="Holiday Club logo for this year" required="false" title="true" />">
 
-<h2 class="centre padding-1"><perch:content id="club_title" type="text" label="Club title for this year" required="false" title="true" /></h2>
-
-<perch:content id="body" type="textarea" label="Body" markdown="true" editor="markitup" required="true" />
+<perch:content id="body" type="textarea" label="Body text" title="true" markdown="true" editor="markitup" required="true" />
 
 <p>If you have any queries, please do not hesitate to <a href="mailto:admin@ferringbaptist.org.uk">contact us</a>.</p>

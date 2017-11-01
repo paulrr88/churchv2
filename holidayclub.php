@@ -76,7 +76,7 @@
             <div class="four columns offset-by-one">
             
                 <section aria-label="This year's Holiday Club dates" class="background-white75 border-top-15-orange boxshadow-softextra6 twelve columns margin-6-top" role="complementary">
-                    <h1 class="centre padding-1">This year's Holiday Club will be held <?php perch_content('Holiday Club dates'); ?>.</h1>
+                    <h1 class="centre padding-1"><?php perch_content('Holiday Club date box'); ?> <?php perch_content('Holiday Club dates'); ?>.</h1>
                 </section>
                 
                 <?php perch_content('Registration form box'); ?>
@@ -85,30 +85,13 @@
 
             <article class="background-white75 border-top-15-orange boxshadow-softextra6 five columns margin-6-top offset-by-one" role="article">
                 <?php perch_content('Holiday Club details/placeholder blurb'); ?>
-                
-                <!--<h1 class="centre padding-1">Summer Holiday Club 2017</h1>
-
-                <p>This year's Holiday Club at Ferring Baptist Church will run from <strong>Tuesday 8th August until Friday 11th August</strong>. The sessions will be from <strong>10am – 12 noon on all four mornings and there will be a Grand Finale and buffet on the Friday beginning at 6pm to which families are invited</strong>.  The whole club is free of charge, apart from tickets for food on Friday evening which are sold during the week.  All sessions are led by an experienced team who include Father Gary and Stuart, and every group leader will have obtained the necessary child safeguarding disclosure.</p>
-
-                <p>The background to this year's theme is that the spire of light at the centre of the city of Ancora has grown dim; the stories of Jesus will enable it to shine brightly again! <strong>Each story is presented on film, and daily activities include games, songs, quizzes and crafts</strong>. Games are outdoors whenever weather allows, and safe footwear (eg trainers rather than flip-flops) is essential every day.  Games on Friday morning will involve a certain amount of water, but if you do not want your child to get wet you can indicate this on the form below.  We also include Holiday Club photographs in the publicity on this website, and it is possible that your child's face might appear in one of these.  Again, if you do not wish this to happen you can refuse permission on the form below.</p>
-
-                <p><strong>Children aged 5-11 yrs are welcome and, while not essential, it helps a lot if you register your child(ren) before the club begins</strong>, in order for us to assess the numbers likely to attend.  <strong>You can do this by filling in the form below</strong> and posting it to us at the church, or putting it through the church letter-box when passing by.  Alternatively you are welcome to register your child(ren) on the first morning that they join us.  All children must have the consent of a parent (or adult with legal parental responsibility).</p>
-
-                <p>If you have any queries, please do not hesitate to <a href="mailto:admin@ferringbaptist.org.uk">contact us</a>.</p>-->
             </article>
             
             <article class="background-white75 border-top-15-orange boxshadow-softextra6 ten columns margin-6-top offset-by-one" role="article">
-                <?php /*perch_content('Holiday Club photos area');*/ ?>
-                
-                <h1 class="centre padding-1">Pictures from Rocky's Plaice (2016)</h1>
-                
-                <p>(All identifiable pictures of children used with permission of parents)</p>
-
-                
+                <?php perch_content('Holiday Club photos area'); ?>
             </article>
             
-           
-
+            <div class="spacer"></div>
         </main><!--End of content-->
 
           </div><!--END OF CONTAINER-->
