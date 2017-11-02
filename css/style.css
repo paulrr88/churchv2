@@ -292,6 +292,9 @@ ul.nostyle {                                             /* removes styling from
 .border-top-15-green {
     border-top: 15px solid #d4e157;
 }
+.border-1 {
+    border: 1rem solid blue;
+}
 
 .boxshadow-softextra6 {
     box-shadow: 6px 6px 20px #444;
@@ -319,6 +322,12 @@ figure.fluid-images-3 img {     /*figure area containing 3 images side by side*/
 }
 figure.fluid-images-3 img:first-child {
   padding-left: 0;
+}
+
+figure.fluid-images-hc img {     /*figure area containing 3 images side by side*/
+    /*float: left; had to remove as when you put a link in around images it ruins any margins etc for some reason */ /*Lets them stack*/
+    margin-left: 2%; /*this works for some reason, I can't use first-child as that removes all margins and padding between items somehow. Could have something to do with Perch, I have no idea.*/
+    max-width: 30.33%; /*-3% due to padding-left %*/
 }
 
 .fluid-100 {
@@ -375,6 +384,10 @@ figure.fluid-images-3 img:first-child {
   float: left;
 }
 
+.link-nostyle {
+    text-decoration: none;
+}
+
 .list-contents {
     background: #fff;
     border-top: 5px solid #ffa726;
@@ -403,8 +416,17 @@ figure.fluid-images-3 img:first-child {
 .margin-1-top {
     margin-top: 1rem;
 }
+.margin-2 {
+    margin: 2rem;
+}
+.margin-2-left {
+    margin-left: 2rem;
+}
 .margin-2-top {
     margin-top: 2rem;
+}
+.margin-3-left {
+    margin-left: 3rem;
 }
 .margin-4-top {
     margin-top: 4rem;

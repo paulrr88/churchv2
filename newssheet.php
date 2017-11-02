@@ -73,9 +73,10 @@
         
         <main class="content textmid" role="main"><!--Container for ALL content, everything inside this-->
             
-            <article class="background-white75 border-top-15-orange boxshadow-softextra6 clear eight columns margin-6-top offset-by-two" role="article">
-                <?php /*perch_content('This week's newssheet);*/ ?>
-                Eyy
+            <article class="background-white75 border-top-15-orange boxshadow-softextra6 clear ten columns margin-6-top offset-by-one" role="article">
+                <div class="border-1 margin-4">
+                    <?php perch_content('This week\'s newssheet'); ?>
+                </div>
             </article>
             
            

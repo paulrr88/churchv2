@@ -36,6 +36,12 @@
     padding-left: 0.5em;
     }
     
+    figure.fluid-images-hc img {     /*figure area containing 3 images side by side*/
+        /*float: left; had to remove as when you put a link in around images it ruins any margins etc for some reason */ /*Lets them stack*/
+        margin-left: 2%; /*this works for some reason, I can't use first-child as that removes all margins and padding between items somehow. Could have something to do with Perch, I have no idea.*/
+        max-width: 96%; /*-3% due to padding-left %*/
+    }
+    
     .homecarousel {
         height: 400px;
         
@@ -67,36 +73,36 @@
     text-align:center;
   }
 
-  #content {
+    #content {
     margin-top: 150px; /*allows navigation to overlay content box, if it was all margin it would have a clear break behind the navigation which looks bad for this design*/
     padding-top: 6em;
-  }
-    
+    }
+
     #nav-main ul li {
         font-size: 2.5rem;
     }
 
-  #top { /*centres it on tablet*/
-    width: 100%;
-    margin: 0 auto;
-    text-align: center;
-  }
-  #top ul li {
-    font-size: 1.5rem;                                    /* fixes top logos etc so they don't interfere with design on lower resolutions; forces them to align centre-ish and out of the way of top graphics */
-    display: inline;
-  }
-  #top img {
-    width: 70px;
-  }
+    #top { /*centres it on tablet*/
+        width: 100%;
+        margin: 0 auto;
+        text-align: center;
+    }
+    #top ul li {
+        font-size: 1.5rem;                                    /* fixes top logos etc so they don't interfere with design on lower resolutions; forces them to align centre-ish and out of the way of top graphics */
+        display: inline;
+    }
+    #top img {
+        width: 70px;
+    }
 
-  img.content-box-img-fullwidth { /*stops images from becoming HUGE*/
-    margin: 0 0 0 24%;
-    padding: 0;
-    width: 50%;
-  }
-  img.fluid {      /*Removes padding so can change image layout based on container which is safer with breakpoints, lets me alter an image's layout depending on circumstances, not global*/
-    padding: 0;
-  }
+    img.content-box-img-fullwidth { /*stops images from becoming HUGE*/
+        margin: 0 0 0 24%;
+        padding: 0;
+        width: 50%;
+        }
+        img.fluid {      /*Removes padding so can change image layout based on container which is safer with breakpoints, lets me alter an image's layout depending on circumstances, not global*/
+        padding: 0;
+    }
     
     .hometop {
         background: url(../img/bg-hometop.jpg) 60% 20%/330%;
@@ -106,10 +112,12 @@
         margin-right: 0;
         width: 100%;
     }
-    
+
     .textbig2 {
         font-size: 5rem;
     }
+    
+
 }
 
 @media screen and (max-width: 500px) { /*Mobile phones*/
