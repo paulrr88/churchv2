@@ -74,12 +74,13 @@
         <main class="content textmid" role="main"><!--Container for ALL content, everything inside this-->
             
             <article class="background-white75 border-top-15-orange boxshadow-softextra6 clear ten columns margin-6-top offset-by-one" role="article">
-                <div class="border-1 margin-4">
+                <div class="eight columns offset-by-two margin-4-top">
                     <?php perch_content('This week\'s newssheet'); ?>
                 </div>
+                <div class="spacer"></div>
             </article>
             
-           
+            <div class="spacer"></div>
 
         </main><!--End of content-->
 

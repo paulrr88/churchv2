@@ -75,15 +75,9 @@
             <article class="background-white75 border-top-15-orange boxshadow-softextra6 clear six columns margin-6-top offset-by-three" role="article">
                 <h1 class="centre padding-1">Get in Contact</h1>
 
-                
-
                 <p>If you have any inquiries about the church please let us know!</p>
-                
-                <?php /*perch_content('Contact details');*/ ?>
-
-                <p>Email: <strong><a href="mailto:admin@ferringbaptist.org.uk">admin@ferringbaptist.org.uk</a></strong></p>
-
-
+                    
+                <?php perch_content('Contact details'); ?>
             </article>
             
             <article class="background-white75 border-top-15-orange boxshadow-softextra6 ten columns margin-6-top offset-by-one" role="article">
@@ -91,19 +85,20 @@
                 
                 <h2 class="centre padding-1">Address</h2>
                 
-                <?php /*perch_content('Address'); make this global*/ ?>
-                
-                <p class="centre">Ferring Baptist Church<br>
-                    Greystoke Road<br>
-                    Ferring<br>
-                    Worthing<br>
-                    West Sussex<br>
-                    BN12 5JL</p>
+                <div class="centre wrap-text">
+                    <?php perch_content('Address'); ?>
+                </div>
                 
                 <h2 class="centre padding-1">Map</h2>
                 
-                <p>TBD</p>
+                <div class="eight columns offset-by-two">
+                    <?php perch_content('Map to our location'); ?>
+                </div>
+                
+                <div class="spacer"></div>
             </article>
+            
+            <div class="spacer"></div>
 
         </main><!--End of content-->
 
