@@ -1,22 +1,24 @@
 <perch:help>
-    <p>For the carousell on the home page. Instructions to edit are below!</p>
+    <p>For the carrousel on the home page. Instructions to edit are below!</p>
 
     <p></p>
 </perch:help>
 
             <div class="carousel twelve columns">
-                <div>
-                    <div class="homecarousel twelve columns">
-                        <img src="img/bg-hometop.jpg" class="fluid-100 homecarousel-bg">
-                        <div class="padding-3">
-                            <article class="background-white75 border-top-15-green boxshadow-softextra6 homecarousel-box six columns u-pull-right" role="article">
-                                <h2 class="centre padding-1 textpurple"><perch:content id="carousell_title" type="text" label="Title of activity" required="true" title="true" /></h2>
+                <perch:repeater id="carrousel" label="Carrousel sections" title="true">
+                    <div>
+                        <div class="homecarousel twelve columns">
+                            <img src="<perch:content id="background" type="image" label="Background image for section" title="true" required="true" quality="75" />" class="fluid-100 homecarousel-bg">
+                            <div class="padding-3">
+                                <article class="background-white75 border-top-15-green boxshadow-softextra6 homecarousel-box six columns u-pull-right" role="article">
+                                    <h2 class="centre padding-1 textpurple"><perch:content id="carrousel_title" type="text" label="Title of activity" required="true" title="true" /></h2>
 
-                                <perch:content id="carousell_text" type="textarea" label="Description of activity" markdown="true" editor="markitup" imagewidth="640" imageheight="480" maxlength="675" required="true" />
-                            </article>
-                        </div><!--End of padding-3-->
-                    </div><!--End of carousell section-->
-                </div>
+                                    <perch:content id="carrousel_text" type="textarea" label="Description of activity" markdown="true" editor="markitup" imagewidth="640" imageheight="480" maxlength="675" required="true" />
+                                </article>
+                            </div><!--End of padding-3-->
+                        </div><!--End of carousell section-->
+                    </div>
+                </perch:repeater>
             </div>
 
 

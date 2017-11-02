@@ -385,5 +385,6 @@
     "Editing Shared Regions": "Editing Shared Regions",
     "Enable keyboard shortcuts": "Enable keyboard shortcuts",
     "Skip region list for just one region": "Skip region list for just one region",
-    "Enforce bucket restrictions on content": "Enforce bucket restrictions on content"
+    "Enforce bucket restrictions on content": "Enforce bucket restrictions on content",
+    "The template for this region (%s) cannot be found.": "The template for this region (%s) cannot be found."
 }
