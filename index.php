@@ -69,13 +69,18 @@
 
         <main class="content" role="main"><!--Container for ALL content, everything inside this-->
             <div class="hometop twelve columns">
-                    <article class="background-white75 boxshadow-softextra6 four columns hometop-news u-pull-right" role="article">
-                        <?php perch_content('Important news section at top'); ?>
-                    </article>
+                <div class="spacer-750"></div>
+                <article class="background-white75 boxshadow-softextra6 four columns hometop-news u-pull-right margin-4" role="article">
+                    <?php perch_content('Important news section at top'); ?>
+                </article>
                 <article class="background-white75 border-top-15-orange boxshadow-softextra6 clear six columns margin-2-top" role="article">
                     <?php perch_content('Intro blurb at top'); ?>
                 </article>
+                <div class="spacer"></div>
             </div><!--End of hometop-->
+            
+            
+            <!--Need these to get the box to fit on tablet resolutions-->
             
             <!--Carousel-->
             

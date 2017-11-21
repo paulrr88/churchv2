@@ -7,75 +7,87 @@
 		"uuidString": "20E62D23-D988-425C-B634-75E0186A6205"
 		}
 	],
-"creatorBuild": "25900",
+"creatorBuild": "26148",
 "files": {
 	"\/_footer.kit": {
+		"cB": 0,
 		"ft": 2048,
 		"oA": 1,
 		"oAP": "\/_footer.html",
 		"oF": 0
 		},
 	"\/_opening-about.kit": {
+		"cB": 0,
 		"ft": 2048,
 		"oA": 1,
 		"oAP": "\/_opening-about.html",
 		"oF": 0
 		},
 	"\/_opening.kit": {
+		"cB": 0,
 		"ft": 2048,
 		"oA": 1,
 		"oAP": "\/_opening.html",
 		"oF": 0
 		},
 	"\/about-disabled.kit": {
+		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
 		"oAP": "\/Applications\/MAMP\/htdocs\/churchv2\/about-disabled.php",
 		"oF": 6
 		},
 	"\/about-events.kit": {
+		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
 		"oAP": "\/Applications\/MAMP\/htdocs\/churchv2\/about-events.php",
 		"oF": 6
 		},
 	"\/about.kit": {
+		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
 		"oAP": "\/Applications\/MAMP\/htdocs\/churchv2\/about.php",
 		"oF": 6
 		},
 	"\/contact.kit": {
+		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
 		"oAP": "\/Applications\/MAMP\/htdocs\/churchv2\/contact.php",
 		"oF": 6
 		},
 	"\/diary.kit": {
+		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
 		"oAP": "\/Applications\/MAMP\/htdocs\/churchv2\/diary.php",
 		"oF": 6
 		},
 	"\/holidayclub.kit": {
+		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
 		"oAP": "\/Applications\/MAMP\/htdocs\/churchv2\/holidayclub.php",
 		"oF": 6
 		},
 	"\/index.kit": {
+		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
 		"oAP": "\/Applications\/MAMP\/htdocs\/churchv2\/index.php",
 		"oF": 6
 		},
 	"\/newssheet.kit": {
+		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
 		"oAP": "\/Applications\/MAMP\/htdocs\/churchv2\/newssheet.php",
 		"oF": 6
 		},
 	"\/sitemap.kit": {
+		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
 		"oAP": "\/Applications\/MAMP\/htdocs\/churchv2\/sitemap.php",
@@ -626,6 +638,10 @@
 			"active": 0,
 			"optionString": "'expression'"
 			},
+		"function-paren-newline": {
+			"active": 0,
+			"optionString": "'multiline'"
+			},
 		"generator-star-spacing": {
 			"active": 0,
 			"optionString": "{'before': true, 'after': false}"
@@ -690,9 +706,9 @@
 			"active": 0,
 			"optionString": "{'beforeBlockComment': true}"
 			},
-		"lines-around-directive": {
+		"lines-between-class-members": {
 			"active": 0,
-			"optionString": "{'before': 'always', 'after': 'always'}"
+			"optionString": "'always', {exceptAfterSingleLine: false}"
 			},
 		"max-depth": {
 			"active": 0,
@@ -722,6 +738,10 @@
 			"active": 0,
 			"optionString": "{'max': 1}"
 			},
+		"multiline-comment-style": {
+			"active": 0,
+			"optionString": "'starred-block'"
+			},
 		"multiline-ternary": {
 			"active": 0,
 			"optionString": "'always'"
@@ -731,14 +751,6 @@
 			"optionString": "{'newIsCap': true, 'capIsNew': true, 'newIsCapExceptions': [], 'capIsNewExceptions': ['Array', 'Boolean', 'Date', 'Error', 'Function', 'Number', 'Object', 'RegExp', 'String', 'Symbol'], 'properties': true}"
 			},
 		"new-parens": {
-			"active": 0,
-			"optionString": ""
-			},
-		"newline-after-var": {
-			"active": 0,
-			"optionString": "'always'"
-			},
-		"newline-before-return": {
 			"active": 0,
 			"optionString": ""
 			},
@@ -1842,7 +1854,8 @@
 		"createSourceMap": 0,
 		"minifyOutput": 1,
 		"outputStyle": 0,
-		"syntaxCheckerStyle": 1
+		"syntaxCheckerStyle": 1,
+		"transpilerStyle": 1
 		},
 	"languageDefaultsCSS": {
 		"autoOutputAction": 0,
@@ -1875,6 +1888,7 @@
 		"noEscapeInAttributes": 0,
 		"outputFormat": 2,
 		"outputStyle": 0,
+		"shouldRunCacheBuster": 0,
 		"useCDATA": 0,
 		"useDoubleQuotes": 0,
 		"useUnixNewlines": 0
@@ -1916,7 +1930,8 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "kit",
 		"autoOutputPathReplace2": "html",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsLESS": {
 		"allowInsecureImports": 0,
@@ -1948,13 +1963,13 @@
 		"enableFootnotes": 1,
 		"enableLabels": 1,
 		"enableSmartQuotes": 1,
-		"escapeLineBreaks": 0,
 		"maskEmailAddresses": 1,
 		"outputFormat": 0,
 		"outputStyle": 0,
 		"parseMetadata": 1,
 		"processHTML": 0,
 		"randomFootnoteNumbers": 0,
+		"shouldRunCacheBuster": 0,
 		"useCompatibilityMode": 0
 		},
 	"languageDefaultsOTHER": {
@@ -1963,7 +1978,8 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsPNG": {
 		"autoOutputAction": 0,
@@ -1983,7 +1999,8 @@
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
 		"compileDebug": 1,
-		"outputStyle": 0
+		"outputStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsSASS": {
 		"autoOutputAction": 0,
@@ -2011,7 +2028,8 @@
 		"logicless": 0,
 		"outputFormat": 0,
 		"outputStyle": 1,
-		"railsCompatible": 0
+		"railsCompatible": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsSTYLUS": {
 		"autoOutputAction": 0,

@@ -17,7 +17,7 @@
         <!--@import opening-about-->
         
         <main class="content textmid" role="main"><!--Container for ALL content, everything inside this-->
-            <div class="five columns">
+            <div class="six columns">
                 <article class="background-white75 border-top-15-orange boxshadow-softextra6 clear twelve columns margin-6-top offset-by-one" role="article">
                     <?php perch_content('About Us blurb at top'); ?>
                 </article>
@@ -25,15 +25,17 @@
                 <section aria-label="check our other pages" class="background-white75 border-top-15-orange boxshadow-softextra6 clear twelve columns margin-2-top offset-by-one" role="complementary">
                     <p class="centre textmid2"><strong>If you want to know more about our church, please click on the headings above!</strong></p>
                 </section>
-                
-                <section aria-label="service times" class="background-white75 border-top-15-orange boxshadow-softextra6 twelve columns margin-2-top offset-by-one" role="complementary">
+            </div><!--End of five columns, left column-->
+            
+            <div class="five columns offset-by-one">
+                <section aria-label="service times" class="background-white75 border-top-15-orange boxshadow-softextra6 twelve columns margin-6-top" role="complementary">
                     <h1 class="centre padding-1">Services</h1>
 
                     <?php perch_content('Services details'); ?>
                 </section>
-            </div><!--End of five columns, left column-->
+            </div><!--End of five columns, right column-->
             
-            <article class="background-white75 border-top-15-orange boxshadow-softextra6 five columns margin-6-top offset-by-two" role="article">
+            <article class="background-white75 border-top-15-orange boxshadow-softextra6 five columns margin-4-top offset-by-one" role="article">
                 <h1 class="centre padding-1">Our Location</h1>
                 
                 <h2 class="padding-1">Address</h2>
@@ -49,10 +51,12 @@
                     
                     <p class="centre nopadding nomargin"><a href="<!--$dir-->img/map.jpg">(Click to enlarge)</a></p>
                     <p class="centre nopadding"><a href="https://www.google.co.uk/maps/place/Ferring+Baptist+Church/@50.8135471,-0.4512601,17z/data=!3m1!4b1!4m5!3m4!1s0x4875a37ab2c84bdb:0xe47edae588f900ad!8m2!3d50.8135437!4d-0.4490661">Click here for Google Maps</a></p>
+                    
+                    <div class="spacer"></div>
                 </div>
             </article>
             
-            
+            <div class="spacer"></div>
             
            
 

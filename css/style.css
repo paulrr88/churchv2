@@ -344,13 +344,10 @@ figure.fluid-images-hc img {     /*figure area containing 3 images side by side*
 
 /*Top home area with picture of church etc and boxes*/
 .hometop {
-    background: url(../img/bg-hometop.jpg) 0% 0%/100%;
-    height: 596px;
-    padding: 3rem 0 0 0;
+    background: url(../img/bg-hometop.jpg) 0% 0%/100% no-repeat;
 }
 .hometop-news {
     border-top: 15px solid #fea626;
-    margin-right: 3rem;
 }
 .hometop-news h2 {
     color: #ff7043;
@@ -359,7 +356,7 @@ figure.fluid-images-hc img {     /*figure area containing 3 images side by side*
 /*Home carousel underneath the above*/
 .homecarousel {
     border-top: 15px solid #ffa726;
-    height: 347px;
+    min-height: 347px; /*Prevents box from collapsing to size of blurb text box too much; makes sure a good amount of background image shows*/
     overflow: hidden; /*Helps background image effect below to work*/
 }
 .homecarousel-bg { /*Background image, manipulation of <img> to act as background so can edit in Perch - solution found via: https://stackoverflow.com/questions/28404760/use-img-tag-inside-a-div-as-the-divs-background-image-with-text-over*/
@@ -454,6 +451,9 @@ figure.fluid-images-hc img {     /*figure area containing 3 images side by side*
 .padding-1 {
   padding: 1rem;
 }
+.padding-2 {
+  padding: 2rem;
+}
 .padding-3 {
   padding: 3rem;
 }
@@ -462,6 +462,12 @@ figure.fluid-images-hc img {     /*figure area containing 3 images side by side*
 }
 .padding-3-right {
   padding-right: 3rem;
+}
+.padding-4 {
+  padding: 4rem;
+}
+.padding-4-left {
+  padding-left: 4rem;
 }
 
 .right {

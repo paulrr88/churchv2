@@ -42,17 +42,20 @@
         max-width: 96%; /*-3% due to padding-left %*/
     }
     
-    .homecarousel {
-        height: 400px;
-        
-    }
     .homecarousel-bg {
-        
+        border-bottom: 15px solid #ffa726;
+        min-height: 0; /*Allows box to resize according just to length of blurb*/
     }
+
     .hometop {
-        background: url(../img/bg-hometop.jpg) 60% 0%/215%;
-        height: 700px;
+        background: url(../img/bg-hometop.jpg) 70% 0%/275% no-repeat;
     }
+        /*Extra breakpoint just for this element as it looks weird at smallest desktop resolutions*/
+        @media screen and (max-width: 900px) { 
+            .hometop {
+                background: url(../img/bg-hometop.jpg) 0% 0%/275% no-repeat;
+            }
+        }
 }
 
 @media screen and (max-width: 750px) { /*Tablet*/
@@ -105,12 +108,15 @@
     }
     
     .hometop {
-        background: url(../img/bg-hometop.jpg) 60% 20%/330%;
-        height: 590px;
+        background: url(../img/bg-hometop.jpg) 10% 50%/300% no-repeat;
     }
     .hometop-news {
         margin-right: 0;
         width: 100%;
+    }
+    
+    .spacer-750 {
+        margin-top: 4em;
     }
 
     .textbig2 {
@@ -182,10 +188,15 @@
     }
     
     .hometop {
-        background: url(../img/bg-hometop.jpg) 60% 0%/540%;
+        background: url(../img/bg-hometop.jpg) 10% 40%/440% no-repeat;
         height: 750px;
     }
 
+    .homecarousel-box {
+        margin-top: 90%;
+        margin-bottom: 3em;
+    }
+    
   .left {
     float: none;                                            /* just because floating doesn't work on mobile,
                                                             same below */
