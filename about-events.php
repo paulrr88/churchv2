@@ -84,7 +84,7 @@
         
         <main class="content textmid" role="main"><!--Container for ALL content, everything inside this-->
             
-            <div class="five columns">
+            <div class="six columns">
                 <article class="background-white75 border-top-15-orange boxshadow-softextra6 clear twelve columns margin-6-top offset-by-one" role="article">
                     <h1 class="padding-1">Children &amp; Youth</h1>
                     

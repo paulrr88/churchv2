@@ -42,6 +42,12 @@
         max-width: 96%; /*-3% due to padding-left %*/
     }
     
+    .container { /*Change container to fill 100% width on lower resolutions, makes more room for content boxes*/
+        box-shadow: 0px 0px 0px;
+        margin: 0;
+        width: 100%;
+    }
+    
     .homecarousel-bg {
         border-bottom: 15px solid #ffa726;
         min-height: 0; /*Allows box to resize according just to length of blurb*/
@@ -104,6 +110,15 @@
         width: 50%;
         }
         img.fluid {      /*Removes padding so can change image layout based on container which is safer with breakpoints, lets me alter an image's layout depending on circumstances, not global*/
+        padding: 0;
+    }
+    
+    /*Prevents alignment issues when tables restyled at this breakpoint*/
+    td.event { 
+        padding: 0;
+        width: 100%; 
+    }
+    table.styled td {
         padding: 0;
     }
     

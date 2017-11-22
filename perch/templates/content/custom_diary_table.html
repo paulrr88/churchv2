@@ -24,8 +24,8 @@
         <perch:repeater id="entries" label="Diary entries" title="true">
             <tr>
                 <th scope="row"><perch:content id="day" type="select" label="Day of the week" options="Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday" allowempty="false" required="true" /><br><perch:content id="time" type="text" label="Time of event" required="true" title="true" help="Include end time if appropriate, like 3:00-4:00 (20 character limit)" chars="20" /> <perch:content id="ampm" type="select" label="A.M./P.M." options="A.M., P.M." allowempty="false" required="true" /></th>
-                <td><perch:content id="event-title" type="text" label="Title of event" required="true" title="true" order="1" /></td>
-                <td><perch:content id="notes" type="text" label="Any notes about event (optional)" required="false" title="true" help="(100 character limit)" chars="100" /></td>
+                <td class="event"><perch:content id="event-title" type="text" label="Title of event" required="true" title="true" order="1" /></td>
+                <td class="notes"><perch:content id="notes" type="text" label="Any notes about event (optional)" required="false" title="true" help="(100 character limit)" chars="100" /></td>
             </tr>
         </perch:repeater>
     </tbody>

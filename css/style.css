@@ -244,6 +244,26 @@ p.centre {
   text-align: center;
 }
 
+table.styled { /*Used for diary items and coming weeks schedule*/
+    background-color: antiquewhite;
+}
+    table.styled th {
+        background-color: bisque;
+        padding: 1rem;
+    }
+    table.styled tr:nth-child(even) {
+        background: #ccc;
+    }
+    table.styled tr:nth-child(odd) {
+        background: #fff;
+    }
+    table.styled td {
+        padding: 1rem;
+    }
+    td.event {
+        width: 15rem;
+    }
+
 ul.body {
   padding-left: 0.5em;
   margin: 0 auto;

@@ -72,30 +72,30 @@
         </div>
         
         <main class="content textmid" role="main"><!--Container for ALL content, everything inside this-->
-            <div class="five columns">
-                <article class="background-white75 border-top-15-orange boxshadow-softextra6 clear twelve columns margin-6-top offset-by-one" role="article">
-                    
-                    <h1 class="centre padding-1">This Week's Diary</h1>
-                    
-                    <?php perch_content('This week\'s diary'); ?>
-                </article>
-                
-                <section aria-label="service times" class="background-white75 border-top-15-orange boxshadow-softextra6 twelve columns margin-2-top offset-by-one" role="complementary">
-                    <h1 class="centre padding-1">Services</h1>
+            <article class="background-white75 border-top-15-orange boxshadow-softextra6 ten columns margin-6-top offset-by-one" role="article">
+                <h1 class="centre padding-1">This Week's Diary</h1>
 
-                    <?php perch_content('Services details'); ?>
-                </section>
-            </div><!--End of five columns, left column-->
+                <?php perch_content('This week\'s diary'); ?>
+            </article>
             
-            <article class="background-white75 border-top-15-orange boxshadow-softextra6 five columns margin-6-top offset-by-two" role="article">
+            <article class="background-white75 border-top-15-orange boxshadow-softextra6 six columns margin-6-top" role="article">
                 <h1 class="centre padding-1">Coming Weeks Schedule</h1>
-                
+
                 <?php perch_content('Coming weeks schedule'); ?>
             </article>
             
-            <section class="background-white75 border-top-15-orange boxshadow-softextra6 five columns offset-by-two margin-6-top" role="complementary">
+            <section aria-label="service times" class="background-white75 border-top-15-orange boxshadow-softextra6 five columns margin-6-top margin-2-top" role="complementary">
+                <h1 class="centre padding-1">Services</h1>
+
+                <?php perch_content('Services details'); ?>
+            </section>
+            
+            <section class="background-white75 border-top-15-orange boxshadow-softextra6 five columns margin-2-top" role="complementary">
                 <h1 class="centre padding-1"><a href="">See our other regular events</a></h1>
             </section>
+            
+            <div class="spacer"></div>
+            <div class="spacer"></div>
 
         </main><!--End of content-->
 
