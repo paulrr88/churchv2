@@ -245,24 +245,36 @@ p.centre {
 }
 
 table.styled { /*Used for diary items and coming weeks schedule*/
-    background-color: antiquewhite;
+    margin: 0 auto;
+    width: 80%;
 }
     table.styled th {
-        background-color: bisque;
+        background-color: #a3c8d9;
         padding: 1rem;
     }
     table.styled tr:nth-child(even) {
-        background: #ccc;
+        background: #d1e6f0;
     }
     table.styled tr:nth-child(odd) {
-        background: #fff;
+        background: #bfdfed;
     }
     table.styled td {
         padding: 1rem;
     }
-    td.event {
-        width: 15rem;
+    tbody.tablecoming td {
+        text-align: center;
     }
+    td.event {
+        text-align: center;
+        width: 20rem;
+    }
+    tr.tabletop {
+        border-bottom: 3px solid #000;
+    }
+    tr.tabletop th {
+        background: #ffa145;
+    }
+    
 
 ul.body {
   padding-left: 0.5em;
@@ -305,6 +317,25 @@ ul.nostyle {                                             /* removes styling from
 }
 
 /*End background colours*/
+
+/*Page background images*/
+
+/*Using same trickery as the caroussel below except I'm not using <img>*/
+.bgimage {
+    overflow: hidden;
+}
+.bgimage-hc {
+    background: #000;
+    min-height: 347px;
+    position: absolute;
+    z-index: 0;
+    width: 100%;
+}
+.bgoverlaid {
+    z-index: 3;
+}
+
+/*End of page background images*/
 
 .border-top-15-orange {
     border-top: 15px solid #ff7043;

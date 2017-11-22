@@ -14,31 +14,37 @@
   <!-- Primary Page Layout
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
 
-        <div class="centre margin-4-top textshadow-soft textwhite">
-            <h1 class="textbig">Holiday Clubs</h1>
+        <div class="bgimage">
+            <div class="bgimage-hc"></div>
         </div>
-        
-        <main class="content textmid" role="main"><!--Container for ALL content, everything inside this-->
-            
-            <div class="four columns offset-by-one">
-            
-                <section aria-label="This year's Holiday Club dates" class="background-white75 border-top-15-orange boxshadow-softextra6 twelve columns margin-6-top" role="complementary">
-                    <h1 class="centre padding-1"><?php perch_content('Holiday Club date box'); ?> <?php perch_content('Holiday Club dates'); ?>.</h1>
-                </section>
-                
-                <?php perch_content('Registration form box'); ?>
-                
-            </div><!--End of four columns left column area-->
 
-            <article class="background-white75 border-top-15-orange boxshadow-softextra6 five columns margin-6-top offset-by-one" role="article">
-                <?php perch_content('Holiday Club details/placeholder blurb'); ?>
-            </article>
-            
-            <article class="background-white75 border-top-15-orange boxshadow-softextra6 ten columns margin-6-top offset-by-one" role="article">
-                <?php perch_content('Holiday Club photos area'); ?>
-            </article>
-            
-            <div class="spacer"></div>
-        </main><!--End of content-->
+        <div class="bgoverlaid">
+            <div class="centre margin-4-top textshadow-soft textwhite">
+                <h1 class="textbig">Holiday Clubs</h1>
+            </div>
+
+            <main class="content textmid" role="main"><!--Container for ALL content, everything inside this-->
+
+                <div class="four columns offset-by-one">
+
+                    <section aria-label="This year's Holiday Club dates" class="background-white75 border-top-15-orange boxshadow-softextra6 twelve columns margin-6-top" role="complementary">
+                        <h1 class="centre padding-1"><?php perch_content('Holiday Club date box'); ?> <?php perch_content('Holiday Club dates'); ?>.</h1>
+                    </section>
+
+                    <?php perch_content('Registration form box'); ?>
+
+                </div><!--End of four columns left column area-->
+
+                <article class="background-white75 border-top-15-orange boxshadow-softextra6 five columns margin-6-top offset-by-one" role="article">
+                    <?php perch_content('Holiday Club details/placeholder blurb'); ?>
+                </article>
+
+                <article class="background-white75 border-top-15-orange boxshadow-softextra6 ten columns margin-6-top offset-by-one" role="article">
+                    <?php perch_content('Holiday Club photos area'); ?>
+                </article>
+
+                <div class="spacer"></div>
+            </main><!--End of content-->
+        </div><!--End of overlay-->
 
   <!--@import footer-->

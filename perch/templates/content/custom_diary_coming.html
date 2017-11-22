@@ -10,18 +10,18 @@
     <p>As ever for any of this to take effect you need to click Save Changes at the bottom. If you make a mistake just click Cancel instead.</p>
 </perch:help>
 
-<p class="floatleft underline">Preaching Schedule <perch:content id="date" type="text" label="Period that current preaching schedule covers" required="true" title="true" help="Format: for example 'November 2021-January 2022' or 'January-March 2022'" /></p> 
-<p class="floatright underline"><strong>(C)</strong> - Communion</p>
+<p class="left underline">Preaching Schedule <perch:content id="date" type="text" label="Period that current preaching schedule covers" required="true" title="true" help="Format: for example 'November 2021-January 2022' or 'January-March 2022'" /></p> 
+<p class="right underline"><strong>(C)</strong> - Communion</p>
 
 <table class="styled" role="grid" summary="Schedule for who is preaching in these coming months">
     <thead>
-        <tr>
+        <tr class="tabletop">
             <th scope="col">Date</th>
             <th scope="col">Morning Preacher</th>
             <th scope="col">Evening Preacher</th>
         </tr>
     </thead>
-    <tbody>
+    <tbody class="tablecoming">
         <perch:repeater id="entries" label="Schedule items" title="true"><tr>
             <th scope="row"><perch:content id="entrydate" type="text" label="Date of Sunday in question" required="true" title="true" help="Format: month (short form) day, for example 'Jul 1st'" chars="9"/></th>
             <td>
