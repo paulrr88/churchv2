@@ -67,63 +67,67 @@
   <!-- Primary Page Layout
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
 
-                <div class="centre margin-4-top textshadow-soft textwhite">
-                    <h1 class="textbig">About Us</h1>
+                <div class="bgimage">
+                    <div class="bgimage-church"></div>
                 </div>
-                
-                <nav class="ten columns offset-by-one" role="navigation">
-                    <ul class="list-contents">
-                        <li><a href="">About Us</a></li>
-                        <li><a href="about-events.php">Our Regular Events</a></li>
-                        <li><a href="about-disabled.php">Disabled Facilities</a></li>
-                    </ul>
-                </nav>
         
-        <main class="content textmid" role="main"><!--Container for ALL content, everything inside this-->
-            <div class="six columns">
-                <article class="background-white75 border-top-15-orange boxshadow-softextra6 clear twelve columns margin-6-top offset-by-one" role="article">
-                    <?php perch_content('About Us blurb at top'); ?>
+                <div class="bgoverlaid">
+        
+                    <div class="centre margin-4-top textshadow-mid textwhite">
+                        <h1 class="textbig">About Us</h1>
+                    </div>
+        
+                    <nav class="ten columns offset-by-one" role="navigation">
+                        <ul class="list-contents">
+                            <li><a href="">About Us</a></li>
+                            <li><a href="about-events.php">Our Regular Events</a></li>
+                            <li><a href="about-disabled.php">Disabled Facilities</a></li>
+                        </ul>
+                    </nav>
+        
+            <main class="content textmid" role="main"><!--Container for ALL content, everything inside this-->
+                <div class="six columns">
+                    <article class="background-white75 border-top-15-orange boxshadow-softextra6 clear twelve columns margin-6-top offset-by-one" role="article">
+                        <?php perch_content('About Us blurb at top'); ?>
+                    </article>
+
+                    <section aria-label="check our other pages" class="background-white75 border-top-15-orange boxshadow-softextra6 clear twelve columns margin-2-top offset-by-one" role="complementary">
+                        <p class="centre textmid2"><strong>If you want to know more about our church, please click on the headings above!</strong></p>
+                    </section>
+                </div><!--End of five columns, left column-->
+
+                <div class="five columns offset-by-one">
+                    <section aria-label="service times" class="background-white75 border-top-15-orange boxshadow-softextra6 twelve columns margin-6-top" role="complementary">
+                        <h1 class="centre padding-1">Services</h1>
+
+                        <?php perch_content('Services details'); ?>
+                    </section>
+                </div><!--End of five columns, right column-->
+
+                <article class="background-white75 border-top-15-orange boxshadow-softextra6 five columns margin-4-top offset-by-one" role="article">
+                    <h1 class="centre padding-1">Our Location</h1>
+
+                    <h2 class="padding-1">Address</h2>
+
+                    <div class="wrap-text">
+                        <?php perch_content('Address'); ?>
+                    </div>
+
+                    <h2 class="padding-1">Map</h2>
+
+                    <div class="ten columns offset-by-one">
+                        <a href="img/map.jpg"><img alt="Map of where Ferring Baptist Church is" class="fluid-100" src="img/map.jpg"></a>
+
+                        <p class="centre nopadding nomargin"><a href="img/map.jpg">(Click to enlarge)</a></p>
+                        <p class="centre nopadding"><a href="https://www.google.co.uk/maps/place/Ferring+Baptist+Church/@50.8135471,-0.4512601,17z/data=!3m1!4b1!4m5!3m4!1s0x4875a37ab2c84bdb:0xe47edae588f900ad!8m2!3d50.8135437!4d-0.4490661">Click here for Google Maps</a></p>
+
+                        <div class="spacer"></div>
+                    </div>
                 </article>
 
-                <section aria-label="check our other pages" class="background-white75 border-top-15-orange boxshadow-softextra6 clear twelve columns margin-2-top offset-by-one" role="complementary">
-                    <p class="centre textmid2"><strong>If you want to know more about our church, please click on the headings above!</strong></p>
-                </section>
-            </div><!--End of five columns, left column-->
-            
-            <div class="five columns offset-by-one">
-                <section aria-label="service times" class="background-white75 border-top-15-orange boxshadow-softextra6 twelve columns margin-6-top" role="complementary">
-                    <h1 class="centre padding-1">Services</h1>
-
-                    <?php perch_content('Services details'); ?>
-                </section>
-            </div><!--End of five columns, right column-->
-            
-            <article class="background-white75 border-top-15-orange boxshadow-softextra6 five columns margin-4-top offset-by-one" role="article">
-                <h1 class="centre padding-1">Our Location</h1>
-                
-                <h2 class="padding-1">Address</h2>
-                
-                <div class="wrap-text">
-                    <?php perch_content('Address'); ?>
-                </div>
-                
-                <h2 class="padding-1">Map</h2>
-                
-                <div class="ten columns offset-by-one">
-                    <a href="img/map.jpg"><img alt="Map of where Ferring Baptist Church is" class="fluid-100" src="img/map.jpg"></a>
-                    
-                    <p class="centre nopadding nomargin"><a href="img/map.jpg">(Click to enlarge)</a></p>
-                    <p class="centre nopadding"><a href="https://www.google.co.uk/maps/place/Ferring+Baptist+Church/@50.8135471,-0.4512601,17z/data=!3m1!4b1!4m5!3m4!1s0x4875a37ab2c84bdb:0xe47edae588f900ad!8m2!3d50.8135437!4d-0.4490661">Click here for Google Maps</a></p>
-                    
-                    <div class="spacer"></div>
-                </div>
-            </article>
-            
-            <div class="spacer"></div>
-            
-           
-
-        </main><!--End of content-->
+                <div class="spacer"></div>
+            </main><!--End of content-->
+        </div><!--End of overlay-->
 
           </div><!--END OF CONTAINER-->
   

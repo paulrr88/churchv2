@@ -67,22 +67,30 @@
   <!-- Primary Page Layout
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
 
-        <div class="centre margin-4-top textshadow-soft textwhite">
-            <h1 class="textbig">This Week's Newssheet</h1>
+        <div class="bgimage">
+            <div class="bgimage-church"></div>
         </div>
-        
-        <main class="content textmid" role="main"><!--Container for ALL content, everything inside this-->
-            
-            <article class="background-white75 border-top-15-orange boxshadow-softextra6 clear ten columns margin-6-top offset-by-one" role="article">
-                <div class="eight columns offset-by-two margin-4-top">
-                    <?php perch_content('This week\'s newssheet'); ?>
-                </div>
-                <div class="spacer"></div>
-            </article>
-            
-            <div class="spacer"></div>
 
-        </main><!--End of content-->
+        <div class="bgoverlaid">
+
+            <div class="centre margin-4-top textshadow-mid textwhite">
+                <h1 class="textbig">This Week's Newssheet</h1>
+            </div>
+
+            <main class="content textmid" role="main"><!--Container for ALL content, everything inside this-->
+
+                <article class="background-white75 border-top-15-orange boxshadow-softextra6 clear ten columns margin-6-top offset-by-one" role="article">
+                    <div class="eight columns offset-by-two margin-4-top">
+                        <?php perch_content('This week\'s newssheet'); ?>
+                    </div>
+
+                    <div class="spacer"></div>
+                </article>
+
+                <div class="spacer"></div>
+
+            </main><!--End of content-->
+        </div><!--End of overlay-->
 
           </div><!--END OF CONTAINER-->
   

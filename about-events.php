@@ -66,46 +66,53 @@
   <!-- Primary Page Layout
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
 
-                <div class="centre margin-4-top textshadow-soft textwhite">
-                    <h1 class="textbig">About Us</h1>
+                <div class="bgimage">
+                    <div class="bgimage-church"></div>
                 </div>
-                
-                <nav class="ten columns offset-by-one" role="navigation">
-                    <ul class="list-contents">
-                        <li><a href="about.php">About Us</a></li>
-                        <li><a href="">Our Regular Events</a></li>
-                        <li><a href="about-disabled.php">Disabled Facilities</a></li>
-                    </ul>
-                </nav>
-
-        <div class="centre margin-4-top textshadow-soft twelve columns textwhite">
-            <h1 class="textbig1-5">Our Regular Events</h1>
-        </div>
         
-        <main class="content textmid" role="main"><!--Container for ALL content, everything inside this-->
-            
-            <div class="six columns">
-                <article class="background-white75 border-top-15-orange boxshadow-softextra6 clear twelve columns margin-6-top offset-by-one" role="article">
-                    <h1 class="padding-1">Children &amp; Youth</h1>
-                    
-                    <?php perch_content('Children & Youth - Intro paragraph'); ?>
-                    
-                    <?php perch_content('Children & Youth - Clubs'); ?>
-                </article>
-                
-                <article class="background-white75 border-top-15-orange boxshadow-softextra6 clear twelve columns margin-6-top offset-by-one" role="article">
-                    <h1 class="padding-1">Other Regular Events</h1>
-                    
-                    <?php perch_content('Other Regular Events details'); ?>
-                </article>
-                
-                <div class="spacer"></div>
+                <div class="bgoverlaid">
+        
+                    <div class="centre margin-4-top textshadow-mid textwhite">
+                        <h1 class="textbig">About Us</h1>
+                    </div>
+        
+                    <nav class="ten columns offset-by-one" role="navigation">
+                        <ul class="list-contents">
+                            <li><a href="about.php">About Us</a></li>
+                            <li><a href="">Our Regular Events</a></li>
+                            <li><a href="about-disabled.php">Disabled Facilities</a></li>
+                        </ul>
+                    </nav>
 
-            </div><!--End of five columns, left column-->
-            
-            <?php perch_content('Right-hand top box'); ?>
+            <div class="centre margin-4-top textshadow-mid twelve columns textwhite">
+                <h1 class="textbig1-5">Our Regular Events</h1>
+            </div>
 
-        </main><!--End of content-->
+            <main class="content textmid" role="main"><!--Container for ALL content, everything inside this-->
+
+                <div class="six columns">
+                    <article class="background-white75 border-top-15-orange boxshadow-softextra6 clear twelve columns margin-6-top offset-by-one" role="article">
+                        <h1 class="padding-1">Children &amp; Youth</h1>
+
+                        <?php perch_content('Children & Youth - Intro paragraph'); ?>
+
+                        <?php perch_content('Children & Youth - Clubs'); ?>
+                    </article>
+
+                    <article class="background-white75 border-top-15-orange boxshadow-softextra6 clear twelve columns margin-6-top offset-by-one" role="article">
+                        <h1 class="padding-1">Other Regular Events</h1>
+
+                        <?php perch_content('Other Regular Events details'); ?>
+                    </article>
+
+                    <div class="spacer"></div>
+
+                </div><!--End of five columns, left column-->
+
+                <?php perch_content('Right-hand top box'); ?>
+
+            </main><!--End of content-->
+        </div><!--End of overlay-->
 
           </div><!--END OF CONTAINER-->
   

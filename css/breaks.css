@@ -20,6 +20,10 @@
     body {
         background: orange;
     }
+    
+    footer {
+        font-size: 1.75rem;
+    }
 
     #content p {
     width: 90%;               /* reduces extent of margins on paragraph text for smaller resolutions */
@@ -122,9 +126,12 @@
         margin: 0;
         width: 100%;
     }
-    }
     table.styled td {
         padding: 0;
+    }
+    
+    .bgimage-window {
+        background: url(../img/bg-window.png) 50% 0%/150% no-repeat;
     }
     
     .hometop {
@@ -202,6 +209,18 @@
     visibility: hidden;
     height: 0;
   }
+    
+    .bgimage-church {
+        background: url(../img/bg-church.png) 100% -30%/250% no-repeat;
+    }
+    
+    .bgimage-hc {
+        background: url(../img/bg-hc.png) 60% 0%/250% no-repeat;
+    }
+    
+    .bgimage-window {
+        background: url(../img/bg-window.png) 60% 0%/300% no-repeat;
+    }
     
     .container {
         width: 100%;

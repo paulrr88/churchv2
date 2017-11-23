@@ -66,34 +66,41 @@
   <!-- Primary Page Layout
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
 
-                <div class="centre margin-4-top textshadow-soft textwhite">
-                    <h1 class="textbig">About Us</h1>
+                <div class="bgimage">
+                    <div class="bgimage-church"></div>
                 </div>
-                
-                <nav class="ten columns offset-by-one" role="navigation">
-                    <ul class="list-contents">
-                        <li><a href="about.php">About Us</a></li>
-                        <li><a href="about-events.php">Our Regular Events</a></li>
-                        <li><a href="">Disabled Facilities</a></li>
-                    </ul>
-                </nav>
-
-        <div class="centre margin-4-top textshadow-soft twelve columns textwhite">
-            <h1 class="textbig1-5">Disabled Facilities</h1>
-        </div>
         
-        <main class="content textmid" role="main"><!--Container for ALL content, everything inside this-->
-            
-            <article class="background-white75 border-top-15-orange boxshadow-softextra6 clear eight columns margin-6-top offset-by-two" role="article">
-                <?php perch_content('Disabled facilities details'); ?>
-                
-                <div class="spacer"></div>
-            </article>
-            
-            <div class="spacer"></div>
-            <div class="spacer"></div>
+                <div class="bgoverlaid">
+        
+                    <div class="centre margin-4-top textshadow-mid textwhite">
+                        <h1 class="textbig">About Us</h1>
+                    </div>
+        
+                    <nav class="ten columns offset-by-one" role="navigation">
+                        <ul class="list-contents">
+                            <li><a href="about.php">About Us</a></li>
+                            <li><a href="about-events.php">Our Regular Events</a></li>
+                            <li><a href="">Disabled Facilities</a></li>
+                        </ul>
+                    </nav>
 
-        </main><!--End of content-->
+            <div class="centre margin-4-top textshadow-mid twelve columns textwhite">
+                <h1 class="textbig1-5">Disabled Facilities</h1>
+            </div>
+
+            <main class="content textmid" role="main"><!--Container for ALL content, everything inside this-->
+
+                <article class="background-white75 border-top-15-orange boxshadow-softextra6 clear eight columns margin-6-top offset-by-two" role="article">
+                    <?php perch_content('Disabled facilities details'); ?>
+
+                    <div class="spacer"></div>
+                </article>
+
+                <div class="spacer"></div>
+                <div class="spacer"></div>
+
+            </main><!--End of content-->
+        </div><!--End of overlay-->
 
           </div><!--END OF CONTAINER-->
   

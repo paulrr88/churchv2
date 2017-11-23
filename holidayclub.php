@@ -72,7 +72,7 @@
         </div>
 
         <div class="bgoverlaid">
-            <div class="centre margin-4-top textshadow-soft textwhite">
+            <div class="centre margin-4-top textshadow-mid textwhite">
                 <h1 class="textbig">Holiday Clubs</h1>
             </div>
 

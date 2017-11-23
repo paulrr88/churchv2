@@ -67,41 +67,47 @@
   <!-- Primary Page Layout
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
 
-        <div class="centre margin-4-top textshadow-soft textwhite">
-            <h1 class="textbig">Diary/Events</h1>
+        <div class="bgimage">
+            <div class="bgimage-window"></div>
         </div>
-        
-        <main class="content textmid" role="main"><!--Container for ALL content, everything inside this-->
-            <article class="background-white75 border-top-15-orange boxshadow-softextra6 ten columns margin-6-top offset-by-one" role="article">
-                <h1 class="centre padding-1">This Week's Diary</h1>
 
-                <?php perch_content('This week\'s diary'); ?>
-                
+        <div class="bgoverlaid">
+            <div class="centre margin-4-top textshadow-mid textwhite">
+                <h1 class="textbig">Diary &amp; Events</h1>
+            </div>
+
+            <main class="content textmid" role="main"><!--Container for ALL content, everything inside this-->
+                <article class="background-white75 border-top-15-orange boxshadow-softextra6 ten columns margin-6-top offset-by-one" role="article">
+                    <h1 class="centre padding-1">This Week's Diary</h1>
+
+                    <?php perch_content('This week\'s diary'); ?>
+
+                    <div class="spacer"></div>
+                </article>
+
+                <article class="background-white75 border-top-15-orange boxshadow-softextra6 six columns margin-6-top" role="article">
+                    <h1 class="centre padding-1">Coming Weeks Schedule</h1>
+
+                    <?php perch_content('Coming weeks schedule'); ?>
+
+                    <div class="spacer"></div>
+                </article>
+
+                <section aria-label="service times" class="background-white75 border-top-15-orange boxshadow-softextra6 five columns margin-6-top margin-2-top" role="complementary">
+                    <h1 class="centre padding-1">Services</h1>
+
+                    <?php perch_content('Services details'); ?>
+                </section>
+
+                <section class="background-white75 border-top-15-orange boxshadow-softextra6 five columns margin-2-top" role="complementary">
+                    <h1 class="centre padding-1"><a href="">See our other regular events</a></h1>
+                </section>
+
                 <div class="spacer"></div>
-            </article>
-            
-            <article class="background-white75 border-top-15-orange boxshadow-softextra6 six columns margin-6-top" role="article">
-                <h1 class="centre padding-1">Coming Weeks Schedule</h1>
-
-                <?php perch_content('Coming weeks schedule'); ?>
-                
                 <div class="spacer"></div>
-            </article>
-            
-            <section aria-label="service times" class="background-white75 border-top-15-orange boxshadow-softextra6 five columns margin-6-top margin-2-top" role="complementary">
-                <h1 class="centre padding-1">Services</h1>
 
-                <?php perch_content('Services details'); ?>
-            </section>
-            
-            <section class="background-white75 border-top-15-orange boxshadow-softextra6 five columns margin-2-top" role="complementary">
-                <h1 class="centre padding-1"><a href="">See our other regular events</a></h1>
-            </section>
-            
-            <div class="spacer"></div>
-            <div class="spacer"></div>
-
-        </main><!--End of content-->
+            </main><!--End of content-->
+        </div><!--End of overlay-->
 
           </div><!--END OF CONTAINER-->
   

@@ -10,39 +10,46 @@
   <!-- Primary Page Layout
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
 
-        <div class="centre margin-4-top textshadow-soft textwhite">
-            <h1 class="textbig">Contact Us</h1>
+        <div class="bgimage">
+            <div class="bgimage-window"></div>
         </div>
-        
-        <main class="content textmid" role="main"><!--Container for ALL content, everything inside this-->
-            <article class="background-white75 border-top-15-orange boxshadow-softextra6 clear six columns margin-6-top offset-by-three" role="article">
-                <h1 class="centre padding-1">Get in Contact</h1>
 
-                <p>If you have any inquiries about the church please let us know!</p>
-                    
-                <?php perch_content('Contact details'); ?>
-            </article>
-            
-            <article class="background-white75 border-top-15-orange boxshadow-softextra6 ten columns margin-6-top offset-by-one" role="article">
-                <h1 class="centre padding-1">Our Location</h1>
-                
-                <h2 class="centre padding-1">Address</h2>
-                
-                <div class="centre wrap-text">
-                    <?php perch_content('Address'); ?>
-                </div>
-                
-                <h2 class="centre padding-1">Map</h2>
-                
-                <div class="eight columns offset-by-two">
-                    <?php perch_content('Map to our location'); ?>
-                </div>
-                
+        <div class="bgoverlaid">
+
+            <div class="centre margin-4-top textshadow-soft textwhite">
+                <h1 class="textbig">Contact Us</h1>
+            </div>
+
+            <main class="content textmid" role="main"><!--Container for ALL content, everything inside this-->
+                <article class="background-white75 border-top-15-orange boxshadow-softextra6 clear six columns margin-6-top offset-by-three" role="article">
+                    <h1 class="centre padding-1">Get in Contact</h1>
+
+                    <p>If you have any inquiries about the church please let us know!</p>
+
+                    <?php perch_content('Contact details'); ?>
+                </article>
+
+                <article class="background-white75 border-top-15-orange boxshadow-softextra6 ten columns margin-6-top offset-by-one" role="article">
+                    <h1 class="centre padding-1">Our Location</h1>
+
+                    <h2 class="centre padding-1">Address</h2>
+
+                    <div class="centre wrap-text">
+                        <?php perch_content('Address'); ?>
+                    </div>
+
+                    <h2 class="centre padding-1">Map</h2>
+
+                    <div class="eight columns offset-by-two">
+                        <?php perch_content('Map to our location'); ?>
+                    </div>
+
+                    <div class="spacer"></div>
+                </article>
+
                 <div class="spacer"></div>
-            </article>
-            
-            <div class="spacer"></div>
 
-        </main><!--End of content-->
+            </main><!--End of content-->
+        </div><!--End of overlay-->
 
   <!--@import footer-->

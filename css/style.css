@@ -59,17 +59,19 @@ h6 {
 
 footer {
     clear: both;
+    font-size: 1.6rem;
     font-weight: bold;
+    line-height: 200%;
     margin: 0 auto;
     text-align: center;
     width: 80%;
 }
 footer ul {
     margin: 0;
-    padding: 1rem 0 0 0;
+    padding: 2rem 0 0 0;
 }
 footer ul li {
-    border-right: 0.3rem solid #fff;
+    border-right: 0.3rem solid #44c3ff;
     display: inline-block;
     margin: 0;
     padding: 0 1rem 0 0.7rem;
@@ -325,14 +327,32 @@ ul.nostyle {                                             /* removes styling from
     overflow: hidden;
 }
 .bgimage-hc {
-    background: #000;
-    min-height: 347px;
+    background: url(../img/bg-hc.png) 0 0/100% no-repeat;
+    min-height: 956px;
+    opacity: 0.7;
     position: absolute;
-    z-index: 0;
     width: 100%;
+    z-index: 0;
+}
+.bgimage-church {
+    background: url(../img/bg-church.png) 0 0/100% no-repeat;
+    min-height: 1125px;
+    opacity: 0.6;
+    position: absolute;
+    width: 100%;
+    z-index: 0;
+}
+.bgimage-window {
+    background: url(../img/bg-window.png) 0 0/100% no-repeat;
+    min-height: 1125px;
+    opacity: 0.6;
+    position: absolute;
+    width: 100%;
+    z-index: 0;
 }
 .bgoverlaid {
-    z-index: 3;
+    position: relative;
+    z-index: 1;
 }
 
 /*End of page background images*/
@@ -439,7 +459,7 @@ figure.fluid-images-hc img {     /*figure area containing 3 images side by side*
 .list-contents {
     background: #fff;
     border-top: 5px solid #ffa726;
-    box-shadow: 20px 15px 40px #999;
+    box-shadow: 20px 15px 40px #444;
     font-size: 2.5rem;
     list-style: none;
     margin: 2rem;
