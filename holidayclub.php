@@ -94,6 +94,8 @@
 
                 <article class="background-white75 border-top-15-orange boxshadow-softextra6 ten columns margin-6-top offset-by-one" role="article">
                     <?php perch_content('Holiday Club photos area'); ?>
+                    
+                    <div class="spacer"></div>
                 </article>
 
                 <div class="spacer"></div>

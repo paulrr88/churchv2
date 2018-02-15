@@ -270,6 +270,10 @@ table.styled { /*Used for diary items and coming weeks schedule*/
         text-align: center;
         width: 20rem;
     }
+    td.event-Bold {
+        font-size: 1.9rem;
+        font-weight: 900;
+    }
     tr.tabletop {
         border-bottom: 3px solid #000;
     }
@@ -399,6 +403,7 @@ figure.fluid-images-hc img {     /*figure area containing 3 images side by side*
     /*float: left; had to remove as when you put a link in around images it ruins any margins etc for some reason */ /*Lets them stack*/
     margin-left: 2%; /*this works for some reason, I can't use first-child as that removes all margins and padding between items somehow. Could have something to do with Perch, I have no idea.*/
     max-width: 30.33%; /*-3% due to padding-left %*/
+    box-shadow: 0px 15px 40px #444;
 }
 
 .fluid-100 {
@@ -512,11 +517,19 @@ figure.fluid-images-hc img {     /*figure area containing 3 images side by side*
     margin: 0 auto;
 }
 
+/*Added p to this so if a paragraph, which I can't edit, is created by Perch, and is within a parent with these as a class, it removes margin and padding from that p child element*/
+
 .nomargin {
-  margin: 0;
+    margin: 0;
+}
+.nomargin p {
+    margin: 0;
 }
 .nopadding {
-  padding: 0;
+    padding: 0;
+}
+.nopadding p {
+    padding: 0;
 }
 
 .padding-1 {
