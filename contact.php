@@ -84,6 +84,8 @@
                     <p>If you have any inquiries about the church please let us know!</p>
 
                     <?php perch_content('Contact details'); ?>
+                    
+                    <div class="spacer"></div>
                 </article>
 
                 <article class="background-white75 border-top-15-orange boxshadow-softextra6 ten columns margin-6-top offset-by-one" role="article">

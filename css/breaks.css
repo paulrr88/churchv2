@@ -242,8 +242,7 @@
     }
     
     .hometop {
-        background: url(../img/bg-hometop.jpg) 10% 40%/440% no-repeat;
-        height: 750px;
+        background: url(../img/bg-hometop.jpg) 20% 50%/560% no-repeat;
     }
 
     .homecarousel-box {
