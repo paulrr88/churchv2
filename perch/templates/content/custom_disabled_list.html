@@ -14,8 +14,8 @@
 
 <h1 class="padding-2"><perch:content id="heading" type="text" label="Heading for section" required="true" title="true" /></h1>
 
-<ul class="padding-4-left">
+<ul class="padding-4-left padding-4-right">
     <perch:repeater id="sections" label="Bullet points for this section">
-        <li><perch:content id="body" type="text" label="Text for this bullet point" required="true" /></li>
+        <li><perch:content id="body" type="textarea" label="Text for this bullet point" required="true" /></li>
     </perch:repeater>
 </ul>

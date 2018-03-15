@@ -92,7 +92,7 @@
 
                 <div class="six columns">
                     <article class="background-white75 border-top-15-orange boxshadow-softextra6 clear twelve columns margin-6-top offset-by-one" role="article">
-                        <h1 class="padding-1">Children &amp; Youth</h1>
+                        <h1 class="padding-1-body">Children &amp; Youth</h1>
 
                         <?php perch_content('Children & Youth - Intro paragraph'); ?>
 
@@ -100,7 +100,7 @@
                     </article>
 
                     <article class="background-white75 border-top-15-orange boxshadow-softextra6 clear twelve columns margin-6-top offset-by-one" role="article">
-                        <h1 class="padding-1">Other Regular Events</h1>
+                        <h1 class="padding-1-body">Other Regular Events</h1>
 
                         <?php perch_content('Other Regular Events details'); ?>
                     </article>
@@ -109,7 +109,7 @@
 
                 </div><!--End of five columns, left column-->
 
-                <?php perch_content('Right-hand top box'); ?>
+                <?php perch_content('Extra event details top right'); ?>
 
             </main><!--End of content-->
         </div><!--End of overlay-->

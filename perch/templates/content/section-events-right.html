@@ -15,8 +15,10 @@
     <h1 class="centre padding-1"><perch:content id="heading" type="text" label="Overall heading" required="true" title="true" /></h1>
     
     <perch:repeater id="sections" label="Sections within this area">
-        <h2 class="padding-1"><perch:content id="heading-section" type="text" label="Heading for this section" required="true" title="true" /></h2>
+        <h2 class="padding-1-body"><perch:content id="heading-section" type="text" label="Heading for this section" required="true" title="true" /></h2>
         
-        <perch:content id="body" type="textarea" label="Body text for this section" markdown="true" editor="markitup" required="true" />
+        <div>
+            <perch:content id="body" type="textarea" label="Body text for this section" markdown="true" editor="markitup" required="true" />
+        </div>
     </perch:repeater>
 </article>

@@ -108,7 +108,13 @@ ol li {
 
 p {
   margin: 0;
-  padding: 1.5rem;
+  padding: 1.5rem 1.5rem 0.25rem 1.5rem;
+}
+p:last-child {
+    padding-bottom: 1.5rem;
+}
+p:last-of-type {
+    padding-bottom: 1.5rem;
 }
 
 table {
@@ -532,6 +538,10 @@ figure.fluid-images-hc img {     /*figure area containing 3 images side by side*
     padding: 0;
 }
 
+.padding-1-body { /*Respects 1.5rem left padding on paragraph text so everything aligns properly*/
+    padding: 1rem 1rem 1rem 1.5rem;
+}
+
 .padding-1 {
   padding: 1rem;
 }
@@ -552,6 +562,9 @@ figure.fluid-images-hc img {     /*figure area containing 3 images side by side*
 }
 .padding-4-left {
   padding-left: 4rem;
+}
+.padding-4-right {
+  padding-right: 4rem;
 }
 
 .right {
