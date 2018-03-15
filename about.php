@@ -68,7 +68,7 @@
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
 
                 <div class="bgimage">
-                    <div class="bgimage-church"></div>
+                    <div class="bgimage-glass"></div>
                 </div>
         
                 <div class="bgoverlaid">

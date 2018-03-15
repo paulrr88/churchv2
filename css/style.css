@@ -344,9 +344,9 @@ ul.nostyle {                                             /* removes styling from
     width: 100%;
     z-index: 0;
 }
-.bgimage-church {
-    background: url(../img/bg-church.png) 0 0/100% no-repeat;
-    min-height: 1125px;
+.bgimage-glass {
+    background: url(../img/bg-glass.png) 0 0/100% no-repeat;
+    min-height: 1500px;
     opacity: 0.6;
     position: absolute;
     width: 100%;

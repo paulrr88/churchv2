@@ -225,8 +225,8 @@
     height: 0;
   }
     
-    .bgimage-church {
-        background: url(../img/bg-church.png) 100% -30%/250% no-repeat;
+    .bgimage-glass {
+        background: url(../img/bg-glass.png) 50% -10%/200% no-repeat;
     }
     
     .bgimage-hc {
