@@ -452,6 +452,13 @@ figure.fluid-images-hc img {     /*figure area containing 3 images side by side*
 }
 /*End of home carousel area*/
 
+.image { /*Exclusively for use with Perch MarkItUp editor, imageclasses attribute, can declare this with class="" inside of brackets of an added image markdown tag*/
+    box-shadow: 6px 6px 20px #444;
+    display: block;
+    margin: 4rem auto 4rem auto;
+    max-width: 75%;
+}
+
 .inline {
   display: inline;
 }

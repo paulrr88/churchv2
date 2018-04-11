@@ -138,6 +138,7 @@
 
     echo $Smartbar->render();
 
-    echo '<script>';
-    echo 'if (Perch.UI.Assets) Perch.UI.Assets.setBucketOptions('.PerchUtil::json_safe_encode($bucket_options).');';
-    echo '</script>';
+    echo '<script>if (Perch.UI.Assets) { ';       
+    if (!(int)$Settings->get('assets_restrict_buckets')->val()) echo 'Perch.UI.Assets.setBucketPermissions(-1);';
+    echo 'Perch.UI.Assets.setBucketOptions('.PerchUtil::json_safe_encode($bucket_options).');';
+    echo ' }</script>';

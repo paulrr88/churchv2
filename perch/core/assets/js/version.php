@@ -1,1 +1,1 @@
-<?php define('PERCH_ASSET_VERSION', 'ab805d13c20751d6975a');
+<?php define('PERCH_ASSET_VERSION', '8255e4c4a367cfa3e2bd');

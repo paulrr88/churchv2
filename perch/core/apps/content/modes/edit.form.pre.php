@@ -90,7 +90,13 @@
             $Alert->set('error', PerchLang::get('The template for this region (%s) cannot be found.', '<code>'.$Region->regionTemplate().'</code>'));
         }
 
-        $tags   = $Template->find_all_tags_and_repeaters('content');
+        if (PerchUtil::post('generate-summary')) {
+            echo PerchContent_Util::get_content_summary(PerchUtil::post('updated'), PerchUtil::post('fields'), $Template);
+            exit;
+        }
+
+
+        $tags   = $Template->find_all_tags_and_repeaters('content', false, true);
 
         //PerchUtil::debug($tags);
 
@@ -180,8 +186,10 @@
             if (isset($_POST['save_as_draft'])) {
                 $Alert->set('success', PerchLang::get('Draft successfully updated'));
             }else{
-                $Region->publish();
-                $Alert->set('success', PerchLang::get('Content successfully updated'));
+                if ($Region->role_may_publish($CurrentUser)) {
+                    $Region->publish();
+                }
+                $Alert->set('success', PerchLang::get('Content successfully updated'));    
             }
 
 

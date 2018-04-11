@@ -157,7 +157,7 @@ class PerchFactory
         }
 
         if (is_array($val)) {
-            $sql    = $select . ' * FROM ' . $this->table . ' WHERE ' . $col . ' IN ('. PerchUtil::implode_for_sql_in($val) .') '.$this->standard_restrictions();
+            $sql    = $select . ' * FROM ' . $this->table . ' WHERE ' . $col . ' IN ('. $this->db->implode_for_sql_in($val) .') '.$this->standard_restrictions();
         }else{
             $sql    = $select . ' * FROM ' . $this->table . ' WHERE ' . $col . '='. $this->db->pdb($val) .' '.$this->standard_restrictions();
         }

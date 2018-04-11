@@ -53,7 +53,9 @@
     }
 
     if (!$Settings->get('assets_restrict_buckets')->val()) {
-        $template_buckets[] = $filters['bucket'];
+        if (isset($filters['bucket'])) {
+            $template_buckets[] = $filters['bucket'];
+        }
     }
 
 

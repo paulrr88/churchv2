@@ -45,9 +45,9 @@
 ?>
 <script>
 	if (typeof(Perch) == 'undefined') {
-		Perch      = {};
-		Perch.UI   = {};
-		Perch.Apps = {};
+		Perch           = {};
+		Perch.UI        = {};
+		Perch.Apps      = {};
 	}
 	Perch.token   = '<?php $CSRFForm = new PerchForm('csrf'); echo $CSRFForm->get_token(); ?>';
 	Perch.path    = '<?php echo PerchUtil::html(PERCH_LOGINPATH); ?>';
