@@ -73,31 +73,19 @@
 
         <div class="bgoverlaid">
             <div class="centre margin-4-top textshadow-mid textwhite">
-                <h1 class="textbig">Holiday Clubs</h1>
+                <h1 class="textbig">Holiday Club Photos Archive</h1>
             </div>
 
             <main class="content textmid" role="main"><!--Container for ALL content, everything inside this-->
 
-                <div class="four columns offset-by-one">
-
-                    <section aria-label="This year's Holiday Club dates" class="background-white75 border-top-15-orange boxshadow-softextra6 twelve columns margin-6-top" role="complementary">
-                        <h1 class="centre padding-1"><?php perch_content('Holiday Club date box'); ?> <?php perch_content('Holiday Club dates'); ?>.</h1>
-                    </section>
-
-                    <?php perch_content('Registration form box'); ?>
-
-                </div><!--End of four columns left column area-->
-
-                <article class="background-white75 border-top-15-orange boxshadow-softextra6 five columns margin-6-top offset-by-one" role="article">
-                    <?php perch_content('Holiday Club details/placeholder blurb'); ?>
-                </article>
-
                 <article class="background-white75 border-top-15-orange boxshadow-softextra6 ten columns margin-6-top offset-by-one" role="article">
-                    <?php perch_content('Holiday Club photos area'); ?>
+                    <h2 class="centre padding-3"><a href="holidayclub.php">Back to Holiday Club page</a></h2>
                     
                     <div class="spacer"></div>
                     
-                    <h2 class="centre padding-3"><a href="holidayclub-archive.php">Photos Archive</a></h2>
+                    <p class="centre">(All identifiable pictures of children used with permission of parents)</p>
+                    
+                    <?php perch_content('Holiday Club photos archive'); ?>
                 </article>
 
                 <div class="spacer"></div>

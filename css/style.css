@@ -458,6 +458,12 @@ figure.fluid-images-hc img {     /*figure area containing 3 images side by side*
     margin: 4rem auto 4rem auto;
     max-width: 75%;
 }
+.imagehc { /*Holiday Club logo version of the above*/
+    box-shadow: 6px 6px 20px #444;
+    display: block;
+    margin: 4rem auto 4rem auto;
+    max-width: 100%;
+}
 
 .inline {
   display: inline;
