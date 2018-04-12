@@ -47,9 +47,9 @@
                 </ul>
             </nav><!--End of top information area-->
 
-            <h1 class="centre textbig2 textshadow-soft textwhite">Ferring Baptist Church</h1>
+            <h1 class="centre textbig2 textshadow-strong textwhite">Ferring Baptist Church</h1>
 
-            <h5 class="centre textshadow-mid textwhite">Greystoke Road, Ferring, Worthing, West Sussex, BN12 5JL</h5>
+            <h5 class="centre textshadow-strong textwhite">Greystoke Road, Ferring, Worthing, West Sussex, BN12 5JL</h5>
 
             <nav class="margin-1-top" id="nav-main" role="navigation"><!--Main navigation start-->
                 <ul>

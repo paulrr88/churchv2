@@ -47,9 +47,9 @@
                 </ul>
             </nav><!--End of top information area-->
 
-            <h1 class="centre textbig2 textshadow-soft textwhite">Ferring Baptist Church</h1>
+            <h1 class="centre textbig2 textshadow-strong textwhite">Ferring Baptist Church</h1>
 
-            <h5 class="centre textshadow-mid textwhite">Greystoke Road, Ferring, Worthing, West Sussex, BN12 5JL</h5>
+            <h5 class="centre textshadow-strong textwhite">Greystoke Road, Ferring, Worthing, West Sussex, BN12 5JL</h5>
 
             <nav class="margin-1-top" id="nav-main" role="navigation"><!--Main navigation start-->
                 <ul>
@@ -74,7 +74,7 @@
         <div class="bgoverlaid">
 
             <div class="centre margin-4-top textshadow-soft textwhite">
-                <h1 class="textbig">Contact Us</h1>
+                <h1 class="textbig textshadow-strong">Contact Us</h1>
             </div>
 
             <main class="content textmid" role="main"><!--Container for ALL content, everything inside this-->

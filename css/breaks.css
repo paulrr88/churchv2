@@ -262,4 +262,8 @@
     .textbig2 {
         font-size: 4rem;
     }
+    
+    .textshadow-strong {
+        text-shadow: 4px 4px 3px #000;
+    }
 }
