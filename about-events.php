@@ -10,7 +10,7 @@
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <meta charset="utf-8">
   <title>About Us &mdash; Our Regular Events &mdash; Ferring Baptist Church</title>
-  <meta name="description" content="TBD">
+  <meta name="description" content="Learn about our church's regular events including children's work, clubs, home groups, etc!">
 
   <!-- Mobile Specific Metas
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -28,7 +28,7 @@
 
   <!-- Favicon
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <link rel="icon" type="image/png" href="images/favicon.png">
+  <link rel="icon" type="image/png" href="img/favicon.png">
 
   <!-- Google fonts
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->

@@ -10,8 +10,8 @@
   <!-- Basic Page Needs
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <meta charset="utf-8">
-  <title>Holiday Clubs &mdash; Ferring Baptist Church</title>
-  <meta name="description" content="TBD">
+  <title>Holiday Clubs Photos Archive &mdash; Ferring Baptist Church</title>
+  <meta name="description" content="Photos of Holiday Clubs from yesteryear!">
 
   <!-- Mobile Specific Metas
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -29,7 +29,7 @@
 
   <!-- Favicon
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <link rel="icon" type="image/png" href="images/favicon.png">
+  <link rel="icon" type="image/png" href="img/favicon.png">
 
   <!-- Google fonts
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->

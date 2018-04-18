@@ -10,7 +10,7 @@
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <meta charset="utf-8">
   <title>About Us &mdash; Disabled Facilities &mdash; Ferring Baptist Church</title>
-  <meta name="description" content="TBD">
+  <meta name="description" content="Details of our disabled facilities including wheelchairs, toilet facilities, hymns and projection and audio facilities.">
 
   <!-- Mobile Specific Metas
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -28,7 +28,7 @@
 
   <!-- Favicon
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <link rel="icon" type="image/png" href="images/favicon.png">
+  <link rel="icon" type="image/png" href="img/favicon.png">
 
   <!-- Google fonts
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->

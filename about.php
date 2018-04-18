@@ -11,7 +11,7 @@
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <meta charset="utf-8">
   <title>About Us &mdash; Ferring Baptist Church</title>
-  <meta name="description" content="TBD">
+  <meta name="description" content="We are a village church serving a community of around four thousand people. Ferring has kept its unique village identity despite its healthy size and its connections to nearby Worthing. More than half the population are retired, but many are still very energetic in their local involvement, and the age profile and vitality of our church reflect these factors.">
 
   <!-- Mobile Specific Metas
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -29,7 +29,7 @@
 
   <!-- Favicon
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <link rel="icon" type="image/png" href="images/favicon.png">
+  <link rel="icon" type="image/png" href="img/favicon.png">
 
   <!-- Google fonts
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->

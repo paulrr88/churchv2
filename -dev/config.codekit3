@@ -23,6 +23,13 @@
 		"oAP": "\/_opening-about.html",
 		"oF": 0
 		},
+	"\/_opening-sitemap.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/_opening-sitemap.html",
+		"oF": 0
+		},
 	"\/_opening.kit": {
 		"cB": 0,
 		"ft": 2048,

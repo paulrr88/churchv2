@@ -10,8 +10,8 @@
   <!-- Basic Page Needs
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <meta charset="utf-8">
-  <title>About Us &mdash; Ferring Baptist Church</title>
-  <meta name="description" content="TBD">
+  <title>This Week's Newssheet &mdash; Ferring Baptist Church</title>
+  <meta name="description" content="Read about the latest happenings at Ferring Baptist Church as printed in our weekly newssheet!">
 
   <!-- Mobile Specific Metas
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -29,7 +29,7 @@
 
   <!-- Favicon
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <link rel="icon" type="image/png" href="images/favicon.png">
+  <link rel="icon" type="image/png" href="img/favicon.png">
 
   <!-- Google fonts
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->

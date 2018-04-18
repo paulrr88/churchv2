@@ -11,7 +11,7 @@
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <meta charset="utf-8">
   <title>Home &mdash; Ferring Baptist Church</title>
-  <meta name="description" content="This is the official website for Ferring Baptist Church.">
+  <meta name="description" content="This is the official website for Ferring Baptist Church! Our life at Ferring Baptist Church is founded on the scriptures and the saving work of Jesus Christ, and our aim is to make Jesus and his love the focus of everything we do. Our worship blends older and newer styles in a way that seeks to be encouraging, positive, and accessible to people of different traditions and backgrounds. The 10:30 A.M. service is definitely the larger of the two, with the 6:30 P.M. worship attractive to some because of its more intimate atmosphere.">
 
   <!-- Mobile Specific Metas
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -29,7 +29,7 @@
 
   <!-- Favicon
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <link rel="icon" type="image/png" href="images/favicon.png">
+  <link rel="icon" type="image/png" href="img/favicon.png">
 
   <!-- Google fonts
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->

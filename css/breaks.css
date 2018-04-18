@@ -5,10 +5,6 @@
 
 @media screen and (max-width: 1500px) { /*Desktop wide, but small enough to affect hometop image*/
     
-    body {
-        background: yellow;
-    }
-    
     .hometop {
         background: url(../img/bg-hometop.jpg) 60% 0%/130%
     }
@@ -16,10 +12,6 @@
 }
 
 @media screen and (max-width: 1100px) { /*Desktop small*/
-
-    body {
-        background: orange;
-    }
     
     footer {
         font-size: 1.75rem;
@@ -71,7 +63,6 @@
 
 @media screen and (max-width: 750px) { /*Tablet*/
   body {
-    background: purple;
     font-size: 1.4rem;
   }
 
@@ -171,7 +162,6 @@
 @media screen and (max-width: 500px) { /*Mobile phones*/
 
   body {
-    background: green;
     font-size: 1.4rem;
   }
 

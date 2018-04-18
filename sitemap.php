@@ -9,8 +9,8 @@
   <!-- Basic Page Needs
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <meta charset="utf-8">
-  <title>About Us &mdash; Ferring Baptist Church</title>
-  <meta name="description" content="TBD">
+  <title>Sitemap &mdash; Ferring Baptist Church</title>
+  <meta name="description" content="Sitemap for the Ferring Baptist Church website.">
 
   <!-- Mobile Specific Metas
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -28,7 +28,7 @@
 
   <!-- Favicon
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <link rel="icon" type="image/png" href="images/favicon.png">
+  <link rel="icon" type="image/png" href="img/favicon.png">
 
   <!-- Google fonts
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -39,35 +39,14 @@
 <body>
 
     <div class="container">
-        <header id="banner" role="banner"><!--Start of header area containing website title, graphics and navigation etc-->
-            <nav id="top" role="navigation"><!--Start of top information area-->
-                <ul>
-                    <li><a href="sitemap.php">Sitemap</a></li>
-                </ul>
-            </nav><!--End of top information area-->
-
-            <h1 class="centre textbig2 textshadow-strong textwhite">Ferring Baptist Church</h1>
-
-            <h5 class="centre textshadow-strong textwhite">Greystoke Road, Ferring, Worthing, West Sussex, BN12 5JL</h5>
-
-            <nav class="margin-1-top" id="nav-main" role="navigation"><!--Main navigation start-->
-                <ul>
-                    <li><a href="index.php">Home</a></li>
-                    <li><a href="about.php">About Us</a></li>
-                    <li><a href="diary.php">Diary/events</a></li>
-                    <li><a href="holidayclub.php">Holiday Clubs</a></li>
-                    <li><a href="newssheet.php">Newssheet</a></li>
-                    <li><a href="contact.php">Contact Us</a></li>
-                </ul>
-            </nav><!--Main navigation ends-->
-        </header><!--Header area ends-->
+        
 
 
   <!-- Primary Page Layout
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
 
         <div class="centre margin-4-top textshadow-soft twelve columns textwhite">
-            <h1 class="textbig1-5 textshadow-strong">Sitemap</h1>
+            <h1 class="textbig1-5 textshadow-strong">Ferring Baptist Church Sitemap</h1>
         </div>
         
         <main class="content textmid" role="main"><!--Container for ALL content, everything inside this-->
