@@ -18,17 +18,17 @@
 
   <!-- CSS
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <link rel="stylesheet" href="css/normalize.css"><!-- reset file do not change -->
-    <link rel="stylesheet" href="css/skeleton.css"><!-- framework CSS -->
-    <link rel="stylesheet" href="css/style.css"><!--my additions-->
-    <link rel="stylesheet" href="css/breaks.css"><!--breakpoints of mine-->
+    <link rel="stylesheet" href="../css/normalize.css"><!-- reset file do not change -->
+    <link rel="stylesheet" href="../css/skeleton.css"><!-- framework CSS -->
+    <link rel="stylesheet" href="../css/style.css"><!--my additions-->
+    <link rel="stylesheet" href="../css/breaks.css"><!--breakpoints of mine-->
     
     <link rel="stylesheet" type="text/css" href="slick/slick.css"/>
     <link rel="stylesheet" type="text/css" href="slick/slick-theme.css"/>
 
   <!-- Favicon
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <link rel="icon" type="image/png" href="img/favicon.png">
+  <link rel="icon" type="image/png" href="../img/favicon.png">
 
   <!-- Google fonts
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -81,16 +81,16 @@
   
           <footer>
               <ul>
-                  <li><a href="">Home</a></li>
-                  <li><a href="about/">About Us</a></li>
-                  <li><a href="diary/">Our Diary</a></li>
-                  <li><a href="contact/#address">Our Location/Address</a></li>
-                  <li><a href="about/events/#youth">Children/Youth Events</a></li>
-                  <li><a href="about/events/#events">Regular Events</a></li>
-                  <li><a href="about/disabled/">Disabled Facilities</a></li>
-                  <li><a href="news/">Newssheet</a></li>
-                  <li><a href="club/">Holiday Clubs (forms, photos etc!)</a></li>
-                  <li><a href="contact/">Contact Us</a></li>
+                  <li><a href="../">Home</a></li>
+                  <li><a href="../about/">About Us</a></li>
+                  <li><a href="../diary/">Our Diary</a></li>
+                  <li><a href="../contact/#address">Our Location/Address</a></li>
+                  <li><a href="../about/events/#youth">Children/Youth Events</a></li>
+                  <li><a href="../about/events/#events">Regular Events</a></li>
+                  <li><a href="../about/disabled/">Disabled Facilities</a></li>
+                  <li><a href="../news/">Newssheet</a></li>
+                  <li><a href="../club/">Holiday Clubs (forms, photos etc!)</a></li>
+                  <li><a href="../contact/">Contact Us</a></li>
          
               </ul>
   
@@ -107,7 +107,7 @@
                   <br>
                   <br>
   
-                  <a href="perch/">Perch Login</a></h3>
+                  <a href="../perch/">Perch Login</a></h3>
               </div>
   
               <br>
