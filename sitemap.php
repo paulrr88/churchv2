@@ -54,17 +54,21 @@
             <article class="background-white75 border-top-15-orange boxshadow-softextra6 clear eight columns margin-6-top offset-by-two" role="article">
                 <div class="six columns offset-by-four textmid2">
                     <ul class="padding-3">
-                        <li>Home</li>
-                        <li>About Us
+                        <li><a href="../">Home</a></li>
+                        <li><a href="../about/">About Us</a>
                             <ul>
-                                <li>Our Regular Events</li>
-                                <li>Disabled Facilities</li>
+                                <li><a href="../about/events/">Our Regular Events</a></li>
+                                <li><a href="../about/disabled/">Disabled Facilities</a></li>
                             </ul>
                         </li>
-                        <li>Diary/events</li>
-                        <li>Holiday Clubs</li>
-                        <li>Newssheet</li>
-                        <li>Contact Us</li>
+                        <li><a href="../diary/">Diary/events</a></li>
+                        <li><a href="../club/">Holiday Clubs</a>
+                            <ul>
+                                <li><a href="../club/archive/">Holiday Clubs Photos Archive</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="../news/">Newssheet</a></li>
+                        <li><a href="../contact/">Contact Us</a></li>
                     </ul>
                 </div>
             </article>
@@ -78,15 +82,15 @@
           <footer>
               <ul>
                   <li><a href="">Home</a></li>
-                  <li><a href="events/">About Us</a></li>
+                  <li><a href="about/">About Us</a></li>
                   <li><a href="diary/">Our Diary</a></li>
-                  <li><a href="news/">Our Location/Address</a></li>
-                  <li><a href="news/">Children/Youth Events</a></li>
-                  <li><a href="videos/">Newssheet</a></li>
-                  <li><a href="videos/">Holiday Clubs</a></li>
-                  <li><a href="videos/">Community Outreach</a></li>
-                  <li><a href="admin/">Contact Us</a></li>
-                  <li><a href="findus/">Find Us</a></li>
+                  <li><a href="contact/#address">Our Location/Address</a></li>
+                  <li><a href="about/events/#youth">Children/Youth Events</a></li>
+                  <li><a href="about/events/#events">Regular Events</a></li>
+                  <li><a href="about/disabled/">Disabled Facilities</a></li>
+                  <li><a href="news/">Newssheet</a></li>
+                  <li><a href="club/">Holiday Clubs (forms, photos etc!)</a></li>
+                  <li><a href="contact/">Contact Us</a></li>
          
               </ul>
   

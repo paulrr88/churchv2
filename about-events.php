@@ -42,7 +42,7 @@
         <header id="banner" role="banner"><!--Start of header area containing website title, graphics and navigation etc-->
             <nav id="top" role="navigation"><!--Start of top information area-->
                 <ul>
-                    <li><a href="sitemap.php">Sitemap</a></li>
+                    <li><a href="sitemap/">Sitemap</a></li>
                 </ul>
             </nav><!--End of top information area-->
 
@@ -52,12 +52,12 @@
 
             <nav class="margin-1-top" id="nav-main" role="navigation"><!--Main navigation start-->
                 <ul>
-                    <li><a href="index.php">Home</a></li>
-                    <li><a href="about.php">About Us</a></li>
-                    <li><a href="diary.php">Diary/events</a></li>
-                    <li><a href="holidayclub.php">Holiday Clubs</a></li>
-                    <li><a href="newssheet.php">Newssheet</a></li>
-                    <li><a href="contact.php">Contact Us</a></li>
+                    <li><a href="">Home</a></li>
+                    <li><a href="about/">About Us</a></li>
+                    <li><a href="diary/">Diary/events</a></li>
+                    <li><a href="club/">Holiday Clubs</a></li>
+                    <li><a href="news/">Newssheet</a></li>
+                    <li><a href="contact/">Contact Us</a></li>
                 </ul>
             </nav><!--Main navigation ends-->
         </header><!--Header area ends-->
@@ -78,9 +78,9 @@
         
                     <nav class="ten columns offset-by-one" role="navigation">
                         <ul class="list-contents">
-                            <li><a href="about.php">About Us</a></li>
+                            <li><a href="about/">About Us</a></li>
                             <li><a href="">Our Regular Events</a></li>
-                            <li><a href="about-disabled.php">Disabled Facilities</a></li>
+                            <li><a href="about/disabled/">Disabled Facilities</a></li>
                         </ul>
                     </nav>
 
@@ -92,6 +92,8 @@
 
                 <div class="six columns">
                     <article class="background-white75 border-top-15-orange boxshadow-softextra6 clear twelve columns margin-6-top offset-by-one" role="article">
+                        <a name="youth"></a>
+                        
                         <h1 class="padding-1-body">Children &amp; Youth</h1>
 
                         <?php perch_content('Children & Youth - Intro paragraph'); ?>
@@ -101,6 +103,8 @@
 
                     <article class="background-white75 border-top-15-orange boxshadow-softextra6 clear twelve columns margin-6-top offset-by-one" role="article">
                         <h1 class="padding-1-body">Other Regular Events</h1>
+                        
+                        <a name="events"></a>
 
                         <?php perch_content('Other Regular Events details'); ?>
                     </article>
@@ -119,15 +123,15 @@
           <footer>
               <ul>
                   <li><a href="">Home</a></li>
-                  <li><a href="events/">About Us</a></li>
+                  <li><a href="about/">About Us</a></li>
                   <li><a href="diary/">Our Diary</a></li>
-                  <li><a href="news/">Our Location/Address</a></li>
-                  <li><a href="news/">Children/Youth Events</a></li>
-                  <li><a href="videos/">Newssheet</a></li>
-                  <li><a href="videos/">Holiday Clubs</a></li>
-                  <li><a href="videos/">Community Outreach</a></li>
-                  <li><a href="admin/">Contact Us</a></li>
-                  <li><a href="findus/">Find Us</a></li>
+                  <li><a href="contact/#address">Our Location/Address</a></li>
+                  <li><a href="about/events/#youth">Children/Youth Events</a></li>
+                  <li><a href="about/events/#events">Regular Events</a></li>
+                  <li><a href="about/disabled/">Disabled Facilities</a></li>
+                  <li><a href="news/">Newssheet</a></li>
+                  <li><a href="club/">Holiday Clubs (forms, photos etc!)</a></li>
+                  <li><a href="contact/">Contact Us</a></li>
          
               </ul>
   
