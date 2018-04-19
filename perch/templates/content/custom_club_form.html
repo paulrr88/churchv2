@@ -17,6 +17,7 @@
 
 <perch:content id="activate" type="radio" label="Make this visible on the website?" options="Yes, No" allowempty="false" required="true" suppress="true" />
 
-<perch:if id="activate" value="Yes"><section aria-label="This year's Holiday Club registration forms" class="background-white75 border-top-15-orange boxshadow-softextra6 twelve columns margin-6-top" role="complementary">
-    <h1 class="centre padding-1">Download this year's <a href="<perch:content id="file" type="file" label="Registration form file" />">registration form</a></h1> 
+<perch:if id="activate" value="Yes"><section aria-label="This year's Holiday Club registration forms and data protection policy" class="background-white75 border-top-15-orange boxshadow-softextra6 twelve columns margin-6-top" role="complementary">
+    <h1 class="centre padding-1">Download this year's <a href="<perch:content id="registration" type="file" label="Registration form file" />">registration form</a></h1>
+    <h3 class="centre padding-1">Download our <a href="<perch:content id="dataprotect" type="file" label="Data protection document" />">data protection policy</a></h3> 
 </section></perch:if>
