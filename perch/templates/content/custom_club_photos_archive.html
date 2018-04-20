@@ -22,6 +22,8 @@
         <span style="padding-left: 60px">- Click "Use Selected" in the top right<br />
         <span style="padding-left: 60px">- <strong>N.B. if you enter this area by accident and want to go back</strong>, click the grey (X) icon in the far top right of the "Select an Asset" box, or press ESC on your keyboard.<br />
     </p>
+    
+    <p><strong>About "image alt text"</strong>: this is the text that is displayed when an image cannot be displayed due to some problem or a blind person is using a screen reader. It's best practice to include some descriptive text but it's not 100% necessary.</p>
 </perch:help>
             
 <h1 class="centre padding-1">Pictures from <perch:content id="clubtitle" type="text" required="true" label="Pictures from" title="true" help="Club title and year, i.e. Rocky's Plaice (2016)" /></h1>
@@ -31,23 +33,23 @@
         <figure class="fluid-images-hc">
             <a class="link-nostyle" href="<perch:content id="photo1" type="image" required="true" />">
                 <img
-                    alt="Photo from our Holiday Club"
+                    alt="<perch:content id="photo1alt" type="text" required="false" label="Image alt text" />"
                     role="img"
-                    src="<perch:content id="photo1" type="image" required="true" quality="65" />"
+                    src="<perch:content id="photo1" type="image" required="true" quality="5" />"
                 >
             </a>
             <a class="link-nostyle" href="<perch:content id="photo2" type="image" required="true" />">
                 <img
-                    alt="Photo from our Holiday Club"
+                    alt="<perch:content id="photo2alt" type="text" required="false" label="Image alt text" />"
                     role="img"
-                    src="<perch:content id="photo2" type="image" required="true" quality="65" />"
+                    src="<perch:content id="photo2" type="image" required="true" quality="5" />"
                 >
             </a>
             <a class="link-nostyle" href="<perch:content id="photo3" type="image" required="true" />">
                 <img
-                    alt="Photo from our Holiday Club"
+                    alt="<perch:content id="photo3alt" type="text" required="false" label="Image alt text" />"
                     role="img"
-                    src="<perch:content id="photo3" type="image" required="true" quality="65" />"
+                    src="<perch:content id="photo3" type="image" required="true" quality="5" />"
                 >
             </a>
         </figure>
