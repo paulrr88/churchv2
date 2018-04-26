@@ -94,7 +94,7 @@
 
           </div><!--END OF CONTAINER-->
   
-          <footer>
+          <footer class="bgoverlaid">
               <ul>
                   <li><a href="../">Home</a></li>
                   <li><a href="../about/">About Us</a></li>

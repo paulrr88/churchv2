@@ -291,6 +291,10 @@ table.styled { /*Used for diary items and coming weeks schedule*/
     }
     tr.tabletop th {
         background: #ffa145;
+        border-right: 3px solid #c3670e;
+    }
+    tr.tabletop th:last-child {
+        border-right: 0;
     }
     
 
@@ -598,6 +602,13 @@ figure.fluid-images-hc img {     /*figure area containing 3 images side by side*
   float: left;
   height: 3em;
   width: 100%;
+}
+
+.th-time { /*For diary table so the time column doesn't overtake too much*/
+    width: 10%;
+}
+.th-notes {
+    width: 50%;
 }
 
 
