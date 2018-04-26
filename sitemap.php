@@ -102,7 +102,7 @@
                       
                   <br>
                       
-                  <a href="http://www.seba-baptist.org.uk/"><img alt="South Eastern Baptist Association" src="img/seba.png" title="Link to South Eastern Baptist Association"></a>
+                  <a href="http://www.seba-baptist.org.uk/"><img alt="South Eastern Baptist Association" src="../img/seba.png" title="Link to South Eastern Baptist Association"></a>
   
                   <br>
                   <br>
