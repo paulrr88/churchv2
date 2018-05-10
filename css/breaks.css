@@ -111,6 +111,8 @@
     
     /*Prevents alignment issues when tables restyled at this breakpoint*/
     td.event { 
+        font-weight: bold;
+        margin-bottom: 1em;
         padding: 0;
         width: 100%; 
     }
@@ -124,8 +126,16 @@
     
     /*Reducing emphasis for mobile layout to prevent confusing display*/
     td.event-Bold {
-        font-size: 1.7rem;
+        font-size: 2rem;
         font-weight: 900;
+    }
+    
+    /*Adding variability for Coming Weeks table*/
+    td.morning {
+        margin-bottom: 1em;
+    }
+    td.evening {
+        
     }
     
     .bgimage-window {
@@ -143,7 +153,22 @@
     .spacer-750 {
         margin-top: 4em;
     }
-
+    
+    /*Added so that when JavaScript resizes tables in diary it's clearer what's a header and what isn't - these classes apply only to the headers*/
+    
+    .th-event {
+        color: red !important;
+        font-size: 10rem;
+    }
+    .th-notes {
+        color: red !important;
+    }
+    .th-time { 
+        color: red !important;
+    }
+    
+    /*End*/
+    
     .textbig2 {
         font-size: 5rem;
     }

@@ -604,12 +604,13 @@ figure.fluid-images-hc img {     /*figure area containing 3 images side by side*
   width: 100%;
 }
 
+.th-notes {
+    width: 40%;
+}
 .th-time { /*For diary table so the time column doesn't overtake too much*/
     width: 10%;
 }
-.th-notes {
-    width: 50%;
-}
+
 
 
 .textbig {
