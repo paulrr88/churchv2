@@ -1,0 +1,284 @@
+/* Hashtags
+  #test - any test stuff that needs removing later
+  #weird - any weird stuff I don't understand but don't have time to look up/doesn't matter
+*/
+
+@media screen and (max-width: 1500px) { /*Desktop wide, but small enough to affect hometop image*/
+    
+    .hometop {
+        background: url(../img/bg-hometop.jpg) 60% 0%/130%
+    }
+    
+}
+
+@media screen and (max-width: 1100px) { /*Desktop small*/
+    
+    footer {
+        font-size: 1.75rem;
+    }
+
+    #content p {
+    width: 90%;               /* reduces extent of margins on paragraph text for smaller resolutions */
+    }
+    #content ul {
+    width: 90%;               /* matches p */
+    }
+
+
+    ul.body {
+    padding-left: 0.25em;          /* reduces padding as it causes ridiculous misalign */
+    }
+    ul.lesspadding {
+    padding-left: 0.5em;
+    }
+    
+    figure.fluid-images-hc img {     /*figure area containing 3 images side by side*/
+        /*float: left; had to remove as when you put a link in around images it ruins any margins etc for some reason */ /*Lets them stack*/
+        margin-left: 2%; /*this works for some reason, I can't use first-child as that removes all margins and padding between items somehow. Could have something to do with Perch, I have no idea.*/
+        max-width: 96%; /*-3% due to padding-left %*/
+        box-shadow: 0 0 0;
+    }
+    
+    .container { /*Change container to fill 100% width on lower resolutions, makes more room for content boxes*/
+        box-shadow: 0px 0px 0px;
+        margin: 0;
+        width: 100%;
+    }
+    
+    .homecarousel-bg {
+        border-bottom: 15px solid #ffa726;
+        min-height: 0; /*Allows box to resize according just to length of blurb*/
+    }
+
+    .hometop {
+        background: url(../img/bg-hometop.jpg) 70% 0%/275% no-repeat;
+    }
+        /*Extra breakpoint just for this element as it looks weird at smallest desktop resolutions*/
+        @media screen and (max-width: 900px) { 
+            .hometop {
+                background: url(../img/bg-hometop.jpg) 0% 0%/275% no-repeat;
+            }
+        }
+}
+
+@media screen and (max-width: 750px) { /*Tablet*/
+  body {
+    font-size: 1.4rem;
+  }
+
+  /* CSS for table mobile fix JavaScript, from: http://sitesforprofit.com/responsive-tables-in-wordpress */
+  table {width:100%;}
+  thead {display: none;}
+  /*tr:nth-of-type(2n) {background-color: inherit;} removed as it seems to make background disappear on final cell*/
+  tr td:first-child {background: #ffa123; font-weight:bold;font-size:1.3em;} /*change this to control the properties of the newly styled table cell that's added when the resize happens*/
+  tbody td {display: block;  text-align:center;}
+  tbody td:before {
+    content: attr(data-th);
+    display: block;
+    text-align:center;
+  }
+
+    #content {
+    margin-top: 150px; /*allows navigation to overlay content box, if it was all margin it would have a clear break behind the navigation which looks bad for this design*/
+    padding-top: 6em;
+    }
+
+    #nav-main ul li {
+        font-size: 2.5rem;
+    }
+
+    #top { /*centres it on tablet*/
+        width: 100%;
+        margin: 0 auto;
+        text-align: center;
+    }
+    #top ul li {
+        font-size: 1.5rem;                                    /* fixes top logos etc so they don't interfere with design on lower resolutions; forces them to align centre-ish and out of the way of top graphics */
+        display: inline;
+    }
+    #top img {
+        width: 70px;
+    }
+
+    img.content-box-img-fullwidth { /*stops images from becoming HUGE*/
+        margin: 0 0 0 24%;
+        padding: 0;
+        width: 50%;
+        }
+        img.fluid {      /*Removes padding so can change image layout based on container which is safer with breakpoints, lets me alter an image's layout depending on circumstances, not global*/
+        padding: 0;
+    }
+    
+    /*Prevents alignment issues when tables restyled at this breakpoint*/
+    td.event { 
+        font-weight: bold;
+        margin-bottom: 1em;
+        padding: 0;
+        width: 100%; 
+    }
+    table.styled {
+        margin: 0;
+        width: 100%;
+    }
+    table.styled td {
+        padding: 0;
+    }
+    
+    /*Reducing emphasis for mobile layout to prevent confusing display*/
+    td.event-Bold {
+        font-size: 2rem;
+        font-weight: 900;
+    }
+    
+    /*Adding variability for Coming Weeks table*/
+    td.morning {
+        margin-bottom: 1em;
+    }
+    td.evening {
+        
+    }
+    
+    .bgimage-window {
+        background: url(../img/bg-window.png) 50% 0%/150% no-repeat;
+    }
+    
+    .hometop {
+        background: url(../img/bg-hometop.jpg) 10% 50%/300% no-repeat;
+    }
+    .hometop-news {
+        margin-right: 0;
+        width: 100%;
+    }
+    
+    .spacer-750 {
+        margin-top: 4em;
+    }
+    
+    /*Added so that when JavaScript resizes tables in diary it's clearer what's a header and what isn't - these classes apply only to the headers*/
+    
+    .th-event {
+        color: red !important;
+        font-size: 10rem;
+    }
+    .th-notes {
+        color: red !important;
+    }
+    .th-time { 
+        color: red !important;
+    }
+    
+    /*End*/
+    
+    .textbig2 {
+        font-size: 5rem;
+    }
+    
+    .textbig1-5 {
+        font-size: 5rem;
+    }
+    
+    .textbig {
+        font-size: 5rem;
+    }
+    
+
+}
+
+@media screen and (max-width: 500px) { /*Mobile phones*/
+
+  body {
+    font-size: 1.4rem;
+  }
+
+  h1 {
+    font-size: 3rem;
+  }
+  h2 {
+    font-size: 2.5rem;
+  }
+  h3 {
+    font-size: 2.2rem;
+  }
+  h4 {
+    font-size: 2rem;
+  }
+
+  table {
+    font-size: 1.4rem;
+  }
+
+  #content {
+    margin-top: 20px;
+    padding-top: 15em; /* moves content out from underneath of navigation */
+  }
+
+  footer ul li {
+    border: 0;
+    display: block;
+    font-size: 2rem;
+    margin: 0;
+    padding: 1.5rem 0 0 0;
+  }
+    
+    #nav-main ul li {
+        border-bottom: 3px solid #fea626;
+        display: block;
+        font-size: 3rem;
+        margin: 0;
+        padding: 1rem 0 0 0;
+    }
+    #nav-main ul li:last-child {
+        padding: 1rem 0 0 0;
+    }
+
+  #tableBig {                                                  /* tables with more columns, needs smaller font */
+    font-size: 1.2rem;
+  }
+
+  #top {
+    visibility: hidden;
+    height: 0;
+  }
+    
+    .bgimage-glass {
+        background: url(../img/bg-glass.png) 50% -10%/200% no-repeat;
+    }
+    
+    .bgimage-hc {
+        background: url(../img/bg-hc.png) 60% 0%/250% no-repeat;
+    }
+    
+    .bgimage-window {
+        background: url(../img/bg-window.png) 60% 0%/300% no-repeat;
+    }
+    
+    .container {
+        width: 100%;
+    }
+    
+    .hometop {
+        background: url(../img/bg-hometop.jpg) 20% 50%/560% no-repeat;
+    }
+
+    .homecarousel-box {
+        margin-top: 90%;
+        margin-bottom: 3em;
+    }
+    
+  .left {
+    float: none;                                            /* just because floating doesn't work on mobile,
+                                                            same below */
+  }
+
+  .right {
+    float: none;
+  }
+    
+    .textbig2 {
+        font-size: 4rem;
+    }
+    
+    .textshadow-strong {
+        text-shadow: 4px 4px 3px #000;
+    }
+}

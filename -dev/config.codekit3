@@ -100,6 +100,5787 @@
 		"oAP": "\/Applications\/MAMP\/htdocs\/churchv2\/newssheet.php",
 		"oF": 6
 		},
+	"\/preview site backup\/.htaccess": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/.htaccess",
+		"oF": 0
+		},
+	"\/preview site backup\/about-disabled.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/about-disabled.php",
+		"oF": 0
+		},
+	"\/preview site backup\/about-events.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/about-events.php",
+		"oF": 0
+		},
+	"\/preview site backup\/about.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/about.php",
+		"oF": 0
+		},
+	"\/preview site backup\/contact.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/contact.php",
+		"oF": 0
+		},
+	"\/preview site backup\/css\/breaks.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/preview site backup\/css\/breaks-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/preview site backup\/css\/normalize.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/preview site backup\/css\/normalize-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/preview site backup\/css\/skeleton-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/preview site backup\/css\/skeleton-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/preview site backup\/css\/skeleton.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/preview site backup\/css\/skeleton-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/preview site backup\/css\/style-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/preview site backup\/css\/style-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/preview site backup\/css\/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/preview site backup\/css\/style-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/preview site backup\/diary.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/diary.php",
+		"oF": 0
+		},
+	"\/preview site backup\/holidayclub-archive.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/holidayclub-archive.php",
+		"oF": 0
+		},
+	"\/preview site backup\/holidayclub.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/holidayclub.php",
+		"oF": 0
+		},
+	"\/preview site backup\/img\/bg-banner.jpg": {
+		"ft": 16384,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/preview site backup\/img\/bg-banner.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/img\/bg-church.png": {
+		"ft": 32768,
+		"iS": 14400,
+		"oA": 0,
+		"oAP": "\/preview site backup\/img\/bg-church.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/preview site backup\/img\/bg-glass.png": {
+		"ft": 32768,
+		"iS": 262080,
+		"oA": 0,
+		"oAP": "\/preview site backup\/img\/bg-glass.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/preview site backup\/img\/bg-hc.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/preview site backup\/img\/bg-hc.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/preview site backup\/img\/bg-hometop.jpg": {
+		"ft": 16384,
+		"iS": 66240,
+		"oA": 0,
+		"oAP": "\/preview site backup\/img\/bg-hometop.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/img\/bg-window.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/preview site backup\/img\/bg-window.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/preview site backup\/img\/favicon.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/preview site backup\/img\/favicon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/preview site backup\/img\/map.jpg": {
+		"ft": 16384,
+		"iS": 113760,
+		"oA": 0,
+		"oAP": "\/preview site backup\/img\/map.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/img\/newssheetfront.jpg": {
+		"ft": 16384,
+		"iS": 30240,
+		"oA": 0,
+		"oAP": "\/preview site backup\/img\/newssheetfront.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/preview site backup\/img\/newssheetinside.jpg": {
+		"ft": 16384,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/preview site backup\/img\/newssheetinside.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/preview site backup\/img\/seba.png": {
+		"ft": 32768,
+		"iS": 32362,
+		"oA": 0,
+		"oAP": "\/preview site backup\/img\/seba.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/preview site backup\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/newssheet.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/newssheet.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/addons\/plugins\/editors\/.gitkeep": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/addons\/plugins\/editors\/.gitkeep",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/addons\/templates\/filters.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/addons\/templates\/filters.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/config\/apps.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/config\/apps.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/config\/buckets.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/config\/buckets.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/config\/config.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/config\/config.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/config\/config.production.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/config\/config.production.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/config\/feathers.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/config\/feathers.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/config\/filetypes.ini": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/config\/filetypes.ini",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/account\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/account\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/account\/modes\/_subnav.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/preview site backup\/perch\/core\/account\/modes\/_subnav.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/account\/modes\/edit.post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/account\/modes\/edit.post.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/account\/modes\/edit.pre.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/account\/modes\/edit.pre.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/assets\/admin.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/assets\/admin.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/assets\/async\/asset-filter\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/assets\/async\/asset-filter\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/assets\/async\/get-assets\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/assets\/async\/get-assets\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/assets\/async\/search\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/assets\/async\/search\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/assets\/async\/tags\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/assets\/async\/tags\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/assets\/delete\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/assets\/delete\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/assets\/edit\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/assets\/edit\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/assets\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/assets\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/assets\/modes\/_asset_grid.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/assets\/modes\/_asset_grid.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/assets\/modes\/_asset_list.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/assets\/modes\/_asset_list.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/assets\/modes\/_smart_bar.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/assets\/modes\/_smart_bar.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/assets\/modes\/_subnav.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/assets\/modes\/_subnav.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/assets\/modes\/_upload_progress.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/assets\/modes\/_upload_progress.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/assets\/modes\/delete.post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/assets\/modes\/delete.post.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/assets\/modes\/delete.pre.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/assets\/modes\/delete.pre.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/assets\/modes\/edit.post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/assets\/modes\/edit.post.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/assets\/modes\/edit.pre.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/assets\/modes\/edit.pre.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/assets\/modes\/list.post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/assets\/modes\/list.post.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/assets\/modes\/list.pre.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/assets\/modes\/list.pre.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/assets\/modes\/reindex.post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/assets\/modes\/reindex.post.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/assets\/modes\/reindex.pre.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/assets\/modes\/reindex.pre.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/assets\/modes\/tags.delete.post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/assets\/modes\/tags.delete.post.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/assets\/modes\/tags.delete.pre.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/assets\/modes\/tags.delete.pre.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/assets\/modes\/tags.edit.post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/assets\/modes\/tags.edit.post.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/assets\/modes\/tags.edit.pre.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/assets\/modes\/tags.edit.pre.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/assets\/modes\/tags.post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/assets\/modes\/tags.post.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/assets\/modes\/tags.pre.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/assets\/modes\/tags.pre.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/assets\/modes\/upload.post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/assets\/modes\/upload.post.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/assets\/modes\/upload.pre.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/assets\/modes\/upload.pre.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/assets\/PerchAssets_Asset.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/assets\/PerchAssets_Asset.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/assets\/PerchAssets_Assets.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/assets\/PerchAssets_Assets.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/assets\/PerchAssets_Display.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/assets\/PerchAssets_Display.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/assets\/PerchAssets_Importer.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/assets\/PerchAssets_Importer.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/assets\/PerchAssets_MetaData.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/assets\/PerchAssets_MetaData.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/assets\/PerchAssets_SearchHandler.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/assets\/PerchAssets_SearchHandler.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/assets\/PerchAssets_ShortcodeProvider.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/assets\/PerchAssets_ShortcodeProvider.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/assets\/PerchAssets_Tag.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/assets\/PerchAssets_Tag.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/assets\/PerchAssets_Tags.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/assets\/PerchAssets_Tags.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/assets\/reindex\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/assets\/reindex\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/assets\/runtime.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/assets\/runtime.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/assets\/tags\/delete\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/assets\/tags\/delete\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/assets\/tags\/edit\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/assets\/tags\/edit\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/assets\/tags\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/assets\/tags\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/assets\/upload\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/assets\/upload\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/categories\/admin.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/categories\/admin.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/categories\/delete\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/categories\/delete\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/categories\/delete\/set\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/categories\/delete\/set\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/categories\/edit\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/categories\/edit\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/categories\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/categories\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/categories\/modes\/_subnav.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/categories\/modes\/_subnav.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/categories\/modes\/cats.delete.post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/categories\/modes\/cats.delete.post.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/categories\/modes\/cats.delete.pre.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/categories\/modes\/cats.delete.pre.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/categories\/modes\/cats.edit.post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/categories\/modes\/cats.edit.post.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/categories\/modes\/cats.edit.pre.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/categories\/modes\/cats.edit.pre.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/categories\/modes\/cats.list.post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/categories\/modes\/cats.list.post.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/categories\/modes\/cats.list.pre.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/categories\/modes\/cats.list.pre.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/categories\/modes\/cats.reorder.post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/categories\/modes\/cats.reorder.post.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/categories\/modes\/cats.reorder.pre.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/categories\/modes\/cats.reorder.pre.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/categories\/modes\/sets.delete.post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/categories\/modes\/sets.delete.post.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/categories\/modes\/sets.delete.pre.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/categories\/modes\/sets.delete.pre.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/categories\/modes\/sets.edit.post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/categories\/modes\/sets.edit.post.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/categories\/modes\/sets.edit.pre.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/categories\/modes\/sets.edit.pre.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/categories\/modes\/sets.list.post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/categories\/modes\/sets.list.post.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/categories\/modes\/sets.list.pre.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/categories\/modes\/sets.list.pre.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/categories\/PerchCategories_Categories.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/categories\/PerchCategories_Categories.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/categories\/PerchCategories_Category.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/categories\/PerchCategories_Category.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/categories\/PerchCategories_Set.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/categories\/PerchCategories_Set.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/categories\/PerchCategories_Sets.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/categories\/PerchCategories_Sets.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/categories\/reorder\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/categories\/reorder\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/categories\/runtime.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/categories\/runtime.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/categories\/sets\/delete\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/categories\/sets\/delete\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/categories\/sets\/edit\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/categories\/sets\/edit\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/categories\/sets\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/categories\/sets\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/admin.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/admin.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/async\/preview.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/async\/preview.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/collections\/edit\/block\/add\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/collections\/edit\/block\/add\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/collections\/edit\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/collections\/edit\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/collections\/edit\/options\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/collections\/edit\/options\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/collections\/import\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/collections\/import\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/collections\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/collections\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/collections\/options\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/collections\/options\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/dashboard.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/dashboard.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/delete\/collection\/item\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/delete\/collection\/item\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/delete\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/delete\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/delete\/item\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/delete\/item\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/edit\/block\/add\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/edit\/block\/add\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/edit\/denied\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/edit\/denied\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/edit\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/edit\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/manage\/collections\/delete\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/manage\/collections\/delete\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/manage\/collections\/edit\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/manage\/collections\/edit\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/manage\/collections\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/manage\/collections\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/modes\/_subnav.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/modes\/_subnav.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/modes\/block.async.add.post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/modes\/block.async.add.post.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/modes\/block.async.add.pre.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/modes\/block.async.add.pre.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/modes\/delete.post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/modes\/delete.post.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/modes\/delete.pre.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/modes\/delete.pre.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/modes\/edit.denied.post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/modes\/edit.denied.post.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/modes\/edit.denied.pre.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/modes\/edit.denied.pre.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/modes\/edit.form.post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/modes\/edit.form.post.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/modes\/edit.form.pre.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/modes\/edit.form.pre.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/modes\/edit.post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/modes\/edit.post.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/modes\/edit.pre.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/modes\/edit.pre.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/modes\/list.post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/modes\/list.post.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/modes\/list.pre.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/modes\/list.pre.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/modes\/nav.delete.post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/modes\/nav.delete.post.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/modes\/nav.delete.pre.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/modes\/nav.delete.pre.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/modes\/nav.edit.post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/modes\/nav.edit.post.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/modes\/nav.edit.pre.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/modes\/nav.edit.pre.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/modes\/nav.list.post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/modes\/nav.list.post.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/modes\/nav.list.pre.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/modes\/nav.list.pre.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/modes\/nav.pages.post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/modes\/nav.pages.post.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/modes\/nav.pages.pre.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/modes\/nav.pages.pre.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/modes\/nav.reorder.post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/modes\/nav.reorder.post.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/modes\/nav.reorder.pre.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/modes\/nav.reorder.pre.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/modes\/page.add.post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/modes\/page.add.post.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/modes\/page.add.pre.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/modes\/page.add.pre.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/modes\/page.delete.post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/modes\/page.delete.post.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/modes\/page.delete.pre.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/modes\/page.delete.pre.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/modes\/page.details.post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/modes\/page.details.post.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/modes\/page.details.pre.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/modes\/page.details.pre.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/modes\/page.edit.post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/modes\/page.edit.post.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/modes\/page.edit.pre.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/modes\/page.edit.pre.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/modes\/page.post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/modes\/page.post.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/modes\/page.pre.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/modes\/page.pre.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/modes\/page.reorder.post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/modes\/page.reorder.post.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/modes\/page.reorder.pre.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/modes\/page.reorder.pre.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/modes\/page.republish.post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/modes\/page.republish.post.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/modes\/page.republish.pre.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/modes\/page.republish.pre.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/modes\/page.url.post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/modes\/page.url.post.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/modes\/page.url.pre.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/modes\/page.url.pre.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/modes\/region.define.post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/modes\/region.define.post.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/modes\/region.define.pre.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/modes\/region.define.pre.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/modes\/region.delete.post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/modes\/region.delete.post.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/modes\/region.delete.pre.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/modes\/region.delete.pre.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/modes\/region.itemlist.post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/modes\/region.itemlist.post.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/modes\/region.itemlist.pre.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/modes\/region.itemlist.pre.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/modes\/region.options.post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/modes\/region.options.post.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/modes\/region.options.pre.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/modes\/region.options.pre.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/modes\/region.reorder.post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/modes\/region.reorder.post.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/modes\/region.reorder.pre.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/modes\/region.reorder.pre.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/modes\/template.delete.post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/modes\/template.delete.post.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/modes\/template.delete.pre.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/modes\/template.delete.pre.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/modes\/template.edit.post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/modes\/template.edit.post.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/modes\/template.edit.pre.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/modes\/template.edit.pre.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/modes\/template.list.post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/modes\/template.list.post.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/modes\/template.list.pre.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/modes\/template.list.pre.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/navigation\/delete\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/navigation\/delete\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/navigation\/edit\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/navigation\/edit\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/navigation\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/navigation\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/navigation\/pages\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/navigation\/pages\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/navigation\/reorder\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/navigation\/reorder\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/options\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/options\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/page\/add\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/page\/add\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/page\/delete\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/page\/delete\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/page\/details\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/page\/details\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/page\/edit\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/page\/edit\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/page\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/page\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/page\/templates\/delete\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/page\/templates\/delete\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/page\/templates\/edit\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/page\/templates\/edit\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/page\/templates\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/page\/templates\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/page\/url\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/page\/url\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/PerchContent.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/PerchContent.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/PerchContent_Item.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/PerchContent_Item.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/PerchContent_Items.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/PerchContent_Items.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/PerchContent_NavGroup.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/PerchContent_NavGroup.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/PerchContent_NavGroups.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/PerchContent_NavGroups.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/PerchContent_Page.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/PerchContent_Page.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/PerchContent_Pages.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/PerchContent_Pages.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/PerchContent_PageTemplate.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/PerchContent_PageTemplate.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/PerchContent_PageTemplates.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/PerchContent_PageTemplates.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/PerchContent_Region.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/PerchContent_Region.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/PerchContent_Regions.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/PerchContent_Regions.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/PerchContent_SearchHandler.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/PerchContent_SearchHandler.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/PerchContent_Util.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/PerchContent_Util.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/reorder\/collection\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/reorder\/collection\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/reorder\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/reorder\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/reorder\/region\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/reorder\/region\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/republish\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/republish\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/revisions\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/revisions\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/revisions\/revert\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/revisions\/revert\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/routes\/delete\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/routes\/delete\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/routes\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/routes\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/routes\/reorder\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/routes\/reorder\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/apps\/content\/runtime.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/apps\/content\/runtime.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/assets\/css\/debug.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/core\/assets\/css\/debug-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/preview site backup\/perch\/core\/assets\/css\/ie9.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/core\/assets\/css\/ie9-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/preview site backup\/perch\/core\/assets\/css\/jquery.tagsinput.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/core\/assets\/css\/jquery.tagsinput-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/preview site backup\/perch\/core\/assets\/css\/styles.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/core\/assets\/css\/styles-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/preview site backup\/perch\/core\/assets\/img\/burd.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/core\/assets\/img\/burd.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/core\/assets\/img\/chosen-sprite.png": {
+		"ft": 32768,
+		"iS": 520,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/core\/assets\/img\/chosen-sprite.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/core\/assets\/img\/chosen-sprite@2x.png": {
+		"ft": 32768,
+		"iS": 690,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/core\/assets\/img\/chosen-sprite@2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/core\/assets\/img\/favicon.ico": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/assets\/img\/favicon.ico",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/assets\/img\/logo.png": {
+		"ft": 32768,
+		"iS": 7723,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/core\/assets\/img\/logo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/core\/assets\/img\/perch.png": {
+		"ft": 32768,
+		"iS": 441,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/core\/assets\/img\/perch.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/core\/assets\/js\/maps-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/core\/assets\/js\/maps-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/preview site backup\/perch\/core\/assets\/js\/maps.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/core\/assets\/js\/maps-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/preview site backup\/perch\/core\/assets\/js\/public_helper-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/core\/assets\/js\/public_helper-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/preview site backup\/perch\/core\/assets\/js\/public_helper.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/core\/assets\/js\/public_helper-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/preview site backup\/perch\/core\/assets\/js\/public_maps.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/core\/assets\/js\/public_maps-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/preview site backup\/perch\/core\/assets\/js\/public_maps.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/core\/assets\/js\/public_maps.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/preview site backup\/perch\/core\/assets\/js\/setup.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/core\/assets\/js\/setup-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/preview site backup\/perch\/core\/assets\/js\/static\/1.1.8255e4c4a367cfa3e2bd.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/core\/assets\/js\/static\/1.1.8255e4c4a367cfa3e2bd-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/preview site backup\/perch\/core\/assets\/js\/static\/10.10.8255e4c4a367cfa3e2bd.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/core\/assets\/js\/static\/10.10.8255e4c4a367cfa3e2bd-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/preview site backup\/perch\/core\/assets\/js\/static\/11.11.8255e4c4a367cfa3e2bd.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/core\/assets\/js\/static\/11.11.8255e4c4a367cfa3e2bd-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/preview site backup\/perch\/core\/assets\/js\/static\/12.12.8255e4c4a367cfa3e2bd.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/core\/assets\/js\/static\/12.12.8255e4c4a367cfa3e2bd-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/preview site backup\/perch\/core\/assets\/js\/static\/13.13.8255e4c4a367cfa3e2bd.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/core\/assets\/js\/static\/13.13.8255e4c4a367cfa3e2bd-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/preview site backup\/perch\/core\/assets\/js\/static\/14.14.8255e4c4a367cfa3e2bd.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/core\/assets\/js\/static\/14.14.8255e4c4a367cfa3e2bd-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/preview site backup\/perch\/core\/assets\/js\/static\/2.2.8255e4c4a367cfa3e2bd.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/core\/assets\/js\/static\/2.2.8255e4c4a367cfa3e2bd-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/preview site backup\/perch\/core\/assets\/js\/static\/3.3.8255e4c4a367cfa3e2bd.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/core\/assets\/js\/static\/3.3.8255e4c4a367cfa3e2bd-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/preview site backup\/perch\/core\/assets\/js\/static\/4.4.8255e4c4a367cfa3e2bd.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/core\/assets\/js\/static\/4.4.8255e4c4a367cfa3e2bd-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/preview site backup\/perch\/core\/assets\/js\/static\/5.5.8255e4c4a367cfa3e2bd.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/core\/assets\/js\/static\/5.5.8255e4c4a367cfa3e2bd-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/preview site backup\/perch\/core\/assets\/js\/static\/6.6.8255e4c4a367cfa3e2bd.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/core\/assets\/js\/static\/6.6.8255e4c4a367cfa3e2bd-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/preview site backup\/perch\/core\/assets\/js\/static\/7.7.8255e4c4a367cfa3e2bd.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/core\/assets\/js\/static\/7.7.8255e4c4a367cfa3e2bd-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/preview site backup\/perch\/core\/assets\/js\/static\/8.8.8255e4c4a367cfa3e2bd.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/core\/assets\/js\/static\/8.8.8255e4c4a367cfa3e2bd-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/preview site backup\/perch\/core\/assets\/js\/static\/9.9.8255e4c4a367cfa3e2bd.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/core\/assets\/js\/static\/9.9.8255e4c4a367cfa3e2bd-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/preview site backup\/perch\/core\/assets\/js\/static\/app.8255e4c4a367cfa3e2bd.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/core\/assets\/js\/static\/app.8255e4c4a367cfa3e2bd-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/preview site backup\/perch\/core\/assets\/js\/static\/vendor.8255e4c4a367cfa3e2bd.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/core\/assets\/js\/static\/vendor.8255e4c4a367cfa3e2bd-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/preview site backup\/perch\/core\/assets\/js\/templates\/asset-badge.hbs": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/assets\/js\/templates\/asset-badge.hbs",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/assets\/js\/templates\/asset-chooser.hbs": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/assets\/js\/templates\/asset-chooser.hbs",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/assets\/js\/templates\/asset-grid.hbs": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/assets\/js\/templates\/asset-grid.hbs",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/assets\/js\/templates\/asset-list.hbs": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/assets\/js\/templates\/asset-list.hbs",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/assets\/js\/templates\/dialog-confirm.hbs": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/assets\/js\/templates\/dialog-confirm.hbs",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/assets\/js\/templates\/dialog-search.hbs": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/assets\/js\/templates\/dialog-search.hbs",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/assets\/js\/templates\/icon.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/core\/assets\/js\/templates\/icon-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/preview site backup\/perch\/core\/assets\/js\/templates\/Lang.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/core\/assets\/js\/templates\/Lang-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/preview site backup\/perch\/core\/assets\/js\/version.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/assets\/js\/version.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/assets\/svg\/assets.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/assets\/svg\/assets.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/preview site backup\/perch\/core\/assets\/svg\/blocks.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/assets\/svg\/blocks.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/preview site backup\/perch\/core\/assets\/svg\/burd.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/assets\/svg\/burd.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/preview site backup\/perch\/core\/assets\/svg\/core.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/assets\/svg\/core.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/preview site backup\/perch\/core\/assets\/svg\/ext.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/assets\/svg\/ext.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/preview site backup\/perch\/core\/assets\/svg\/pilotbadge.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/assets\/svg\/pilotbadge.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/preview site backup\/perch\/core\/assets\/svg\/pilotbadge_wh.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/assets\/svg\/pilotbadge_wh.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/preview site backup\/perch\/core\/async\/urlify.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/async\/urlify.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/dashboard\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/dashboard\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/dashboard\/modes\/_subnav.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/preview site backup\/perch\/core\/dashboard\/modes\/_subnav.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/dashboard\/modes\/dash.post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/dashboard\/modes\/dash.post.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/dashboard\/modes\/dash.pre.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/dashboard\/modes\/dash.pre.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/data\/mime.types": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/data\/mime.types",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/data\/tables\/categories.sql": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/data\/tables\/categories.sql",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/data\/tables\/category_counts.sql": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/data\/tables\/category_counts.sql",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/data\/tables\/category_sets.sql": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/data\/tables\/category_sets.sql",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/data\/tables\/content_index.sql": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/data\/tables\/content_index.sql",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/data\/tables\/content_items.sql": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/data\/tables\/content_items.sql",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/data\/tables\/content_regions.sql": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/data\/tables\/content_regions.sql",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/data\/tables\/menu_items.sql": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/data\/tables\/menu_items.sql",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/data\/tables\/navigation.sql": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/data\/tables\/navigation.sql",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/data\/tables\/navigation_pages.sql": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/data\/tables\/navigation_pages.sql",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/data\/tables\/page_templates.sql": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/data\/tables\/page_templates.sql",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/data\/tables\/pages.sql": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/data\/tables\/pages.sql",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/data\/tables\/resource_log.sql": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/data\/tables\/resource_log.sql",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/data\/tables\/resource_tags.sql": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/data\/tables\/resource_tags.sql",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/data\/tables\/resources.sql": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/data\/tables\/resources.sql",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/data\/tables\/resources_to_tags.sql": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/data\/tables\/resources_to_tags.sql",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/data\/tables\/scheduled_tasks.sql": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/data\/tables\/scheduled_tasks.sql",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/data\/tables\/settings.sql": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/data\/tables\/settings.sql",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/data\/tables\/user_passwords.sql": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/data\/tables\/user_passwords.sql",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/data\/tables\/user_privileges.sql": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/data\/tables\/user_privileges.sql",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/data\/tables\/user_role_privileges.sql": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/data\/tables\/user_role_privileges.sql",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/data\/tables\/user_roles.sql": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/data\/tables\/user_roles.sql",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/data\/tables\/users.sql": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/data\/tables\/users.sql",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/editors\/markitup\/_config.inc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/preview site backup\/perch\/core\/editors\/markitup\/_config.inc",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/editors\/markitup\/_config.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/preview site backup\/perch\/core\/editors\/markitup\/_config-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/preview site backup\/perch\/core\/editors\/markitup\/assets\/perchassets.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/core\/editors\/markitup\/assets\/perchassets-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/preview site backup\/perch\/core\/editors\/markitup\/config.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/core\/editors\/markitup\/config-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/preview site backup\/perch\/core\/editors\/markitup\/css\/markitup.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/core\/editors\/markitup\/css\/markitup.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/preview site backup\/perch\/core\/editors\/markitup\/fonts\/fontawesome-webfont.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/editors\/markitup\/fonts\/fontawesome-webfont.eot",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/editors\/markitup\/fonts\/fontawesome-webfont.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/editors\/markitup\/fonts\/fontawesome-webfont.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/preview site backup\/perch\/core\/editors\/markitup\/fonts\/fontawesome-webfont.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/editors\/markitup\/fonts\/fontawesome-webfont.ttf",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/editors\/markitup\/fonts\/fontawesome-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/editors\/markitup\/fonts\/fontawesome-webfont.woff",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/editors\/markitup\/fonts\/fontawesome-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/editors\/markitup\/fonts\/fontawesome-webfont.woff2",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/editors\/markitup\/fonts\/FontAwesome.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/editors\/markitup\/fonts\/FontAwesome.otf",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/editors\/markitup\/image_upload\/image_upload.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/editors\/markitup\/image_upload\/image_upload.html",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/editors\/markitup\/image_upload\/image_upload.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/core\/editors\/markitup\/image_upload\/image_upload-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/preview site backup\/perch\/core\/editors\/markitup\/image_upload\/image_upload.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/editors\/markitup\/image_upload\/image_upload.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/editors\/markitup\/image_upload\/loader.gif": {
+		"ft": 4194304,
+		"iS": 1605,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/core\/editors\/markitup\/image_upload\/loader.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/preview site backup\/perch\/core\/editors\/markitup\/jquery.markitup.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/core\/editors\/markitup\/jquery.markitup-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/preview site backup\/perch\/core\/editors\/redactor\/_config.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/preview site backup\/perch\/core\/editors\/redactor\/_config-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/preview site backup\/perch\/core\/editors\/redactor\/perch\/config.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/core\/editors\/redactor\/perch\/config-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/preview site backup\/perch\/core\/editors\/redactor\/perch\/edit.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/core\/editors\/redactor\/perch\/edit-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/preview site backup\/perch\/core\/editors\/redactor\/perch\/upload.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/editors\/redactor\/perch\/upload.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/editors\/redactor\/redactor.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/core\/editors\/redactor\/redactor.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/preview site backup\/perch\/core\/editors\/redactor\/redactor.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/core\/editors\/redactor\/redactor.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/preview site backup\/perch\/core\/editors\/redactor2\/_config.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/preview site backup\/perch\/core\/editors\/redactor2\/_config-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/preview site backup\/perch\/core\/editors\/redactor2\/perch\/config.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/core\/editors\/redactor2\/perch\/config-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/preview site backup\/perch\/core\/editors\/redactor2\/perch\/edit.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/core\/editors\/redactor2\/perch\/edit-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/preview site backup\/perch\/core\/editors\/redactor2\/perch\/upload.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/editors\/redactor2\/perch\/upload.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/editors\/redactor2\/redactor.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/core\/editors\/redactor2\/redactor.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/preview site backup\/perch\/core\/editors\/redactor2\/redactor.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/core\/editors\/redactor2\/redactor.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/preview site backup\/perch\/core\/editors\/simplemde\/_config.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/preview site backup\/perch\/core\/editors\/simplemde\/_config-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/preview site backup\/perch\/core\/editors\/simplemde\/LICENSE": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/editors\/simplemde\/LICENSE",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/editors\/simplemde\/perch\/config.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/core\/editors\/simplemde\/perch\/config-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/preview site backup\/perch\/core\/editors\/simplemde\/perch\/edit.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/core\/editors\/simplemde\/perch\/edit-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/preview site backup\/perch\/core\/editors\/simplemde\/perch\/font\/LICENSE.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/editors\/simplemde\/perch\/font\/LICENSE.txt",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/editors\/simplemde\/perch\/font\/perch_simplemde.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/editors\/simplemde\/perch\/font\/perch_simplemde.eot",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/editors\/simplemde\/perch\/font\/perch_simplemde.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/editors\/simplemde\/perch\/font\/perch_simplemde.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/preview site backup\/perch\/core\/editors\/simplemde\/perch\/font\/perch_simplemde.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/editors\/simplemde\/perch\/font\/perch_simplemde.ttf",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/editors\/simplemde\/perch\/font\/perch_simplemde.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/editors\/simplemde\/perch\/font\/perch_simplemde.woff",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/editors\/simplemde\/perch\/font\/perch_simplemde.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/editors\/simplemde\/perch\/font\/perch_simplemde.woff2",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/editors\/simplemde\/simplemde.min-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/core\/editors\/simplemde\/simplemde.min-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/preview site backup\/perch\/core\/editors\/simplemde\/simplemde.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/core\/editors\/simplemde\/simplemde.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/preview site backup\/perch\/core\/editors\/simplemde\/simplemde.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/core\/editors\/simplemde\/simplemde.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/preview site backup\/perch\/core\/emails\/account-lockout.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/emails\/account-lockout.html",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/emails\/password-recover.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/emails\/password-recover.html",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/emails\/password-reset.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/emails\/password-reset.html",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/emails\/README.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/emails\/README.txt",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/emails\/settings-test.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/emails\/settings-test.html",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/emails\/user-welcome-token.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/emails\/user-welcome-token.html",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/emails\/user-welcome.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/emails\/user-welcome.html",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/error\/db.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/error\/db.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/help\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/help\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/help\/markdown\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/help\/markdown\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/help\/modes\/_subnav.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/preview site backup\/perch\/core\/help\/modes\/_subnav.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/help\/modes\/help.post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/help\/modes\/help.post.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/help\/modes\/help.pre.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/help\/modes\/help.pre.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/help\/modes\/markdown.post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/help\/modes\/markdown.post.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/help\/modes\/markdown.pre.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/help\/modes\/markdown.pre.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/help\/modes\/textile.post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/help\/modes\/textile.post.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/help\/modes\/textile.pre.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/help\/modes\/textile.pre.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/help\/textile\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/help\/textile\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/inc\/api.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/inc\/api.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/inc\/apps.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/inc\/apps.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/inc\/auth.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/inc\/auth.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/inc\/auth_light.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/inc\/auth_light.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/inc\/btm.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/inc\/btm.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/inc\/feathers.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/inc\/feathers.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/inc\/forms.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/inc\/forms.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/inc\/js_lang.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/inc\/js_lang.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/inc\/js_privs.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/inc\/js_privs.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/inc\/keepalive.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/inc\/keepalive.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/inc\/loader.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/inc\/loader.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/inc\/main_end.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/inc\/main_end.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/inc\/main_start.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/inc\/main_start.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/inc\/pre_config.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/inc\/pre_config.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/inc\/sidebar_end.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/inc\/sidebar_end.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/inc\/sidebar_start.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/inc\/sidebar_start.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/inc\/top.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/inc\/top.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lang\/en-gb.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lang\/en-gb.txt",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/api\/PerchAPI.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/api\/PerchAPI.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/api\/PerchAPI_AssetImporter.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/api\/PerchAPI_AssetImporter.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/api\/PerchAPI_AuthPlugin.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/api\/PerchAPI_AuthPlugin.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/api\/PerchAPI_Base.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/api\/PerchAPI_Base.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/api\/PerchAPI_CategoryImporter.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/api\/PerchAPI_CategoryImporter.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/api\/PerchAPI_CollectionImporter.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/api\/PerchAPI_CollectionImporter.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/api\/PerchAPI_ContentCollection.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/api\/PerchAPI_ContentCollection.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/api\/PerchAPI_ContentCollections.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/api\/PerchAPI_ContentCollections.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/api\/PerchAPI_ContentImporter.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/api\/PerchAPI_ContentImporter.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/api\/PerchAPI_ContentRegion.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/api\/PerchAPI_ContentRegion.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/api\/PerchAPI_ContentRegions.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/api\/PerchAPI_ContentRegions.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/api\/PerchAPI_Email.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/api\/PerchAPI_Email.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/api\/PerchAPI_Factory.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/api\/PerchAPI_Factory.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/api\/PerchAPI_FieldType.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/api\/PerchAPI_FieldType.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/api\/PerchAPI_Form.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/api\/PerchAPI_Form.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/api\/PerchAPI_HeadlessAPI.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/api\/PerchAPI_HeadlessAPI.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/api\/PerchAPI_HeadlessFactory.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/api\/PerchAPI_HeadlessFactory.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/api\/PerchAPI_HTML.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/api\/PerchAPI_HTML.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/api\/PerchAPI_HTTPClient.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/api\/PerchAPI_HTTPClient.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/api\/PerchAPI_Image.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/api\/PerchAPI_Image.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/api\/PerchAPI_Lang.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/api\/PerchAPI_Lang.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/api\/PerchAPI_Paging.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/api\/PerchAPI_Paging.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/api\/PerchAPI_Resources.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/api\/PerchAPI_Resources.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/api\/PerchAPI_SearchHandler.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/api\/PerchAPI_SearchHandler.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/api\/PerchAPI_Settings.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/api\/PerchAPI_Settings.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/api\/PerchAPI_SubmittedForm.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/api\/PerchAPI_SubmittedForm.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/api\/PerchAPI_Template.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/api\/PerchAPI_Template.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/api\/PerchAPI_TemplateHandler.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/api\/PerchAPI_TemplateHandler.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/api\/PerchAPI_Text.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/api\/PerchAPI_Text.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/api\/PerchAPI_UserPrivileges.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/api\/PerchAPI_UserPrivileges.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/ParsedownExtra.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/ParsedownExtra.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/PasswordHash.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/PasswordHash.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/Perch.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/Perch.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/PerchAdmin.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/PerchAdmin.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/PerchAdminListing.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/PerchAdminListing.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/PerchAlert.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/PerchAlert.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/PerchApp.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/PerchApp.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/PerchAssetFile.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/PerchAssetFile.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/PerchAuthenticatedUser.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/PerchAuthenticatedUser.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/PerchBase.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/PerchBase.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/PerchDB.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/PerchDB.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/PerchDB_MySQL.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/PerchDB_MySQL.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/PerchDB_MySQLi.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/PerchDB_MySQLi.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/PerchEmail.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/PerchEmail.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/PerchFactory.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/PerchFactory.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/PerchFeather.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/PerchFeather.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/PerchFieldType.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/PerchFieldType.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/PerchFieldTypes.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/PerchFieldTypes.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/PerchForm.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/PerchForm.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/PerchHeadlessResponse.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/PerchHeadlessResponse.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/PerchHeadlessSet.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/PerchHeadlessSet.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/PerchImage.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/PerchImage.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/PerchLang.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/PerchLang.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/PerchLogicString.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/PerchLogicString.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/PerchMenu.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/PerchMenu.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/PerchMenuItem.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/PerchMenuItem.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/PerchMenuItems.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/PerchMenuItems.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/PerchPaging.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/PerchPaging.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/PerchParsedown.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/PerchParsedown.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/PerchQuery.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/PerchQuery.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/PerchRepeater.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/PerchRepeater.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/PerchRequest.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/PerchRequest.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/PerchResource.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/PerchResource.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/PerchResourceBucket.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/PerchResourceBucket.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/PerchResourceBuckets.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/PerchResourceBuckets.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/PerchResources.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/PerchResources.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/PerchScheduledTask.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/PerchScheduledTask.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/PerchScheduledTasks.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/PerchScheduledTasks.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/PerchSession.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/PerchSession.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/PerchSetting.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/PerchSetting.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/PerchSettings.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/PerchSettings.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/PerchShortcode.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/PerchShortcode.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/PerchShortcode_Parser.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/PerchShortcode_Parser.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/PerchShortcode_Provider.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/PerchShortcode_Provider.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/PerchSmartbar.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/PerchSmartbar.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/PerchSystem.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/PerchSystem.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/PerchSystemEvent.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/PerchSystemEvent.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/PerchSystemEventSubject.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/PerchSystemEventSubject.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/PerchTemplate.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/PerchTemplate.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/PerchTemplatedForm.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/PerchTemplatedForm.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/PerchTemplateFilter.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/PerchTemplateFilter.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/PerchTemplateValidator.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/PerchTemplateValidator.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/PerchUI.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/PerchUI.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/PerchURL.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/PerchURL.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/PerchUser.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/PerchUser.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/PerchUserPrivilege.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/PerchUserPrivilege.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/PerchUserPrivileges.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/PerchUserPrivileges.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/PerchUserRole.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/PerchUserRole.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/PerchUserRoles.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/PerchUserRoles.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/PerchUsers.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/PerchUsers.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/PerchUtil.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/PerchUtil.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/PerchXMLTag.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/PerchXMLTag.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/PHPMailer.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/PHPMailer.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/SmartyPants.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/SmartyPants.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/Textile.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/Textile.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/vendor\/autoload.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/vendor\/autoload.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/vendor\/composer\/autoload_classmap.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/vendor\/composer\/autoload_classmap.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/vendor\/composer\/autoload_namespaces.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/vendor\/composer\/autoload_namespaces.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/vendor\/composer\/autoload_psr4.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/vendor\/composer\/autoload_psr4.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/vendor\/composer\/autoload_real.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/vendor\/composer\/autoload_real.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/vendor\/composer\/autoload_static.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/vendor\/composer\/autoload_static.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/vendor\/composer\/ClassLoader.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/vendor\/composer\/ClassLoader.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/vendor\/composer\/installed.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/vendor\/composer\/installed-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/preview site backup\/perch\/core\/lib\/vendor\/composer\/LICENSE": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/vendor\/composer\/LICENSE",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/vendor\/drewm\/morse\/.gitignore": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/vendor\/drewm\/morse\/.gitignore",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/vendor\/drewm\/morse\/.scrutinizer.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/vendor\/drewm\/morse\/.scrutinizer.yml",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/vendor\/drewm\/morse\/.travis.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/vendor\/drewm\/morse\/.travis.yml",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/vendor\/drewm\/morse\/src\/Feature.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/vendor\/drewm\/morse\/src\/Feature.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/vendor\/drewm\/morse\/src\/Feature\/Cache.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/vendor\/drewm\/morse\/src\/Feature\/Cache.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/vendor\/drewm\/morse\/src\/Feature\/Crypto.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/vendor\/drewm\/morse\/src\/Feature\/Crypto.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/vendor\/drewm\/morse\/src\/Feature\/Data.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/vendor\/drewm\/morse\/src\/Feature\/Data.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/vendor\/drewm\/morse\/src\/Feature\/Db.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/vendor\/drewm\/morse\/src\/Feature\/Db.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/vendor\/drewm\/morse\/src\/Feature\/File.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/vendor\/drewm\/morse\/src\/Feature\/File.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/vendor\/drewm\/morse\/src\/Feature\/Http.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/vendor\/drewm\/morse\/src\/Feature\/Http.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/vendor\/drewm\/morse\/src\/Feature\/Image.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/vendor\/drewm\/morse\/src\/Feature\/Image.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/vendor\/drewm\/morse\/src\/Feature\/Number.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/vendor\/drewm\/morse\/src\/Feature\/Number.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/vendor\/drewm\/morse\/src\/Feature\/Protocol.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/vendor\/drewm\/morse\/src\/Feature\/Protocol.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/vendor\/drewm\/morse\/src\/Feature\/System.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/vendor\/drewm\/morse\/src\/Feature\/System.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/vendor\/drewm\/morse\/src\/Feature\/Text.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/vendor\/drewm\/morse\/src\/Feature\/Text.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/vendor\/drewm\/morse\/src\/Morse.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/vendor\/drewm\/morse\/src\/Morse.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/vendor\/drewm\/selecta\/.gitignore": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/vendor\/drewm\/selecta\/.gitignore",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/vendor\/drewm\/selecta\/.scrutinizer.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/vendor\/drewm\/selecta\/.scrutinizer.yml",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/vendor\/drewm\/selecta\/.travis.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/vendor\/drewm\/selecta\/.travis.yml",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/lib\/vendor\/drewm\/selecta\/src\/Selecta.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/lib\/vendor\/drewm\/selecta\/src\/Selecta.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/license.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/license.txt",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/reset\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/reset\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/runtime\/core.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/runtime\/core.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/runtime\/loader.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/runtime\/loader.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/runtime\/runtime.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/runtime\/runtime.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/scheduled\/run.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/scheduled\/run.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/settings\/backup\/delete\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/settings\/backup\/delete\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/settings\/backup\/edit\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/settings\/backup\/edit\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/settings\/backup\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/settings\/backup\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/settings\/backup\/restore\/general\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/settings\/backup\/restore\/general\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/settings\/backup\/restore\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/settings\/backup\/restore\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/settings\/diagnostics\/add-ons\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/settings\/diagnostics\/add-ons\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/settings\/diagnostics\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/settings\/diagnostics\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/settings\/email\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/settings\/email\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/settings\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/settings\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/settings\/menu\/delete\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/settings\/menu\/delete\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/settings\/menu\/edit\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/settings\/menu\/edit\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/settings\/menu\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/settings\/menu\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/settings\/menu\/items\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/settings\/menu\/items\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/settings\/menu\/reorder\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/settings\/menu\/reorder\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/settings\/menu\/section\/edit\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/settings\/menu\/section\/edit\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/settings\/modes\/_app_settings.post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/preview site backup\/perch\/core\/settings\/modes\/_app_settings.post.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/settings\/modes\/_app_settings.pre.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/preview site backup\/perch\/core\/settings\/modes\/_app_settings.pre.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/settings\/modes\/_subnav.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/preview site backup\/perch\/core\/settings\/modes\/_subnav.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/settings\/modes\/addons.post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/settings\/modes\/addons.post.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/settings\/modes\/addons.pre.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/settings\/modes\/addons.pre.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/settings\/modes\/basic.post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/settings\/modes\/basic.post.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/settings\/modes\/basic.pre.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/settings\/modes\/basic.pre.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/settings\/modes\/diagnostics.extended.post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/settings\/modes\/diagnostics.extended.post.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/settings\/modes\/diagnostics.extended.pre.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/settings\/modes\/diagnostics.extended.pre.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/settings\/modes\/diagnostics.post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/settings\/modes\/diagnostics.post.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/settings\/modes\/diagnostics.pre.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/settings\/modes\/diagnostics.pre.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/settings\/modes\/email.post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/settings\/modes\/email.post.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/settings\/modes\/email.pre.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/settings\/modes\/email.pre.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/settings\/modes\/tasks.post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/settings\/modes\/tasks.post.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/settings\/modes\/tasks.pre.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/settings\/modes\/tasks.pre.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/settings\/modes\/update.post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/settings\/modes\/update.post.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/settings\/modes\/update.pre.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/settings\/modes\/update.pre.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/settings\/tasks\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/settings\/tasks\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/settings\/update\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/settings\/update\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/setup\/runway\/runway.sample.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/setup\/runway\/runway.sample.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/templates\/layout\/btm.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/templates\/layout\/btm.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/templates\/layout\/sidebar.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/templates\/layout\/sidebar.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/templates\/layout\/top.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/templates\/layout\/top.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/templates\/layout\/topbar.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/templates\/layout\/topbar.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/templates\/login\/btm.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/templates\/login\/btm.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/templates\/login\/login.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/templates\/login\/login.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/templates\/login\/top.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/templates\/login\/top.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/templates\/search\/search-result.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/templates\/search\/search-result.html",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/templates\/setup\/btm.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/templates\/setup\/btm.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/templates\/setup\/top.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/templates\/setup\/top.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/templates\/update\/btm.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/templates\/update\/btm.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/templates\/update\/top.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/templates\/update\/top.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/update\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/update\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/update\/scripts\/2.1.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/update\/scripts\/2.1.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/update\/scripts\/2.5.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/update\/scripts\/2.5.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/update\/scripts\/2.7.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/update\/scripts\/2.7.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/update\/scripts\/3.0.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/update\/scripts\/3.0.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/users\/add\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/users\/add\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/users\/delete\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/users\/delete\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/users\/edit\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/users\/edit\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/users\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/users\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/users\/modes\/_subnav.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/preview site backup\/perch\/core\/users\/modes\/_subnav.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/users\/modes\/add.post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/users\/modes\/add.post.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/users\/modes\/add.pre.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/users\/modes\/add.pre.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/users\/modes\/delete.post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/users\/modes\/delete.post.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/users\/modes\/delete.pre.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/users\/modes\/delete.pre.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/users\/modes\/edit.post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/users\/modes\/edit.post.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/users\/modes\/edit.pre.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/users\/modes\/edit.pre.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/users\/modes\/list.post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/users\/modes\/list.post.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/users\/modes\/list.pre.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/users\/modes\/list.pre.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/users\/modes\/roles.actions.post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/users\/modes\/roles.actions.post.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/users\/modes\/roles.actions.pre.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/users\/modes\/roles.actions.pre.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/users\/modes\/roles.buckets.post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/users\/modes\/roles.buckets.post.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/users\/modes\/roles.buckets.pre.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/users\/modes\/roles.buckets.pre.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/users\/modes\/roles.delete.post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/users\/modes\/roles.delete.post.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/users\/modes\/roles.delete.pre.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/users\/modes\/roles.delete.pre.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/users\/modes\/roles.edit.post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/users\/modes\/roles.edit.post.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/users\/modes\/roles.edit.pre.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/users\/modes\/roles.edit.pre.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/users\/modes\/roles.list.post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/users\/modes\/roles.list.post.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/users\/modes\/roles.list.pre.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/users\/modes\/roles.list.pre.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/users\/roles\/actions\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/users\/roles\/actions\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/users\/roles\/buckets\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/users\/roles\/buckets\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/users\/roles\/delete\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/users\/roles\/delete\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/users\/roles\/edit\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/users\/roles\/edit\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/core\/users\/roles\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/core\/users\/roles\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/resources\/bg-hometop-thumb@2x.jpg": {
+		"ft": 16384,
+		"iS": 16552,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/bg-hometop-thumb@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/bg-hometop.jpg": {
+		"ft": 16384,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/bg-hometop.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/bg-window-thumb@2x.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/bg-window-thumb@2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/bg-window.png": {
+		"ft": 32768,
+		"iS": 217440,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/bg-window.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2014013-thumb@2x.jpg": {
+		"ft": 16384,
+		"iS": 14400,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2014013-thumb@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2014013.jpg": {
+		"ft": 16384,
+		"iS": 253176,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2014013.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2016001-1-thumb@2x.jpg": {
+		"ft": 16384,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2016001-1-thumb@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2016001-1.jpg": {
+		"ft": 16384,
+		"iS": 102240,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2016001-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2016001-thumb@2x.jpg": {
+		"ft": 16384,
+		"iS": 33700,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2016001-thumb@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2016001.jpg": {
+		"ft": 16384,
+		"iS": 371520,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2016001.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2016002-1-thumb@2x.jpg": {
+		"ft": 16384,
+		"iS": 29930,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2016002-1-thumb@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2016002-1.jpg": {
+		"ft": 16384,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2016002-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2016002-thumb@2x.jpg": {
+		"ft": 16384,
+		"iS": 29957,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2016002-thumb@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2016002.jpg": {
+		"ft": 16384,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2016002.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2016003-1-thumb@2x.jpg": {
+		"ft": 16384,
+		"iS": 14400,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2016003-1-thumb@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2016003-1.jpg": {
+		"ft": 16384,
+		"iS": 221760,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2016003-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2016003-thumb@2x.jpg": {
+		"ft": 16384,
+		"iS": 29887,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2016003-thumb@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2016003.jpg": {
+		"ft": 16384,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2016003.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2017001-thumb@2x.jpg": {
+		"ft": 16384,
+		"iS": 23575,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2017001-thumb@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2017001.jpg": {
+		"ft": 16384,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2017001.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2017002-thumb@2x.jpg": {
+		"ft": 16384,
+		"iS": 23539,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2017002-thumb@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2017002.jpg": {
+		"ft": 16384,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2017002.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2017003-thumb@2x.jpg": {
+		"ft": 16384,
+		"iS": 24513,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2017003-thumb@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2017003.jpg": {
+		"ft": 16384,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2017003.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2017004-thumb@2x.jpg": {
+		"ft": 16384,
+		"iS": 27293,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2017004-thumb@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2017004.jpg": {
+		"ft": 16384,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2017004.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2017005-thumb@2x.jpg": {
+		"ft": 16384,
+		"iS": 25325,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2017005-thumb@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2017005.jpg": {
+		"ft": 16384,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2017005.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2017006-thumb@2x.jpg": {
+		"ft": 16384,
+		"iS": 23776,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2017006-thumb@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2017006.jpg": {
+		"ft": 16384,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2017006.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2017007-thumb@2x.jpg": {
+		"ft": 16384,
+		"iS": 28091,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2017007-thumb@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2017007.jpg": {
+		"ft": 16384,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2017007.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2017008-thumb@2x.jpg": {
+		"ft": 16384,
+		"iS": 14400,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2017008-thumb@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2017008.jpg": {
+		"ft": 16384,
+		"iS": 184823,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2017008.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2017009-thumb@2x.jpg": {
+		"ft": 16384,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2017009-thumb@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2017009.jpg": {
+		"ft": 16384,
+		"iS": 216690,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2017009.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2017010-thumb@2x.jpg": {
+		"ft": 16384,
+		"iS": 14400,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2017010-thumb@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2017010.jpg": {
+		"ft": 16384,
+		"iS": 155520,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2017010.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2017011-thumb@2x.jpg": {
+		"ft": 16384,
+		"iS": 24255,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2017011-thumb@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2017011.jpg": {
+		"ft": 16384,
+		"iS": 60480,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2017011.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2017012-thumb@2x.jpg": {
+		"ft": 16384,
+		"iS": 34728,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2017012-thumb@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2017012.jpg": {
+		"ft": 16384,
+		"iS": 207029,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2017012.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2017013-thumb@2x.jpg": {
+		"ft": 16384,
+		"iS": 14400,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2017013-thumb@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2017013.jpg": {
+		"ft": 16384,
+		"iS": 148320,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2017013.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2017014-thumb@2x.jpg": {
+		"ft": 16384,
+		"iS": 30914,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2017014-thumb@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2017014.jpg": {
+		"ft": 16384,
+		"iS": 12960,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2017014.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2017015-thumb@2x.jpg": {
+		"ft": 16384,
+		"iS": 29859,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2017015-thumb@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2017015.jpg": {
+		"ft": 16384,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2017015.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2017016-thumb@2x.jpg": {
+		"ft": 16384,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2017016-thumb@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2017016.jpg": {
+		"ft": 16384,
+		"iS": 221760,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2017016.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2017017-thumb@2x.jpg": {
+		"ft": 16384,
+		"iS": 29989,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2017017-thumb@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2017017.jpg": {
+		"ft": 16384,
+		"iS": 67680,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2017017.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2017018-thumb@2x.jpg": {
+		"ft": 16384,
+		"iS": 30349,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2017018-thumb@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2017018.jpg": {
+		"ft": 16384,
+		"iS": 31680,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2017018.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2017019-thumb@2x.jpg": {
+		"ft": 16384,
+		"iS": 31700,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2017019-thumb@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2017019.jpg": {
+		"ft": 16384,
+		"iS": 18720,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2017019.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2017020-thumb@2x.jpg": {
+		"ft": 16384,
+		"iS": 31497,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2017020-thumb@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2017020.jpg": {
+		"ft": 16384,
+		"iS": 105120,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2017020.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2017021-thumb@2x.jpg": {
+		"ft": 16384,
+		"iS": 30248,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2017021-thumb@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2017021.jpg": {
+		"ft": 16384,
+		"iS": 59040,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2017021.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2017022-thumb@2x.jpg": {
+		"ft": 16384,
+		"iS": 30267,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2017022-thumb@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2017022.jpg": {
+		"ft": 16384,
+		"iS": 151986,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2017022.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2017023-thumb@2x.jpg": {
+		"ft": 16384,
+		"iS": 29093,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2017023-thumb@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2017023.jpg": {
+		"ft": 16384,
+		"iS": 141493,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2017023.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2017024-thumb@2x.jpg": {
+		"ft": 16384,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2017024-thumb@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2017024.jpg": {
+		"ft": 16384,
+		"iS": 140777,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2017024.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2017025-thumb@2x.jpg": {
+		"ft": 16384,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2017025-thumb@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2017025.jpg": {
+		"ft": 16384,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2017025.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2017026-thumb@2x.jpg": {
+		"ft": 16384,
+		"iS": 32222,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2017026-thumb@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2017026.jpg": {
+		"ft": 16384,
+		"iS": 18720,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2017026.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2017027-thumb@2x.jpg": {
+		"ft": 16384,
+		"iS": 27053,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2017027-thumb@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2017027.jpg": {
+		"ft": 16384,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2017027.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2017028-thumb@2x.jpg": {
+		"ft": 16384,
+		"iS": 25784,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2017028-thumb@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2017028.jpg": {
+		"ft": 16384,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2017028.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2017029-thumb@2x.jpg": {
+		"ft": 16384,
+		"iS": 32443,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2017029-thumb@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/hc2017029.jpg": {
+		"ft": 16384,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/hc2017029.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/holidayclub2017register.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/resources\/holidayclub2017register.pdf",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/resources\/img2908-thumb@2x.jpg": {
+		"ft": 16384,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/img2908-thumb@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/img2908.jpg": {
+		"ft": 16384,
+		"iS": 93600,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/img2908.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/map-thumb@2x.jpg": {
+		"ft": 16384,
+		"iS": 21751,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/map-thumb@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/map.jpg": {
+		"ft": 16384,
+		"iS": 95040,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/map.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/newssheetfront-thumb@2x.jpg": {
+		"ft": 16384,
+		"iS": 32184,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/newssheetfront-thumb@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/newssheetfront.jpg": {
+		"ft": 16384,
+		"iS": 119520,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/newssheetfront.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/newssheetinside-thumb@2x.jpg": {
+		"ft": 16384,
+		"iS": 34424,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/newssheetinside-thumb@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/resources\/newssheetinside.jpg": {
+		"ft": 16384,
+		"iS": 260640,
+		"oA": 0,
+		"oAP": "\/preview site backup\/perch\/resources\/newssheetinside.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/preview site backup\/perch\/runtime.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/runtime.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/setup\/account\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/setup\/account\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/setup\/config\/host.sample.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/setup\/config\/host.sample.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/setup\/config\/perch.sample.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/setup\/config\/perch.sample.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/setup\/config\/runway.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/setup\/config\/runway.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/setup\/config\/runway.sample.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/setup\/config\/runway.sample.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/setup\/database\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/setup\/database\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/setup\/done\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/setup\/done\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/setup\/env.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/setup\/env.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/setup\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/setup\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/setup\/license\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/setup\/license\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/setup\/PerchSetup_Installation.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/setup\/PerchSetup_Installation.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/setup\/PerchSetup_Installations.class.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/setup\/PerchSetup_Installations.class.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/setup\/rewrites\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/setup\/rewrites\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/setup\/server\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/setup\/server\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/setup\/sql\/perch.sql": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/setup\/sql\/perch.sql",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/setup\/sql\/runway.sql": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/setup\/sql\/runway.sql",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/setup\/user\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/setup\/user\/index.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/templates\/categories\/category.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/templates\/categories\/category.html",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/templates\/categories\/set.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/templates\/categories\/set.html",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/templates\/content\/article-blurb-titles.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/templates\/content\/article-blurb-titles.html",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/templates\/content\/article-blurb.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/templates\/content\/article-blurb.html",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/templates\/content\/article.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/templates\/content\/article.html",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/templates\/content\/code_block.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/templates\/content\/code_block.html",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/templates\/content\/custom_carrousel.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/templates\/content\/custom_carrousel.html",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/templates\/content\/custom_club_blurb.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/templates\/content\/custom_club_blurb.html",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/templates\/content\/custom_club_form.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/templates\/content\/custom_club_form.html",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/templates\/content\/custom_club_photos.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/templates\/content\/custom_club_photos.html",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/templates\/content\/custom_club_photos_archive.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/templates\/content\/custom_club_photos_archive.html",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/templates\/content\/custom_contact.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/templates\/content\/custom_contact.html",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/templates\/content\/custom_contact_map.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/templates\/content\/custom_contact_map.html",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/templates\/content\/custom_diary_coming.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/templates\/content\/custom_diary_coming.html",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/templates\/content\/custom_diary_table.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/templates\/content\/custom_diary_table.html",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/templates\/content\/custom_disabled_list.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/templates\/content\/custom_disabled_list.html",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/templates\/content\/custom_newssheet.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/templates\/content\/custom_newssheet.html",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/templates\/content\/file.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/templates\/content\/file.html",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/templates\/content\/google_analytics.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/templates\/content\/google_analytics.html",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/templates\/content\/image.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/templates\/content\/image.html",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/templates\/content\/map.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/templates\/content\/map.html",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/templates\/content\/section-events-right.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/templates\/content\/section-events-right.html",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/templates\/content\/text.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/templates\/content\/text.html",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/templates\/content\/text_block.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/templates\/content\/text_block.html",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/templates\/content\/text_block_home_intro.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/templates\/content\/text_block_home_intro.html",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/templates\/content\/text_block_home_news.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/templates\/content\/text_block_home_news.html",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/templates\/navigation\/breadcrumbs.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/templates\/navigation\/breadcrumbs.html",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/templates\/navigation\/item.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/templates\/navigation\/item.html",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/templates\/pages\/attributes\/default.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/templates\/pages\/attributes\/default.html",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/templates\/pages\/attributes\/seo.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/templates\/pages\/attributes\/seo.html",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/templates\/pages\/default.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/templates\/pages\/default.php",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/templates\/pagination\/default.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/templates\/pagination\/default.html",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/templates\/pagination\/page-links.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/templates\/pagination\/page-links.html",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/templates\/search\/search-form.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/templates\/search\/search-form.html",
+		"oF": 0
+		},
+	"\/preview site backup\/perch\/templates\/search\/search-result.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/perch\/templates\/search\/search-result.html",
+		"oF": 0
+		},
+	"\/preview site backup\/sitemap.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/sitemap.php",
+		"oF": 0
+		},
+	"\/preview site backup\/slick\/ajax-loader.gif": {
+		"ft": 4194304,
+		"iS": 4178,
+		"oA": 0,
+		"oAP": "\/preview site backup\/slick\/ajax-loader.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/preview site backup\/slick\/config.rb": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/slick\/config.rb",
+		"oF": 0
+		},
+	"\/preview site backup\/slick\/fonts\/slick.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/slick\/fonts\/slick.eot",
+		"oF": 0
+		},
+	"\/preview site backup\/slick\/fonts\/slick.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/preview site backup\/slick\/fonts\/slick.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/preview site backup\/slick\/fonts\/slick.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/slick\/fonts\/slick.ttf",
+		"oF": 0
+		},
+	"\/preview site backup\/slick\/fonts\/slick.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/slick\/fonts\/slick.woff",
+		"oF": 0
+		},
+	"\/preview site backup\/slick\/init.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/preview site backup\/slick\/init-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/preview site backup\/slick\/slick-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/preview site backup\/slick\/slick-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/preview site backup\/slick\/slick-theme.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/preview site backup\/slick\/slick-theme-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/preview site backup\/slick\/slick-theme.less": {
+		"aP": 0,
+		"bl": 0,
+		"dJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "\/preview site backup\/slick\/slick-theme.css",
+		"oF": 0,
+		"oS": 0,
+		"rU": 0,
+		"sI": 0,
+		"sM": 0,
+		"sU": 0
+		},
+	"\/preview site backup\/slick\/slick-theme.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/preview site backup\/slick\/slick-theme.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/preview site backup\/slick\/slick.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/preview site backup\/slick\/slick-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/preview site backup\/slick\/slick.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/preview site backup\/slick\/slick.css.map",
+		"oF": 0
+		},
+	"\/preview site backup\/slick\/slick.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/preview site backup\/slick\/slick-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/preview site backup\/slick\/slick.less": {
+		"aP": 0,
+		"bl": 0,
+		"dJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "\/preview site backup\/slick\/slick.css",
+		"oF": 0,
+		"oS": 0,
+		"rU": 0,
+		"sI": 0,
+		"sM": 0,
+		"sU": 0
+		},
+	"\/preview site backup\/slick\/slick.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/preview site backup\/slick\/slick.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/preview site backup\/slick\/slick.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/preview site backup\/slick\/slick.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/sitemap.kit": {
 		"cB": 0,
 		"ft": 2048,

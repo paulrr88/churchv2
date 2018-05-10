@@ -1,0 +1,1 @@
+CMSHelper=function(){document.addEventListener("keydown",function(e){69==e.keyCode&&e.ctrlKey&&(e.preventDefault(),window.open(cms_path,"cmsedit"))},!1)}();

@@ -1,0 +1,678 @@
+/* N.B. Everything up here is >1100px max-width, see breaks.css for other breakpoints */
+
+/* Hashtags
+#test - any test stuff that needs removing later
+#weird - any weird stuff I don't understand but don't have time to look up/doesn't matter
+*/
+
+
+/* -------------------------
+Basic element customisations - body, font faces, paragraph layout etc
+------------------------- */
+
+a {
+  color: #006a77;
+}
+a:hover {
+  color: #005660;
+}
+
+body {
+  background: #bee9fc;
+  font-family: "Trebuchet MS", sans-serif;
+}
+
+figure {
+  margin: 0;
+  padding: 0;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: "Alegreya Sans SC", sans-serif;
+  font-weight: bold;
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-size: 4rem;
+}
+h2 {
+  font-size: 3rem;
+}
+h3 {
+  font-size: 2.5rem;
+}
+h4 {
+  font-size: 2rem;
+}
+h5 {
+  font-size: 1.7rem;
+}
+h6 {
+  font-size: 1.5rem;
+}
+
+footer {
+    clear: both;
+    font-size: 1.6rem;
+    font-weight: bold;
+    line-height: 200%;
+    margin: 0 auto;
+    text-align: center;
+    width: 80%;
+}
+footer a:link {
+    color: #004f5c;
+}
+footer a:visited {
+    color: #004f5c;
+}
+footer ul {
+    margin: 0;
+    padding: 2rem 0 0 0;
+}
+footer ul li {
+    border-right: 0.3rem solid #004f5c;
+    display: inline-block;
+    margin: 0;
+    padding: 0 1rem 0 0.7rem;
+}
+footer ul li:first-child {
+    padding-left: 0;
+}
+footer ul li:last-child {
+    border-right: 0;
+    padding-right: 0;
+}
+
+img {
+  margin: 0;
+  padding: 0;
+}
+
+main { /*main content area for body text etc*/
+
+}
+
+nav { /*main navigation areas PLURAL so not just the top navigation area*/
+
+}
+
+ol {
+  margin: 1.5rem auto;
+  width: 60%;
+}
+
+ol li {
+  padding: 0.5rem 0;
+}
+
+p {
+  margin: 0;
+  padding: 1.5rem 1.5rem 0.25rem 1.5rem;
+}
+p:last-child {
+    padding-bottom: 1.5rem;
+}
+p:last-of-type {
+    padding-bottom: 1.5rem;
+}
+
+table {
+  font-size: 1.6rem;
+}
+
+ul {
+  margin: 0;
+  padding: 0 0 0 2rem;
+}
+
+ul li {
+  margin: 0;
+  padding: 0.5rem 0;
+}
+
+/* -------------------------
+IDs and classes
+------------------------- */
+
+#banner {
+    background: url(../img/bg-banner.jpg) 0% 0%/100%;
+}
+
+#content {
+  margin-top: 30px;
+}
+#content p {                                           /* better margins for text on desktop */
+  width: 70%;
+  margin: 0 auto;
+}
+
+/* Navigation IDs */
+
+#nav-main {
+    background: #fff;
+}
+#nav-main a {
+    color: #ff7800;
+    text-decoration: none;
+}
+#nav-main a:hover {
+    color: #db6700;
+}
+#nav-main ul {
+    padding: 0;
+    margin: 0 auto;
+    text-align: center;
+    width: 100%;
+}
+#nav-main ul li {
+    color: #ffa726;
+    display: inline-block;
+    *display: inline;                                       /* IE7 */
+        *zoom: 1;
+    font-family: "Alegreya Sans SC", sans-serif;
+    font-size: 3rem;
+    padding-left: 3rem;
+}
+#nav-main ul li:last-child {
+    padding-right: 3rem;
+}
+
+#sitemap {
+  font-size: 2.5rem;
+  margin: 20px auto;
+  text-align: center;
+  width: 50%;
+}
+
+#table {                                                  /* table on contacts page etc */
+  margin: 0 auto;
+  table-layout: fixed;
+  width: 75%;
+}
+#table td {
+  word-wrap: break-word;
+}
+#tableBig {                                               /* tables with more columns */
+  margin: 0 auto;
+  table-layout: fixed;
+  width: 90%;
+}
+
+#top {                                                    /* navigation links at top of each page */
+  color: #fff;
+  font-family: "Alegreya Sans SC", "Trebuchet MS", sans-serif;
+  font-size: 2.2rem;
+  text-align: right;
+    text-shadow: 0 0 5px #000;
+  width: 100%;                                            /* helps with centring navigation */
+}
+#top a:hover {
+  color: #fff;
+}
+#top a:link {
+  color: #fff;
+}
+#top a:visited {
+  color: #fff;
+}
+#top ul {
+  margin: 0 2em 0 0;        /*keeps space on right so it's not just against edge of viewport*/
+}
+
+#top ul li {
+  display: inline-block;                                /* wraps with viewport size */
+  margin-right: 20px;                                   /* spacing for list items when horizontal */
+  text-align:left;
+  *display:inline;/* IE7 */
+  *zoom:1;
+}
+#top ul li:last-child {
+  margin-right: 0;                                        /* prevents margin from throwing off last list item */
+}
+
+div a.nostyle {
+  color: #000;
+  text-decoration: none;
+}
+
+img.left {
+  float: left;
+}
+img.right {
+  float: right;
+}
+
+p.backtotop {
+  font-weight: bolder;
+  padding: 2em 0 2em 0;
+  text-align: center;
+}
+p.centre {
+  text-align: center;
+}
+
+table.styled { /*Used for diary items and coming weeks schedule*/
+    margin: 0 auto;
+    width: 80%;
+}
+    table.styled th {
+        background-color: #a3c8d9;
+        padding: 1rem;
+    }
+    table.styled tr:nth-child(even) {
+        background: #d1e6f0;
+    }
+    table.styled tr:nth-child(odd) {
+        background: #bfdfed;
+    }
+    table.styled td {
+        padding: 1rem;
+    }
+    tbody.tablecoming td {
+        text-align: center;
+    }
+    td.event {
+        text-align: center;
+        width: 20rem;
+    }
+    td.event-Bold {
+        font-size: 1.8rem;
+        font-weight: 900;
+    }
+    tr.tabletop {
+        border-bottom: 3px solid #000;
+    }
+    tr.tabletop th {
+        background: #ffa145;
+        border-right: 3px solid #c3670e;
+    }
+    tr.tabletop th:last-child {
+        border-right: 0;
+    }
+    
+
+ul.body {
+  padding-left: 0.5em;
+  margin: 0 auto;
+  width: 70%;
+}
+ul.contents {
+  list-style: none;
+  margin: 20px auto;
+  padding: 0.5em;
+  text-align: center;
+  width: 70%;
+}
+ul.contents li {
+  padding: 0;
+}
+ul.lesspadding {
+  padding-left: 3em;
+  width: 70%;
+}
+ul.nostyle {                                             /* removes styling from lists as needed */
+  list-style: none;
+  margin-left: 1.5rem;
+}
+
+
+/*Classes*/
+
+/*Background colours*/
+
+.background-blue {
+  background: #50a6cd;
+}
+
+.background-white75 {
+    /* Fallback for web browsers that don't support RGBa */
+    background-color: rgb(255, 255, 255);
+    
+    background-color: rgba(255, 255, 255, 0.75);
+}
+
+/*End background colours*/
+
+/*Page background images*/
+
+/*Using same trickery as the caroussel below except I'm not using <img>*/
+.bgimage {
+    overflow: hidden;
+}
+.bgimage-hc {
+    background: url(../img/bg-hc.png) 0 0/100% no-repeat;
+    min-height: 956px;
+    opacity: 0.7;
+    position: absolute;
+    width: 100%;
+    z-index: 0;
+}
+.bgimage-glass {
+    background: url(../img/bg-glass.png) 0 0/100% no-repeat;
+    min-height: 1500px;
+    opacity: 0.6;
+    position: absolute;
+    width: 100%;
+    z-index: 0;
+}
+.bgimage-window {
+    background: url(../img/bg-window.png) 0 0/100% no-repeat;
+    min-height: 1125px;
+    opacity: 0.6;
+    position: absolute;
+    width: 100%;
+    z-index: 0;
+}
+.bgoverlaid {
+    position: relative;
+    z-index: 1;
+}
+
+/*End of page background images*/
+
+.border-top-15-orange {
+    border-top: 15px solid #ff7043;
+}
+.border-top-15-green {
+    border-top: 15px solid #d4e157;
+}
+.border-1 {
+    border: 1rem solid blue;
+}
+
+.boxshadow-softextra6 {
+    box-shadow: 6px 6px 20px #444;
+}
+
+.centre {
+  text-align: center;
+}
+.clear {
+  clear: both;
+}
+
+/*Main Container*/
+.container {
+    box-shadow: 6px 6px 200px #888;
+    margin: 0 auto;
+    width: 80%;
+}
+/*End of Main Container*/
+
+figure.fluid-images-3 img {     /*figure area containing 3 images side by side*/
+  float: left; /*Lets them stack*/
+  max-width: 30.33%; /*-3% due to padding-left %*/
+  padding-left: 4.5%; /*Would be 3% but the fact that the first one has no padding-left means we add 1.5% (half of the padding that would have been on the first image)*/
+}
+figure.fluid-images-3 img:first-child {
+  padding-left: 0;
+}
+
+figure.fluid-images-hc img {     /*figure area containing 3 images side by side*/
+    /*float: left; had to remove as when you put a link in around images it ruins any margins etc for some reason */ /*Lets them stack*/
+    margin-left: 2%; /*this works for some reason, I can't use first-child as that removes all margins and padding between items somehow. Could have something to do with Perch, I have no idea.*/
+    max-width: 30.33%; /*-3% due to padding-left %*/
+    box-shadow: 0px 15px 40px #444;
+}
+
+.fluid-100 {
+  max-width: 100%;
+}
+.fluid-half {
+  max-width: 50%;
+}
+
+.hidden {
+    display: none;
+    visibility: hidden;
+}
+
+/*Top home area with picture of church etc and boxes*/
+.hometop {
+    background: url(../img/bg-hometop.jpg) 0% 0%/100% no-repeat;
+}
+.hometop-news {
+    border-top: 15px solid #fea626;
+}
+.hometop-news h2 {
+    color: #ff5400;
+}
+/*End of top home area*/
+/*Home carousel underneath the above*/
+.homecarousel {
+    border-top: 15px solid #ffa726;
+    min-height: 347px; /*Prevents box from collapsing to size of blurb text box too much; makes sure a good amount of background image shows*/
+    overflow: hidden; /*Helps background image effect below to work*/
+}
+.homecarousel-bg { /*Background image, manipulation of <img> to act as background so can edit in Perch - solution found via: https://stackoverflow.com/questions/28404760/use-img-tag-inside-a-div-as-the-divs-background-image-with-text-over*/
+    position: absolute;
+    z-index: 0;
+    width: 100%;
+}
+.homecarousel-box { /*Added to description text box to let it overlay the background image above*/
+    position: relative;
+    z-index: 1;
+}
+/*End of home carousel area*/
+
+.image { /*Exclusively for use with Perch MarkItUp editor, imageclasses attribute, can declare this with class="" inside of brackets of an added image markdown tag*/
+    box-shadow: 6px 6px 20px #444;
+    display: block;
+    margin: 4rem auto 4rem auto;
+    max-width: 75%;
+}
+.imagehc { /*Holiday Club logo version of the above*/
+    box-shadow: 6px 6px 20px #444;
+    display: block;
+    margin: 4rem auto 4rem auto;
+    max-width: 100%;
+}
+
+.inline {
+  display: inline;
+}
+.inline-block {
+  display: inline-block;
+}
+
+.left {
+  float: left;
+}
+
+.link-nostyle {
+    text-decoration: none;
+}
+
+.list-contents {
+    background: #fff;
+    border-top: 5px solid #ffa726;
+    box-shadow: 20px 15px 40px #444;
+    font-size: 2.5rem;
+    list-style: none;
+    margin: 2rem;
+    padding: 1.5rem 0 1.5rem 0;
+    text-align: center;
+}
+.list-contents li {
+    display: inline-block;
+    margin: 0;
+    padding: 0 2rem 0 0;
+}
+
+.margin-1 {
+    margin: 1rem;
+}
+.margin-1-left {
+    margin-left: 1rem;
+}
+.margin-1-right {
+    margin-right: 1rem;
+}
+.margin-1-top {
+    margin-top: 1rem;
+}
+.margin-2 {
+    margin: 2rem;
+}
+.margin-2-left {
+    margin-left: 2rem;
+}
+.margin-2-top {
+    margin-top: 2rem;
+}
+.margin-3-left {
+    margin-left: 3rem;
+}
+.margin-4-top {
+    margin-top: 4rem;
+}
+.margin-6-top {
+    margin-top: 6rem;
+}
+.margin-10-top {
+    margin-top: 10rem;
+}
+.margin-4 {
+    margin: 4rem;
+}
+.margin-centre {
+    margin: 0 auto;
+}
+
+/*Added p to this so if a paragraph, which I can't edit, is created by Perch, and is within a parent with these as a class, it removes margin and padding from that p child element*/
+
+.nomargin {
+    margin: 0;
+}
+.nomargin p {
+    margin: 0;
+}
+.nopadding {
+    padding: 0;
+}
+.nopadding p {
+    padding: 0;
+}
+
+.padding-1-body { /*Respects 1.5rem left padding on paragraph text so everything aligns properly*/
+    padding: 1rem 1rem 1rem 1.5rem;
+}
+
+.padding-1 {
+  padding: 1rem;
+}
+.padding-2 {
+  padding: 2rem;
+}
+.padding-3 {
+  padding: 3rem;
+}
+.padding-3-left {
+  padding-left: 3rem;
+}
+.padding-3-right {
+  padding-right: 3rem;
+}
+.padding-4 {
+  padding: 4rem;
+}
+.padding-4-left {
+  padding-left: 4rem;
+}
+.padding-4-right {
+  padding-right: 4rem;
+}
+
+.right {
+  float: right;
+}
+
+.small {
+  font-size: 1.5rem;
+}
+
+.spacer {  /* works with Skeleton to allow white space between vertically stacked divs */
+  float: left;
+  height: 3em;
+  width: 100%;
+}
+
+.th-notes {
+    width: 40%;
+}
+.th-time { /*For diary table so the time column doesn't overtake too much*/
+    width: 10%;
+}
+
+
+
+.textbig {
+    font-size: 7rem;
+}
+.textbig1-5 {
+    font-size: 8rem;
+}
+.textbig2 {
+    font-size: 9rem;
+}
+.textmid {
+    font-size: 1.75rem;
+}
+.textmid2 {
+    font-size: 2rem;
+}
+.textshadow-mid {
+    text-shadow: 4px 4px 8px #333;
+}
+.textshadow-soft {
+    text-shadow: 4px 4px 12px #666;
+}
+.textshadow-strong {
+    text-shadow: 4px 4px 9px #000;
+}
+.textpurple {
+    color: #7e57c2;
+}
+.textwhite {
+    color: #fff;
+}
+
+.wrap-text { /*Used to force an area to preserve white space, i.e. respect single line breaks*/
+    white-space: pre-wrap;
+}
+
+.vertical-top {
+  vertical-align: top;
+}
+
+/*YouTube embed responsive solution from https://coolestguidesontheplanet.com/videodrome/youtube/*/
+
+  .video-container {
+  	position:relative;
+  	padding-bottom:56.25%;
+  	padding-top:30px;
+  	height:0;
+  	overflow:hidden;
+  }
+  .video-container iframe, .video-container object, .video-container embed {
+  	position:absolute;
+  	top:0;
+  	left:0;
+  	width:100%;
+  	height:100%;
+  }
+
+.width-50 {
+  width: 50%;
+}
+
+.width-90 {
+  width: 90%;
+}
