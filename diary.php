@@ -78,7 +78,7 @@
 
             <main class="content textmid" role="main"><!--Container for ALL content, everything inside this-->
                 <article class="background-white75 border-top-15-orange boxshadow-softextra6 ten columns margin-6-top offset-by-one" role="article">
-                    <h1 class="centre padding-1">This Week's Diary</h1>
+                    <h1 class="centre padding-1">Our Diary </h1>
 
                     <?php perch_content('This week\'s diary'); ?>
 
